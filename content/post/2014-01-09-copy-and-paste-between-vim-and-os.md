@@ -31,12 +31,12 @@ looking for other ways out. The next approach was to use of custom bindings for 
 
 For this you was have to write:
 
-{% codeblock lang:bash %}
+``` bash
 # move x clipboard into tmux paste buffer
 bind C-p run "tmux set-buffer \"$(xclip -o)\"; tmux paste-buffer"
 # move tmux copy buffer into x clipboard
 bind C-y run "tmux save-buffer - | xclip -i"
-{% endcodeblock %}
+```
 
 in your `.tmux.conf`.
 
@@ -50,30 +50,30 @@ for system buffer. To work with it, Vim has two registers `*` and `+`
 
 One catch - Vim must be compiled with `+clipboard`. To check whether you have support for clipboard run:
 
-{% codeblock lang:bash %}
+``` bash
 $ vim --version | grep clipboard
-{% endcodeblock %}
+```
 
 The easiest way to fix this **for most Linux'es** is to install GVim (but continue to use its console version).
 
-{% codeblock lang:bash %}
+``` bash
 $ sudo apt-get install vim-gnome
-{% endcodeblock %}
+```
 
 **For MacOS** you can get Vim with `+clipboard` via Homebrew or download and install MacVim [here](http://code.google.com/p/macvim/downloads/list).
 
-{% codeblock lang:bash %}
+``` bash
 $ brew install vim
-{% endcodeblock %}
+```
 
 Look inside /Applications/MacVim.app/Contents/MacOS, and you’ll see that the app provides two binaries: MacVim, which launches the GUI, and Vim, which runs in the Terminal with the same feature set. Both versions include the `+clipboard` feature.
 
 The last thing left to do - something to get rid of the need to
 to type `"*p` and `"*y` prefixes. I don't want copy and paste between Vim and OS was some special occasion, I want everything to be transparent to the user. It turned out, you just need to add this line to your `.vimrc`:
 
-{% codeblock lang:vim %}
+``` vim
 set clipboard=unnamed " or unnamedplus if you have X11
-{% endcodeblock %}
+```
 
 Now all operations such as `yy`, `D`, and `p` work with the clipboard. No need to prefix them with `"*` or `"+`. Sounds like magic, right?!
 

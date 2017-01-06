@@ -24,9 +24,9 @@ feature/awesome-feature`? Если да и вы стремитесь к повы
 
 Сначала надо получить список наиболее часто используемых команд:
 
-{% codeblock lang:bash %}
+``` bash
 history | awk '{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/count*100 "% " a;}' | grep -v "./" | column -c3 -s " " -t | sort -nr | nl |  head -n10
-{% endcodeblock %}
+```
 
 `awk` сохраняет команду и количество ее вхождений в
 историю. Затем результат печатается, фильтруются скрипты вида
@@ -36,7 +36,7 @@ history | awk '{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/c
 
 Пример вывода:
 
-{% codeblock Output %}
+```
 13185  31.8532%   git
 21430  14.3014%   gst
 3706   7.301406071%   vim
@@ -47,17 +47,17 @@ history | awk '{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/c
 8232   2.32023%   g
 9197   1.9702%    ls
 10190  1.90019%   gc
-{% endcodeblock %}
+```
 
 Основываясь на выводе выше, можно сказать что я очень часто пользуюсь
 git, так что неплохо бы создать алиас для него и команд ниже.
 
-{% codeblock lang:bash %}
+``` bash
 alias g="git"
 alias v="vim"
 alias l="ls -al"
 alias c="git commit -m"
-{% endcodeblock %}
+```
 
 Мне очень нравятся однобуквенные алиасы. Хотя на многое их явно не
 хватит.
@@ -65,13 +65,13 @@ alias c="git commit -m"
 Также можно проанализировать только команды vagrant'а (subcommands) или любой
 другой программы слегка модифицировав предыдущий скрипт:
 
-{% codeblock lang:bash %}
+``` bash
 history|grep vagrant| awk '{CMD[$3]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/count*100 "% " a;}' | grep -v "./" | column -c3 -s " " -t | sort -nr | nl |  head -n10
-{% endcodeblock %}
+```
 
 Пример вывода:
 
-{% codeblock Output %}
+```
 1   193  23.9752%   ssh
 2   166  20.6211%   up
 3   98   12.1739%   halt
@@ -82,11 +82,11 @@ history|grep vagrant| awk '{CMD[$3]++;count++;}END { for (a in CMD)print CMD[a] 
 8   14   1.73913%   box
 9   9    1.11801%   solo
 10  8    0.993789%  -r
-{% endcodeblock %}
+```
 
 Для vagrant мы заведем такой набор:
 
-{% codeblock lang:bash %}
+``` bash
 alias v="vagrant"
 alias vst="vagrant status"
 alias vup="vagrant up"
@@ -94,7 +94,7 @@ alias vpr="vagrant provision"
 alias vhl="vagrant halt"
 alias vre="vagrant reload"
 alias vssh="vagrant ssh"
-{% endcodeblock %}
+```
 
 Если вы пользуетесь zsh, то рекомендую взглянуть на [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh), которая
 предлагает большое количесво плагинов с алиасами и автодополнением.

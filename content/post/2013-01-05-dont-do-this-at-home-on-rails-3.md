@@ -1,15 +1,11 @@
----
-tags:
-- ruby
-- ruby-on-rails
-- security
-- yaml
-comments: true
-date: 2013-01-05T00:00:00Z
-title: 'Don''t do this at home on Rails #3'
-slug: dont-do-this-at-home-on-rails-3
----
++++
+date = "2013-01-05T00:00:00Z"
+draft = false
+slug = "dont-do-this-at-home-on-rails-3"
+tags = ["ruby", "ruby-on-rails", "security", "yaml"]
+title = "Don't do this at home on Rails #3"
 
++++
 - Languages: Ruby
 - Difficulty: <span class="label label-success">Easy</span>
 
@@ -23,7 +19,7 @@ which smells not very good. Let's see what we can do about it.
 
 Let's take a closer look at two methods from the controller:
 
-{% codeblock lang:ruby %}
+``` ruby
 def show_with_fragments
   constant = get_constant_from_param
   if constant
@@ -48,7 +44,7 @@ def get_constant_from_param(type = nil)
     nil
   end
 end
-{% endcodeblock %}
+```
 
 So, what happens here?
 
@@ -63,7 +59,7 @@ But what if `type` will be "User". We will get access to all the attributes of t
 
 The first step is to limit `type` to the `TvShow` class descendants only.
 
-{% codeblock lang:ruby %}
+``` ruby
 def show_with_fragments
   constant = get_constant_from_param
   unless constant.is_a?(TvShow)
@@ -79,7 +75,7 @@ def show_with_fragments
     render :json => {}
   end
 end
-{% endcodeblock %}
+```
 
 The code above violates [OCP](http://en.wikipedia.org/wiki/Open/closed_principle)
 principe. Because we want to take advantage of polymorphism,
@@ -87,7 +83,7 @@ lets move the logic of getting the attributes of associated
 objects into the classes themselves (see `complete_attributes_json` method).
 This will allow us to remove all those ugly is_a? checks.
 
-{% codeblock lang:ruby %}
+``` ruby
 def show_with_fragments
   constant = get_constant_from_param
   unless constant.is_a?(TvShow)
@@ -100,7 +96,7 @@ def show_with_fragments
     render :json => {}
   end
 end
-{% endcodeblock %}
+```
 
 Looks better, right?
 
@@ -117,7 +113,7 @@ a document as a tree.
 
 For example, here is some common locale file `config/locales/en.yml`:
 
-{% codeblock lang:yaml %}
+``` yaml
 en:
   helpers:
     submit:
@@ -127,13 +123,13 @@ en:
       product_item:
         create: 'Create it'
         update: 'Save it'
-{% endcodeblock %}
+```
 
 What if we could define the translations for helpers `create` and `update`
 in one place, and then use them in other cases. Usually these translations
 rarely changes, so, in this case, this is just what we need.
 
-{% codeblock lang:yaml %}
+``` yaml
 en:
   helpers:
     submit:
@@ -143,7 +139,7 @@ en:
       product_item:
         create: *create
         update: *update
-{% endcodeblock %}
+```
 
 Here we have created two anchors and referred to them inside product_item
 through two links. Advantages: avoiding possible errors (define
@@ -152,7 +148,7 @@ to be changed, we wont spend much time to perform the appropriate changes.
 
 You can anchor not only tree nodes, but also the whole branches:
 
-{% codeblock lang:yaml %}
+``` yaml
 common: &COMMON
   adapter: postgresql
   encoding: unicode
@@ -163,7 +159,7 @@ development:
   database: db_name
   username: postgres
   password:
-{% endcodeblock %}
+```
 
 ### \#3 - Look for existing method before writing your own
 
@@ -177,7 +173,7 @@ advantages of using existing solutions (libraries). And I think, if you like
 it (you can not see any obstacles - performance, memory, that can stop you),
 it is better to use it.
 
-{% codeblock lang:ruby %}
+``` ruby
 def keys_to_symbols(data)
   res = {}
   data.each do |k, v|
@@ -185,7 +181,7 @@ def keys_to_symbols(data)
   end
   res
 end
-{% endcodeblock %}
+```
 
 I found this method in one controller. It takes the hash and symbolize all
 the keys. This functionality already implemented in the `active_support` gem,
