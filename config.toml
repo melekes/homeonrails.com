@@ -6,6 +6,7 @@ paginate            = 5
 pluralizeListTitles = false
 theme               = "casper"
 title               = "Home on Rails"
+canonifyurls        = true
 
 disqusshortname    = "homeonrails"
 
@@ -17,6 +18,12 @@ disqusshortname    = "homeonrails"
   name       = "Blog"
   url        = "/"
   weight     = -120
+
+[[menu.main]]
+  name = "About me"
+  weight = -110
+  identifier = "about"
+  url = "/about"
 
 [[menu.main]]
   name   = "Github repos"

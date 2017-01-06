@@ -6,8 +6,6 @@ noauthor = true
 share = false
 title = "About me"
 type = "page"
-[menu.main]
-weight = -119
 
 +++
 Hi! My name is Anton Kalyaev.
