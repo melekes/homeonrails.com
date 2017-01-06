@@ -9,4 +9,4 @@ COPY . /go/src/app
 
 EXPOSE 1313
 
-CMD ['hugo', 'server']
+CMD ['hugo', 'server', '--bind', '0.0.0.0']
