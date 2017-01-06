@@ -21,30 +21,37 @@ disqusshortname    = "homeonrails"
 
 [[menu.main]]
   name = "About me"
-  weight = -110
+  weight = -119
   identifier = "about"
   url = "/about"
 
 [[menu.main]]
-  name   = "Github repos"
+  name   = "Most popular posts"
   pre    = "<h3>Explore</h3>"
-  url    = "https://github.com/akalyaev"
+  url    = "/most-popular-posts"
   weight = 100
-
-[[menu.main]]
-  name   = "Twitter timeline"
-  url    = "https://twitter.com/AntonKalyaev"
-  weight = 101
 
 [[menu.main]]
   name   = "Talks"
   url    = "https://speakerdeck.com/akalyaev"
-  weight = 102
+  weight = 101
 
 [[menu.main]]
-  name   = "Work history"
-  url    = "http://www.linkedin.com/in/anton-kalyaev"
+  name   = "Github repos"
+  pre    = "<h3>Follow Me</h3>"
+  url    = "https://github.com/akalyaev"
   weight = 110
+
+[[menu.main]]
+  name   = "Twitter timeline"
+  url    = "https://twitter.com/AntonKalyaev"
+  weight = 111
+
+[[menu.main]]
+  name   = "LinkedIn"
+  pre    = "<h3>Contact Me</h3>"
+  url    = "http://www.linkedin.com/in/anton-kalyaev"
+  weight = 120
 
 [params]
   author                = "Anton Kalyaev"
