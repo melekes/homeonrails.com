@@ -1,6 +1,6 @@
 languageCode = "en-us"
 
-baseURL             = "http://homeonrails.com"
+baseURL             = "http://homeonrails.com/"
 copyright           = "All rights reserved - 2017"
 paginate            = 5
 pluralizeListTitles = false
