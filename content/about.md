@@ -16,6 +16,7 @@ I am an enthusiastic developer, who likes to grow every day in different areas
 of expertise and apply that knowledge in everyday life.
 
 My open source work is available on [GitHub](https://github.com/akalyaev/), my
-work history is on [LinkedIn](http://www.linkedin.com/in/anton-kalyaev), and my
-thoughts are on [Twitter](https://twitter.com/AntonKalyaev). You’re also
-welcome to say hello at <anton.kalyaev@gmail.com>!
+talks are on [Speaker Deck](https://speakerdeck.com/akalyaev), my work history
+is on [LinkedIn](http://www.linkedin.com/in/anton-kalyaev), and my thoughts are
+on [Twitter](https://twitter.com/AntonKalyaev). You’re also welcome to say
+hello at <anton.kalyaev@gmail.com>!
