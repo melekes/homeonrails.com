@@ -10,7 +10,7 @@ type = "page"
 +++
 Hi! My name is Anton Kalyaev.
 
-<img id="portrait" src="/images/pic.jpeg" alt="portrait"/>
+<img style="border-radius: 125px; width: 240px;" src="/images/pic.jpeg" alt="portrait"/>
 
 I am an enthusiastic developer, who likes to grow every day in different areas
 of expertise and apply that knowledge in everyday life.
