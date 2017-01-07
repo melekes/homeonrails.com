@@ -1,11 +1,11 @@
----
-tags: ["picks"]
-comments: true
-date: 2016-07-11T12:44:33Z
-title: June Picks
-slug: june-picks
----
++++
+date = "2016-07-11T12:44:33Z"
+draft = false
+slug = "june-picks"
+tags = ["picks"]
+title = "June Picks"
 
++++
 "Random picks from all over the Internet".
 
 <!--more-->

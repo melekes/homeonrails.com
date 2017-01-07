@@ -1,10 +1,11 @@
----
-tags: ["art"]
-date: 2016-07-11T12:16:47Z
-title: "Monthly Art #11"
-slug: monthly-art-number-11
----
++++
+date = "2016-07-11T12:16:47Z"
+draft = false
+slug = "monthly-art-number-11"
+tags = ["art"]
+title = "Monthly Art #11"
 
++++
 This is a monthly "newsletter", containing a list of what I enjoyed the most
 last month. Whether it was a full length movie, short film, music album or
 book or even painting.

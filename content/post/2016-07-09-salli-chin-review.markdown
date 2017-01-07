@@ -1,15 +1,12 @@
----
-tags:
-- workplace
-comments: true
-date: 2016-07-09T10:03:59Z
-title: Отзыв о стуле Salli Chin
-twitter_card:
-  image: http://homeonrails.com/images/posts/2016-07-09-salli-chin-review/salli1.jpg
-  type: summary_large_image
-slug: salli-chin-review
----
++++
+date = "2016-07-09T10:03:59Z"
+draft = false
+slug = "salli-chin-review"
+tags = ["workplace", "health"]
+title = "Отзыв о стуле Salli Chin"
+image = "images/posts/2016-07-09-salli-chin-review/salli1.jpg"
 
++++
 <img class="img-rounded" src="/images/posts/2016-07-09-salli-chin-review/salli1.jpg" alt="" width="100%" title=""/>
 
 <!--more-->
