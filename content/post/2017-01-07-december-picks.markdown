@@ -33,11 +33,6 @@ draft = false
 * [In 2017, learn *every* language](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.ib8fx7xzm)
   Do not have plans for 2017? How about learning *every* language :)
 
-* [Taming the Mammoth: Why You Should Stop Caring What Other People Think](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
-  You've probably been told that many times, but it won't hurt to read about
-  this problem again and you will find glorious pictures (as always with
-  waitbutwhy.com).
-
 ### Videos
 
 * [The Silver Bullet Syndrome by Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs)
