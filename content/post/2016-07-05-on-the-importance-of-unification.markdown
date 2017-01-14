@@ -1,15 +1,11 @@
----
-tags:
-- programming
-comments: true
-date: 2016-07-05T16:24:36Z
-title: On the importance of unification
-twitter_card:
-  image: http://homeonrails.com/images/posts/2016-07-05-on-the-importance-of-unification/hammer.png
-  type: summary_large_image
-slug: on-the-importance-of-unification
----
++++
+date = "2016-07-05T16:24:36Z"
+draft = false
+slug = "on-the-importance-of-unification"
+tags = ["programming"]
+title = "On the importance of unification"
 
++++
 Unification, for me, means having one way or instrument (not always the best)
 to deal with a problem. And, in some cases, it is crucial.
 
