@@ -14,7 +14,7 @@ I am grateful for the opportunity that FunBox has given me. But once a while you
 
 ## Me
 
-I’m primary interested in system programming (right now I’m writing a [hobby OS](https://github.com/akalyaev/OS-bitch) in Rust) and infrastructure.
+I’m primary interested in system programming (right now I’m writing a [hobby OS](https://github.com/melekes/OS-bitch) in Rust) and infrastructure.
 
 This may seem strange to somebody because I started my career as a web developer. However, as years went by, I’ve realized I'm enjoying system programming more (OS insides and tools, building SaaS, debugging and fixing complex bugs using Linux utilities like strace, iostat, tcpdump and others).
 
@@ -48,5 +48,5 @@ If you think I will be a good add to your team, **please contact me** via anton.
 Additional links:
 
 - [LinkedIn](http://www.linkedin.com/in/anton-kalyaev-a2617786)
-- [Github](https://github.com/akalyaev/)
-- [SpeakerDeck](https://speakerdeck.com/akalyaev)
+- [Github](https://github.com/melekes/)
+- [SpeakerDeck](https://speakerdeck.com/melekes)

@@ -31,7 +31,7 @@ Best motivational videos related to life (in general).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xkgbWGBmgN8" frameborder="0" allowfullscreen></iframe>
 
 You may also find interesting [videos, which were not listed
-here](https://gist.github.com/akalyaev/ac047081e479b4f4aeb6#life), but still
+here](https://gist.github.com/melekes/ac047081e479b4f4aeb6#life), but still
 are my favorite (some of them are quite long).
 
 [Prince Ea](/2016/11/prince-ea/) has something to add here too, but I don't

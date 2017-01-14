@@ -77,4 +77,4 @@ Example of using two last plugins (vim-visual-star-search and file-line):
 
 [![asciicast](https://asciinema.org/a/5szdg2zqk0tjg1eb81vjpdmci.png)](https://asciinema.org/a/5szdg2zqk0tjg1eb81vjpdmci?autoplay=1)
 
-Looking for more stuff? Check out [my dotfiles](https://github.com/akalyaev/dotfiles).
+Looking for more stuff? Check out [my dotfiles](https://github.com/melekes/dotfiles).

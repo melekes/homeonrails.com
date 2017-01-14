@@ -30,4 +30,4 @@ nnoremap <leader>ou :!echo `git url`/%?at=`git rev-parse HEAD`\#<C-R>=line('.')<
 
 **Step 3. Enjoy**
 
-My dotfiles: https://github.com/akalyaev/dotfiles
+My dotfiles: https://github.com/melekes/dotfiles

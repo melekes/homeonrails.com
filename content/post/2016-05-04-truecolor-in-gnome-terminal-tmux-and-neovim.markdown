@@ -126,4 +126,4 @@ Links:
 
 - https://chris.chowie.net/2015/04/19/True-colour-with-neovim-tmux-and-iterm2/
 
-My dotfiles: https://github.com/akalyaev/dotfiles
+My dotfiles: https://github.com/melekes/dotfiles

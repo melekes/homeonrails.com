@@ -11,7 +11,7 @@ slug: testing-http-client-in-java
 
 Не так давно, для одного из проектов, пришлось написать простенький HTTP клиент
 на Java. Он совсем простой и состоит буквально из одного метода -
-[Gist](https://gist.github.com/akalyaev/63b9084d3804f72be2d7#file-httpclient-java).
+[Gist](https://gist.github.com/melekes/63b9084d3804f72be2d7#file-httpclient-java).
 Поэтому я решил не использовать Apache's HTTPClient и другие библиотеки, вроде
 Unirest или Google HTTP Client. Хотя, если бы требовалось что-то посерьезнее,
 нежели простые HTTP запросы, рассмотрел бы другие варианты.
