@@ -53,6 +53,11 @@ disqusshortname    = "homeonrails"
   url    = "http://www.linkedin.com/in/anton-kalyaev"
   weight = 120
 
+[[menu.main]]
+  name = "Keybase (secure msg)"
+  url = "https://Keybase.io/melekes"
+  weight = 121
+
 [params]
   author                = "Anton Kalyaev"
   authorlocation        = "Ulyanovsk, Russia"
