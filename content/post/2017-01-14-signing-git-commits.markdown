@@ -11,13 +11,15 @@ title = "Подписываем git коммиты"
 возможны такие смешные поделки как
 [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else).
 Если же вы подписываете коммит своей подписью, то уверенности в том, что автор
-действительно ВЫ, прибавляется.
+действительно вы, прибавляется.
 
 Github в [апреле прошлого
 года](https://github.com/blog/2144-gpg-signature-verification) начал показывать
 зеленый бейджик когда коммит подписан. Вот как он выглядит:
 
 <img class="img-rounded" src="/images/posts/2017-01-14-signing-git-commits/github.png" alt="" title=""/>
+
+<!--more-->
 
 Создать подпись и настроить git очень просто. Итак, давайте сделаем это:
 
