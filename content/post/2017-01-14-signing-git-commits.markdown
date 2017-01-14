@@ -3,7 +3,7 @@ date = "2017-01-14T21:14:14+04:00"
 draft = false
 slug = "signing-git-commits"
 tags = ["git", "tutorials"]
-title = "Signing Git Commits"
+title = "Подписываем git коммиты"
 
 +++
 Решили у себя в команде, что будем подписывать коммиты и тэги. У git'а уже
@@ -75,7 +75,7 @@ git config --global tag.gpgsign true
 чтобы не вводить его каждый раз при подписи.
 
 Если вы пользователь Mac OS, то ставим [GPG Suite](https://gpgtools.org/),
-который интегрируется с Mac OS keychain.
+который интегрируется с Mac OS keychain. Переходим к шагу 4.
 
 Если пользуетесь Linux, то придется воспользоваться встроенным `gpg-agent`.
 
