@@ -50,7 +50,7 @@ disqusshortname    = "homeonrails"
 [[menu.main]]
   name   = "LinkedIn"
   pre    = "<h3>Contact Me</h3>"
-  url    = "http://www.linkedin.com/in/anton-kalyaev"
+  url    = "http://www.linkedin.com/in/melekes"
   weight = 120
 
 [[menu.main]]

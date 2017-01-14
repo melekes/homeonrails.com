@@ -16,7 +16,7 @@ image = "images/posts/2016-12-28-2016-results/unicorn.jpg"
 
 Итак, в 2016 я:
 
-- [x] поменял [работу](https://www.linkedin.com/in/anton-kalyaev)
+- [x] поменял [работу](https://www.linkedin.com/in/melekes)
 - [x] оформил ИП
 - [x] путешествовал по Китаю [один месяц](/2016/10/one-month-in-china/)
 - [x] начал учить новый язык (китайский)
