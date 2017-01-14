@@ -14,7 +14,7 @@ slug: why-should-i-write-why
 
 ```
 commit 210a1f2df795bf49bfdd08e50d22ba80bac141f1
-Author: Anton Kalyaev <anton.kalyaev@gmail.com>
+Author: Anton Kaliaev ...
 Date:   Mon Apr 14 13:20:06 2014 +0400
 
     raise NoSlidesError if no slides
@@ -44,7 +44,7 @@ Date:   Mon Apr 14 13:20:06 2014 +0400
 
 ```
 commit 210a1f2df795bf49bfdd08e50d22ba80bac141f1
-Author: Anton Kalyaev <anton.kalyaev@gmail.com>
+Author: Anton Kaliaev ...
 Date:   Mon Apr 14 13:20:06 2014 +0400
 
     raise NoSlidesError if no slides

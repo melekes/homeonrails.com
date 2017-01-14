@@ -18,5 +18,5 @@ of expertise and apply that knowledge in everyday life.
 My open source work is available on [GitHub](https://github.com/melekes/), my
 talks are on [Speaker Deck](https://speakerdeck.com/melekes), my work history
 is on [LinkedIn](http://www.linkedin.com/in/melekes), and my thoughts are
-on [Twitter](https://twitter.com/AntonKalyaev). You’re also welcome to say
+on [Twitter](https://twitter.com/akaliaev). You’re also welcome to say
 hello at <anton.kalyaev@gmail.com>!
