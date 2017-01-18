@@ -1,0 +1,84 @@
++++
+tags = ["books"]
+title = "Best books of 2016"
+draft = false
+share = true
+comments = true
+slug = "best-books-of-2016"
+date = "2017-01-18T20:46:24+04:00"
+
++++
+<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/year_in_books_full.png" alt="" title=""/>
+<small>(image from Goodreads https://www.goodreads.com/user/year_in_books/2016/24729949)</small>
+
+Wanted to share the best books I've read in 2016.
+
+<!--more-->
+
+Although few of the books were simply ridiculous and senseless, the majority
+fulfilled my hopes. To weed out crap, I read reviews on [Goodreads]
+(https://www.goodreads.com), [Ozon.ru] (https://www.ozon.ru), [Litres]
+(https://www.litres.ru). *Know something else worth doing?*
+
+However, on Goodreads sometimes a book's top comment has only 1 star and 555
+likes (read "this book is a complete disaster, DO NOT READ"). But when you read
+it, you like it so much you could barely take a break. But that happens rarely.
+Average rating is quite adequate.
+
+### Nonfiction
+
+[Einstein: His Life and Universe by Walter Isaacson](https://www.goodreads.com/book/show/10884.Einstein)
+
+<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/einstein.jpg" alt="" title="Einstein: His Life and Universe by Walter Isaacson"/>
+
+My review:
+
+Excellent written biography of the remarkable man! I think the author really
+managed to understand Einstein. Not sure I fully understood the general theory
+of relativity. Although, the basics are written using a very simple language. I
+took many notes from the book.
+
+[Letters from a Stoic by Seneca, Robin Campbell](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic)
+
+<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/seneca.jpg" alt="" title="Letters from a Stoic by Seneca, Robin Campbell"/>
+
+My review:
+
+Liked it very much. I think I just became a fan of stoicism.
+
+[Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi](https://www.goodreads.com/book/show/66354.Flow)
+
+<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/flow.jpg" alt="" title="Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi"/>
+
+My review:
+
+A must-read book. I would like to read it in my eighteens. Now, when I am 27, I
+haven't learned much from this book. On TED the author only gives the basic
+idea: the connection of happiness and flow. In the book, this topic is covered
+in greater detail and many life examples are given.
+
+### Business
+
+[Бизнес как игра by Сергей Абдульманов, Дмитрий Борисов, Дмитрий Кибкало](https://www.goodreads.com/book/show/28437799)
+
+<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/business_like_a_game.jpg" alt="" title="Бизнес как игра by Сергей Абдульманов, Дмитрий Борисов, Дмитрий Кибкало"/>
+
+Мой отзыв:
+
+Без воды, с юмором, дельными советами и жизненными историями.
+
+There are no other editions, except Russian. Sorry, English reading folks.
+
+### Programming
+
+[Seven Concurrency Models in Seven Weeks: When Threads Unravel by Paul Butcher](https://www.goodreads.com/book/show/18467564-seven-concurrency-models-in-seven-weeks)
+
+<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/7models7weeks.jpg" alt="" title="Seven Concurrency Models in Seven Weeks: When Threads Unravel by Paul Butcher"/>
+
+My review:
+
+Another must-read to expand the horizons.
+
+---
+
+If you like these, you might want to check out [the whole list of the things I've read on Goodreads](https://www.goodreads.com/review/list/24729949?read_at=2016&sort=rating).
