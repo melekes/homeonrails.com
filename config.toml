@@ -48,6 +48,11 @@ disqusshortname    = "homeonrails"
   weight = 111
 
 [[menu.main]]
+  name   = "Goodreads books"
+  url    = "https://www.goodreads.com/melekes"
+  weight = 112
+
+[[menu.main]]
   name   = "LinkedIn"
   pre    = "<h3>Contact Me</h3>"
   url    = "http://www.linkedin.com/in/melekes"
