@@ -1,15 +1,11 @@
----
-tags:
-- programming
-comments: true
-date: 2016-07-04T12:35:52Z
-title: Why Do You Need a Pool
-twitter_card:
-  image: http://homeonrails.com/images/posts/2016-07-04-why-do-you-need-a-pool/single.gif
-  type: summary_large_image
-slug: why-do-you-need-a-pool
----
++++
+date = "2016-07-04T12:35:52Z"
+draft = false
+slug = "why-do-you-need-a-pool"
+tags = ["programming"]
+title = "Why Do You Need a Pool"
 
++++
 There are a number of reasons you may want to use a pool of workers in your application.
 
 <!--more-->

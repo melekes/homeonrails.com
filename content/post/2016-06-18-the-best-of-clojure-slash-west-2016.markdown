@@ -1,19 +1,12 @@
----
-tags:
-- talks
-- programming
-- clojure
-comments: true
-date: 2016-06-18T13:44:21Z
-title: The Best of Clojure/west 2016
-twitter_card:
-  image: http://homeonrails.com/images/posts/2016-06-18-the-best-of-clojure-slash-west-2016/donevan_dolby.jpg
-  type: summary_large_image
-slug: the-best-of-clojure-slash-west-2016
----
++++
+date = "2016-06-18T13:44:21Z"
+draft = false
+slug = "the-best-of-clojure-slash-west-2016"
+tags = ["talks", "clojure"]
+title = "The Best of Clojure/west 2016"
+image = "images/posts/2016-06-18-the-best-of-clojure-slash-west-2016/donevan_dolby.jpg"
 
-<img class="img-rounded" src="/images/posts/2016-06-18-the-best-of-clojure-slash-west-2016/donevan_dolby.jpg" alt="" width="100%" title=""/>
-
++++
 I've recently decided to give Clojure another try and, as a part of my
 wanderings, watched talks from Clojure/west 2016. Clojure/west is the biggest
 Clojure conference in the western United States and all about this language, as

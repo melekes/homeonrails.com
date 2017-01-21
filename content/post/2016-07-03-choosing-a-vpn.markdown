@@ -1,13 +1,11 @@
----
-tags:
-- security
-- traveling
-comments: true
-date: 2016-07-03T16:28:03Z
-title: Выбираем VPN
-slug: choosing-a-vpn
----
++++
+date = "2016-07-03T16:28:03Z"
+draft = false
+slug = "choosing-a-vpn"
+tags = ["security", "traveling"]
+title = "Выбираем VPN"
 
++++
 Недавно пришлось выбирать VPN сервис (чтобы безопасно в интернетах лазить общедоступных; в кафешке там или аэропорту).
 
 <!--more-->
