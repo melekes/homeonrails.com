@@ -13,7 +13,8 @@ share = true
 Multipackage Golang project - project, consisting of several packages. When
 testing you usually do something like `go test ./...`, when getting all the
 dependencies - `go get ./...`. There may be or may not be a Go package at the
-root level.
+root level. Examples: [1](https://github.com/hashicorp/consul),
+[2](https://github.com/tendermint/tendermint).
 
 <!--more-->
 
