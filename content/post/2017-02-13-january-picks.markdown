@@ -26,7 +26,7 @@ draft = false
   time, and code. This seems obvious, but the critical point is that you must
   try them in that order." [Developers: Stop undervaluing
   software](https://blog.reifyworks.com/developers-stop-undervaluing-software-2db16b0f5641#.6oaj424ic)
-  - might be a good addition to this article.
+  might be a good addition to this article.
 
 * [16 Don'ts of Career Growth](http://www.yegor256.com/2017/01/24/career-advice.html)
   Terrible bits of advice if you look from the company's perspective. Egoistic.
