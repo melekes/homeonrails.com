@@ -41,7 +41,7 @@ In the order of importance:
 What I've tried to listen: The Naked Scientists, StarTalk Radio, The
 Productivityist, Stuff You Should Know, How to Do Everything, WTF with Marc
 Maron, Accidental Tech, Planet Money, 99% Invisible, Radiolab, The Joe Rogan
-Experience, a16z, The Art of Marginess, Back to Work.
+Experience, a16z, The Art of Manliness, Back to Work.
 
 ## На русском
 
@@ -51,7 +51,7 @@ Experience, a16z, The Art of Marginess, Back to Work.
 
 * [Путешествия](https://itunes.apple.com/ru/podcast/putesestvia-podcast-travel/id968476151?mt=2) `#optionally`
 
-Что я пробовал слушать: Радио-Т, GolangShow, Разбор полётов, Как делают игры. Не зашёл ни один.
+Что я пробовал слушать: Радио-Т, GolangShow, Разбор полётов, Как делают игры.
 
 ## What app I am using
 
