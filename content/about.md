@@ -20,3 +20,9 @@ talks are on [Speaker Deck](https://speakerdeck.com/melekes), my work history
 is on [LinkedIn](http://www.linkedin.com/in/melekes), and my thoughts are
 on [Twitter](https://twitter.com/akaliaev). You’re also welcome to say
 hello at <anton.kalyaev@gmail.com>!
+
+Proudly supporting:
+
+- [Neovim](https://neovim.io/)
+- [DevZen Podcast](http://devzen.ru/)
+- [Hexlet Podcast](https://ru.hexlet.io/blog/categories/podcast)
