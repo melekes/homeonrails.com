@@ -23,7 +23,7 @@ Pleasantville (1988)
 * [IMDB](http://www.imdb.com/title/tt0120789/)
 * [Kinopoisk.ru](https://www.kinopoisk.ru/film/2987/)
 
-"But whats outside of Pleasantville? There are some places where the road keep going"
+"- But whats outside of Pleasantville? - There are some places where the road keep going"
 
 **Article**
 
