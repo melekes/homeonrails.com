@@ -26,6 +26,7 @@ up.**
 - [Как работает реляционная БД](http://habrahabr.ru/company/mailru/blog/266811/) ([Оригинал на англ.](http://coding-geek.com/how-databases-work/))
 - [Что такое «асинхронная событийная модель», и почему сейчас она «в моде»](http://habrahabr.ru/post/128772/)
 - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+- [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 А какая статья (или статьи) запомнилась вам? Если у вас есть что добавить к
 данному списку, пишите мне.
