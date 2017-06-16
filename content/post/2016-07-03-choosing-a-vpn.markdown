@@ -14,6 +14,8 @@ title = "Выбираем VPN"
 
 Можно довольно легко подобрать VPN сервис по требуемым характеристикам.
 
+Обзор 2017 года: https://www.comparitech.com/blog/vpn-privacy/best-vpns-privacy-and-anonymity/
+
 Я выбирал из двух в итоге:
 
 1. https://www.privateinternetaccess.com/
