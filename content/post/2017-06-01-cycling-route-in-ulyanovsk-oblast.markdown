@@ -4,7 +4,7 @@ title = "Велосипедный маршрут №1 по Ульяновско�
 draft = false
 share = true
 comments = true
-slug = "cycling-route-in-ulyanovsk-oblast-2016"
+slug = "cycling-route-in-ulyanovsk-oblast"
 date = "2017-06-01T01:46:01+02:00"
 
 +++
