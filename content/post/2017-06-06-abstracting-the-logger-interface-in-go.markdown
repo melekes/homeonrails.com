@@ -13,4 +13,4 @@ Wrote a blog post a few days ago for my company's blog about our experience of
 moving from a static logger to an interface and adapter for the go-kit log
 package.
 
-https://tendermint.com/blog/abstracting-the-logger-interface-in-go
+https://blog.cosmos.network/abstracting-the-logger-interface-in-go-4cf96bf90bb7
