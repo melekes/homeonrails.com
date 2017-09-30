@@ -3,31 +3,39 @@ date = "2017-09-03T21:39:21-06:00"
 draft = false
 slug = "usa"
 tags = ["traveling"]
-title = "USA"
+title = "USA / Cities"
 
 +++
 
+Disclaimer: my opinion on some cities can be biased and completely wrong since
+we rarely stayed more than 2 days in one city.
+
 ## New York
 
-**Что запомнилось**: запах мочи и мусора на Манхэттене, метро, афроамериканцы,
-прыгающие через толпу (шоу).
+**What I'll remember**: the smell of urine and garbage in Manhattan, the New
+York subway, African Americans jumping over people (show).
 
-Когда представляешь себе Нью-Йорк, чаще всего думаешь об Манхэттенe и
-Центральном парке. Думаешь о роскошных апартаментах с видом на парк и
-лимузинах, ждущих постояльцев у входа. Только вот когда ты выходишь на улицу,
-тебя буквально сшибает с ног этот запах. Непередаваемый запах мочи и мусора.
+When you imagine New York, you most often think of Manhattan and Central Park.
+You think of luxury apartments with a view of the park and limousines waiting
+for guests at the entrance. Only when you go out into the street, the smell
+  knocks you off your feet. An inexpressible smell of urine and garbage.
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/new-york-1.jpg" alt="" title=""/>
 
-А Центральный парк крутой! Утром бегают спортсмены, днем обедают, а вечером
-смотрят кино. Ну и толпы туристов конечно. Ночью можно увидеть енотов. Одни
-хотели было отжать у нас телефон, но передумали. Жаль фото не успели снять.
-Попробуйте представить енота стоящего на задних лапах с разведенными лапами.
+Central Park is cool! In the morning there are runners anywhere, in the middle
+of a day people have their lunch and in the evening they may be watching some
+movie on a big screen outside. Well, there are a lot of tourists, of course.
+
+At night, you can see raccoons. Some of them even wanted to steal our phones
+but changed their mind. Probably, because we are Russians. It is a pity we did
+not have time to take a photo. Try to imagine a raccoon standing on its hind
+legs with diluted paws.
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/new-york-2.jpg" alt="" title=""/>
 
-Все говорят метро в Нью-Йорке запутанное. Мы ни разу не ошиблись. Маршрут
-строили в Google Maps. Метро старое, с историей и характером. Вот несколько видео:
+Everyone says the subway in New York is confusing. We were using Google Maps
+and have never made a mistake. The subway is very old, with its own history and
+character. Here are a few videos:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agUF_53fmyw" frameborder="0" allowfullscreen></iframe>
 
@@ -35,65 +43,66 @@ title = "USA"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aluYo-FSqiw?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Я думал, что на Таймс-сквер каждый день разные движухи. А на деле оказалось,
-что каждый день одно и тоже шоу - афроамериканцы прыгают через толпу.
-Выстраивают человек шесть в ряд и прыгают. Потом с каждого баксов 10 собирают.
-Поток туристов постоянный = стабильный доход.
+I thought there are different activities on Time Square every day. But in fact,
+every day it is the same show - African Americans jumping over a few people
+they randomly choose from a crowd. Then they ask each of these people to give
+them some money (~10$). And with the never-ending flow of tourists, they
+basically have a stable monthly income! Good for them!
 
 ## Philadelphia
 
-**Что запомнилось**: фургоны с мороженым.
+**What I'll remember**: ice cream trucks.
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/phily-1.jpg" alt="" title=""/>
 
-В отличие от Нью-Йорка, здесь фургоны с мороженым ездят по центральным улицам с
-жуткой музыкой на полную громкость:
+Unlike New York, here ice cream trucks ride through the central streets with
+creepy music at full volume:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tag0-8vEAm8?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Мороженое кстати вкусное!
+I must admit that ice cream itself is delicious!
 
-Еще здесь есть лестница, по которой бегал [Рокки](https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BA%D0%BA%D0%B8_%D0%91%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%B0).
+Also, you can climb the same steps [Rocky Balboa]( https://en.wikipedia.org/wiki/Rocky_Balboa) did in his movie.
 
 ## Baltimore
 
-**Что запомнилось**: ни одного белого человека.
+**What I'll remember**: not a single white person.
 
-Впервые за поездку почувствовал себя, скажем так, неуютно. И это не из-за
-отсутствия белых, хотя это тоже добавляет масла в огонь. В Нью-Йорке все
-постоянно спешат и кажутся супер занятыми. В Балтиморе же все стоят на улице и
-ничего не делают! И смотрят на тебя оценивающим взглядом, как будто подсчитывая
-сколько можно выручить денег, если ограбить тебя.
+For the first time during the trip, I felt uncomfortable. And it's not because
+of the lack of white people, although it also adds oil to the fire. In New
+York, everyone is constantly in a hurry and they seem super busy. In Baltimore,
+everyone is standing on the street doing nothing! And they look at you with an
+appraising look, as if counting how much money they can get if they rob you.
 
 ## Washington
 
-**Что запомнилось**: бесплатные клевые музеи, мемориал Линкольна.
+**What I'll remember**: free cool museums, Lincoln Memorial.
 
-Мы посетили только один - музей авиации (National Air and Space Museum
-https://airandspace.si.edu/). Но и там джентельмен, который сильно смахивал на
-дворецкого Бэтмена (Альфред), провел нам шикарную экскурсию по музею.
+We visited only one - [National Air and Space
+Museum](https://airandspace.si.edu/). But even there the gentleman, who looked
+like Batman's butler (Alfred), gave us a magnificent tour of the museum.
 
 ## Atlanta
 
-**Что запомнилось**: небоскребы в тумане.
+**What I'll remember**: skyscrapers in the fog.
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/atlanta-1.jpg" alt="" title=""/>
 
 ## Dallas
 
-**Что запомнилось**: куча трансвиститов в парках.
+**What I'll remember**: the first time I saw so many transvestites.
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/dallas-1.jpg" alt="" title=""/>
 
 ## Austin
 
-**Что запомнилось**: хипстеры, куча смузи и веганское меню.
+**What I'll remember**: hipsters, cafes selling smoothies and vegan menus.
 
-Вообще об Остине говорят, что это город для молодежи. Движухи больше, баров и
-ночных клубов больше. Рядом с этим городом находится Сан Антонио - город для
-пожилых людей.
+In general, Austin is said to be a city for young people. There are more
+activities, bars, and nightclubs. Next to this city is San Antonio - a city for
+an older people.
 
-Пара мест, которые рекомендуют местные в том числе:
+A couple of places that are recommended by locals:
 
 - [Barton Springs Pool](https://austintexas.gov/department/barton-springs-pool)
 - Rainey Street Historic District (Banger's Sausage House & Beer Garden & THE BLACKHEART)
@@ -102,59 +111,60 @@ https://airandspace.si.edu/). Но и там джентельмен, котор�
 
 ## San Antonio
 
-**Что запомнилось**: каналы по типу Венеции, много людей преклонного возраста.
+**What I'll remember**: canals like they have in Venice, many people of old age.
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/san-antonio-1.jpg" alt="" title=""/>
 
 ## Grand Canyon
 
-**Что запомнилось**: всё.
+**What I'll remember**: everything.
 
-Пейзажи сверху впечатляют только поначалу. Это еще при условии, что до этого вы
-не были в похожих парках. Настоящая красота появляется когда вы спускаетесь в
-каньон. Можно спуститься и подняться вниз за один день (или даже за полдня). А
-можно взять свои палатки или остановиться в Phantom Ranch. Мы выбрали последний
-вариант. Спустились вниз по South Kebab trail (3 часа). Поднялись по Bright
-Angel trail (6.5 часов).
+Landscapes from the top are impressive only at first. This is on condition that
+before you haven't been in similar parks (antelope canyon, death valley). Real
+beauty appears when you descend into the bottom of the canyon. You can go down
+and climb down in one day (or even half a day). Totally possible. But it is
+better to take a tent or stay at Phantom Ranch for a few days. We chose the
+latter. We went down via the South Kebab trail (3 hours). We ascended via the
+Bright Angel trail (6.5 hours).
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/grand-canyon-1.jpg" alt="" title=""/>
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/grand-canyon-2.jpg" alt="" title=""/>
 
-Бонус для читателей: в реке Колорадо искупаться можно. Если идти от Phantom
-Ranch, перейти мост Bright Angel Suspension Bridge, повернуть направо и пройти
-1 км, то можно увидеть место, где русло временно делится на 2 части (одно с
-быстрым, другое с медленным течением). Есть небольшой песочный пляж и камень, с
-которого можно нырять.
+Bonus for readers: you can swim in Colorado River. If you go from Phantom
+Ranch, cross the Bright Angel Suspension Bridge, turn right and go ~ 1 km, you
+should be able to see a place where the channel is temporarily divided into 2
+parts (one with fast, the other with a slow current). There are a small sandy
+beach and a stone from which you can jump into the water.
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/grand-canyon-3.jpg" alt="" title=""/>
 
 ## Las Vegas
 
-**Что запомнилось**: копии чудес света.
+**What I'll remember**: nothing.
 
-Я уже был до этого в Макао (китайском Лас Вегасе). После него Лас Вегас не
-сильно впечатлил.
+I was in Macao (Chinese Las Vegas) before. After it, Las Vegas is just another
+city with casinos.
 
 ## Los Angeles
 
-**Что запомнилось**: бесплатные шоу, куча людей снимающих видосы.
+**What I'll remember**: free shows, a lot of people filming something.
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/la-1.jpg" alt="" title=""/>
 
 ## San Francisco
 
-**Что запомнилось**: комната с игральными автоматами и американский бар.
+**What I'll remember**: a room, full of arcade machines, and an American bar.
 
-Слишком завышенные ожидания редко оправдываются. Вот и с Сан-Франциско так
-произошло. Я думал, что это город будущего, где все ездят на теслах и
-расплачиваются Apple Pay. Оказалось, 90% или больше машин на бензе. Кредитные
-карточки вообще местами не принимают. Вот тебе и город будущего.
+Too high expectations are rarely justified. So it happened with San Francisco.
+I thought that this is the city of future, where everyone travels on Tesla and
+pays using Apple Pay. It turned out that 90% or more of cars are still on
+petrol. In general, credit cards are not accepted.
 
-Зато на пирсе, где пришвартована подводная лодка USS Pampanito, нашли комнату с игровыми автоматами!
+On the pier, where the submarine USS Pampanito is moored, we found a room, full of arcade machines!
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/sf-1.jpg" alt="" title=""/>
 
-И еще поели в самом что не наесть американском баре - [Tommy's Joynt](http://tommysjoynt.com/):
+And we had a launch at the most American looking bar (at least, how I would imagine it) - [Tommy's Joynt](http://tommysjoynt.com/):
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/sf-2.jpg" alt="" title=""/>
