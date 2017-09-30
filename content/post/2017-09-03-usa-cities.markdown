@@ -1,7 +1,7 @@
 +++
 date = "2017-09-03T21:39:21-06:00"
 draft = false
-slug = "usa"
+slug = "usa-cities"
 tags = ["traveling"]
 title = "USA / Cities"
 
