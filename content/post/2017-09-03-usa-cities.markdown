@@ -15,25 +15,25 @@ we rarely stayed more than 2 days in one city.
 **What I'll remember**: the smell of urine and garbage in Manhattan, the New
 York subway, African Americans jumping over people (show).
 
-When you imagine New York, you most often think of Manhattan and Central Park.
+When you imagine New York, you most often think of **Manhattan** and Central Park.
 You think of luxury apartments with a view of the park and limousines waiting
 for guests at the entrance. Only when you go out into the street, the smell
   knocks you off your feet. An inexpressible smell of urine and garbage.
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/new-york-1.jpg" alt="" title=""/>
 
-Central Park is cool! In the morning there are runners anywhere, in the middle
-of a day people have their lunch and in the evening they may be watching some
-movie on a big screen outside. Well, there are a lot of tourists, of course.
+**Central Park** itself is very cool! In the morning there are runners everywhere,
+in the middle of a day people have their lunch and in the evening they watch
+movies on a big screen outside. Well, there are a lot of tourists, of course.
 
-At night, you can see raccoons. Some of them even wanted to steal our phones
+At night, you can see raccoons. Some of them even wanted to snatch our phones
 but changed their mind. Probably, because we are Russians. It is a pity we did
 not have time to take a photo. Try to imagine a raccoon standing on its hind
 legs with diluted paws.
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/new-york-2.jpg" alt="" title=""/>
 
-Everyone says the subway in New York is confusing. We were using Google Maps
+Everyone says **the subway** in New York is confusing. We were using Google Maps
 and have never made a mistake. The subway is very old, with its own history and
 character. Here are a few videos:
 
@@ -43,11 +43,12 @@ character. Here are a few videos:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aluYo-FSqiw?rel=0" frameborder="0" allowfullscreen></iframe>
 
-I thought there are different activities on Time Square every day. But in fact,
-every day it is the same show - African Americans jumping over a few people
-they randomly choose from a crowd. Then they ask each of these people to give
-them some money (~10$). And with the never-ending flow of tourists, they
-basically have a stable monthly income! Good for them!
+I thought there are different activities on **Time Square** every day. But in
+fact, every day it is the same show - African Americans jumping over a few
+people they randomly choose from a crowd. Before they actually do the jumping
+thing, they ask each of these people to give them some money (~10$). And with
+the never-ending flow of tourists, they basically have a stable monthly income!
+Good for them!
 
 ## Philadelphia
 
@@ -69,7 +70,7 @@ Also, you can climb the same steps [Rocky Balboa]( https://en.wikipedia.org/wiki
 **What I'll remember**: not a single white person.
 
 For the first time during the trip, I felt uncomfortable. And it's not because
-of the lack of white people, although it also adds oil to the fire. In New
+of the lack of white people, although it also adds fuel to the fire. In New
 York, everyone is constantly in a hurry and they seem super busy. In Baltimore,
 everyone is standing on the street doing nothing! And they look at you with an
 appraising look, as if counting how much money they can get if they rob you.
