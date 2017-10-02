@@ -122,10 +122,10 @@ A couple of places that are recommended by locals:
 Landscapes from the top are impressive only at first. This is on condition that
 before you haven't been in similar parks (antelope canyon, death valley). Real
 beauty appears when you descend into the bottom of the canyon. You can go down
-and climb down in one day (or even half a day). Totally possible. But it is
-better to take a tent or stay at Phantom Ranch for a few days. We chose the
-latter. We went down via the South Kebab trail (3 hours). We ascended via the
-Bright Angel trail (6.5 hours).
+and up in one day (or even half a day). Totally possible. But it is better to
+take a tent or stay at Phantom Ranch for a few days. We chose the latter. We
+went down via the South Kebab trail (3 hours). We went up via the Bright Angel
+trail (6.5 hours).
 
 <img class="img-rounded" src="/images/posts/2017-09-03-usa/grand-canyon-1.jpg" alt="" title=""/>
 
