@@ -27,6 +27,13 @@ One or two pages are usually enough. You'll need to write your contact details,
 work history, and education. Other sections like "Skills" or "Hobbies" are
 optional.
 
+A few basic rules:
+
+- no age, sex or religion
+- if you have any gaps, please tell what you were doing (even if you were surfing on Bali ;D)
+
+Resume examples: [1](https://www.dropbox.com/s/8m3kzttv36vpcnp/Resume.pdf?dl=0). TODO add more.
+
 One thing I noticed just recently - candidates, who have the "Highlights"
 section have a higher chance of catching an interviewer's attention. Do you
 have any contributions to the language you are using? Or stdlib? Maybe you won
@@ -39,17 +46,12 @@ Highlights:
 - Maintains Magic Wand tool (https://github.com/XXX/YYY)
 ```
 
-Resume examples: [1](https://www.dropbox.com/s/8m3kzttv36vpcnp/Resume.pdf?dl=0). TODO add more.
-
-A few basic rules:
-
-- no age, sex or religion
-- if you have any gaps, please tell what you were doing (even if you were surfing on Bali ;D)
-
 ### 3. Invest in your resume
 
-If you don't have much for the "Highlights" section, my advice would be to
-invest some of your free time and do something (see some ideas above).
+If you want to increase chances of being hired, my advice would be to invest
+some of your free time and do something (see some ideas above). By something I
+mean something you can add to the "Highlights" section or the "Projects"
+section.
 
 ### 4. Github
 
