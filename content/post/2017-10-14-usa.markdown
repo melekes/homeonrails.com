@@ -1,0 +1,92 @@
++++
+date = "2017-10-14T17:19:45+04:00"
+draft = false
+slug = "usa"
+tags = ["traveling"]
+title = "USA: From New York to San Francisco"
+
++++
+
+I remember me and my friends sitting in a cafe and talking about the USA. How
+amazing would it be to rent a car and drive from the East to the West coast?
+From New York to San Francisco. From the city of bankers, where everything is
+telling you that ["you should make more
+money"](http://www.paulgraham.com/cities.html) to the technological capital of
+the planet Earth, a city of programmers.
+
+Was it by share luck or something else, but cards laid out just perfectly. We
+got our visas just before the [USA reduced its diplomatic presence in
+Russia][1]. We passed the US customs. So, there we were in the land of
+opportunity.
+
+### Roads
+
+America is well known for its roads. And they are really good. Opposite lanes
+are usually divided by a [median
+strip](https://en.wikipedia.org/wiki/Median_strip), so little chance of head-on
+collision. Surprisingly, we saw a highway police only once during a month-long
+trip. There are rest stops and rest areas along all the highways - very
+convenient!
+
+Unfortunately, the road from New York to Texas is kinda boring - plain fields
+and trees. But eastern part of USA is just beatiful. By far my favorite piece
+is [Sedona](https://en.wikipedia.org/wiki/Sedona,_Arizona).
+
+<img class="img-rounded" src="/images/posts/2017-10-14-usa/sedona-1.jpg" alt="" title=""/>
+
+### Cities
+
+See [a separate article](/2017/09/usa-cities).
+
+### Food
+
+Burgers, sugar, burgers, sugar, burgers with sugar, sugar with burgers. By the
+end of our trip, I swear I can literally feel sugar with my tong (and I am not talking
+about the sweet sensation). That's how much sugar there was. But apart from
+that, USA is great. You can try cuisines from countries all over the world:
+Mexican (guacamole - mmm), Indian, Chinese, Japanese, Italian and so on.
+
+The selection of food in an average supermarket is superior. Imagine every
+supermarket being as big as [Ашан](https://www.auchan.ru/en/auchan_russia).
+
+<img class="img-rounded" src="/images/posts/2017-10-14-usa/kefir.jpg" alt="" title=""/>
+
+### Economic
+
+Obviously, they are doing good. But after spending one month in China, I was a
+bit disappointed. A lot of "CASH ONLY" places, buses for long distance travels
+(compare this to high-speed trains in China), not so many electric cars (again,
+comparing to China). Overall, I now see why some people predict China
+overthrowing the USA as a world leader in 20 - 50 years (TODO proof).
+
+### People
+
+A lot of people smiling. People say that it is a fake smile. I did not feel
+that. In fact, for me, it was the opposite. I remember a few people smiling
+when we saw each other with the sincere, kind and open smile. I think it is
+because the quality of life is generally higher there and people are generally
+more satisfied with their lives.
+
+Also, strangers can talk to you and that's considered normal. Feels so weird at
+first, but later you start doing the same.
+
+### What I enjoyed the most
+
+\#1. Hiking in Grand Canyon
+
+<img class="img-rounded" src="/images/posts/2017-10-14-usa/grand-canyon-1.jpg" alt="" title=""/>
+
+\#2. Walking in [White Sands National Monument](https://en.wikipedia.org/wiki/White_Sands_National_Monument)
+
+<img class="img-rounded" src="/images/posts/2017-10-14-usa/whitesands-1.jpg" alt="" title=""/>
+
+\#3. Biking in Mountain View
+
+<img class="img-rounded" src="/images/posts/2017-10-14-usa/mountain-view-1.jpg" alt="" title=""/>
+
+### Special thanks
+
+I wanna say thank you to my friends without whom this trip wouldn't be
+possible. Live long and prosper.
+
+[1]: https://www.theguardian.com/world/2017/jul/28/russia-cuts-us-diplomatic-presence-retaliation-sanctions
