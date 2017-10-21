@@ -94,13 +94,15 @@ Here is the list I was using the last time:
 12. http://www.glassdoor.com/index.htm
 13. http://www.monster.com/geo/siteselection
 14. http://djinni.co/
-15. http://xor.ai/jobs/
-16. https://remotebase.io/
-17. https://landing.jobs/
-18. https://triplebyte.com/
-19. https://buzzhero.io/candidate
-20. https://hired.com/
-21. https://remote.com
-22. http://nodesk.co/remote-work/
+15. https://remotebase.io/
+16. https://landing.jobs/
+17. https://triplebyte.com/
+18. https://buzzhero.io/candidate
+19. https://hired.com/
+20. https://remote.com
+21. http://nodesk.co/remote-work/
+22. http://protocoljobs.com/ #blockchain
+23. https://blockchain.works-hub.com/? #blockchain
+24. https://jobspresso.co/
 
 Good luck! And do tell me if I missed something in the comments.
