@@ -1,0 +1,40 @@
++++
+date = "2017-11-04T23:07:33-05:00"
+draft = false
+slug = "monthly-art-number-24"
+tags = ["art"]
+title = "Monthly Art #24"
+
++++
+This is a monthly "newsletter", containing a list of what I enjoyed the most
+last month. Whether it was a full length movie, short film, music album, book
+or even a painting.
+
+<!--more-->
+
+**What I am watching**
+
+* The Breakfast Club (1985)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dkX8J-FKndE?rel=0" frameborder="0" allowfullscreen></iframe>
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Breakfast_Club) | [IMDB](http://www.imdb.com/title/tt0088847/) | [Kinopoisk.ru](https://www.kinopoisk.ru/film/klub-zavtrak-1985-21844/)
+
+* In Tech We Trust? A Debate with Peter Thiel and Marc Andreessen
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0yztBoNQRYo?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Will self-driving cars lead to massive unemployment? Will AI destroy the world?
+
+More info at http://www.milkeninstitute.org/events/conferences/global-conference/2013/panel-detail/4076
+
+**What I am reading**
+
+* [This counterintuitive practice helps truly successful people get ahead](https://www.weforum.org/agenda/2017/08/this-counterintuitive-practice-helps-truly-successful-people-get-ahead-909c142e-9656-4e30-a7cc-9695341331aa)
+* [“Пока не сел на нары”. О России, которую ты не знаешь.](http://mozhno-vse.com/prison_and_poverty/)
+
+**What I am listening**
+
+* [Princess Mononoke (Original Soundtrack) by Joe Hisaishi](https://itunes.apple.com/us/album/princess-mononoke-original-soundtrack/id883500999)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2129YtOx7lA" frameborder="0" allowfullscreen></iframe>
