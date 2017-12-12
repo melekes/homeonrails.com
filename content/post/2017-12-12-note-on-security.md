@@ -58,10 +58,13 @@ DuckDuckGo https://duckduckgo.com/
 
 NordVPN https://nordvpn.com/
 
+[@andy_one](https://twitter.com/andy_one) Некотролируемый VPN это не про
+безопасность совсем. AWS/DO/Azure/GoogleCE + Algo VPN.
+
 ## Secure communication
 
-PGP https://ssd.eff.org/en/playlist/mac-user#how-use-pgp-mac-os-x
-ProtonMail https://protonmail.com/
+- PGP https://ssd.eff.org/en/playlist/mac-user#how-use-pgp-mac-os-x
+- ProtonMail https://protonmail.com/
 
 ## Браузер
 
@@ -99,10 +102,10 @@ c ScriptSafe, отключенным Javascript и Cookies.
 
 ## Password manager
 
-KeePassX или 1Password
+KeePassX https://www.keepassx.org/ или 1Password https://1password.com/
 
 ## 2FA
 
-Yubikey или OnlyKey
+Yubikey https://www.yubico.com/ или OnlyKey https://crp.to
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r8tHr3p14BU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
