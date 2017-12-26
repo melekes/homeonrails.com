@@ -7,6 +7,8 @@ title = "Заметка о безопасности"
 
 +++
 
+[English](https://medium.com/@anton.kalyaev/personal-security-in-the-age-of-cryptocurrencies-904c9bedae01)
+
 Недавно начал все больше интересоваться темой безопасности. Наверное, я, как и
 многие люди из поколения Y, выросшие во времена бума компьютерных технологий,
 Сноудена и fsociety всегда был параноиком по части безопасности, но, признаться
@@ -25,7 +27,7 @@ DISCLAIMER: я ну вот вообще не эксперт в безопасн�
 
 ## Mac
 
-Базовое руководство (обязательно): https://github.com/drduh/macOS-Security-and-Privacy-Guide
+Базовое руководство (обязательно): [A practical guide to securing macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 
 Плюс шаги, которых нет в ^^^: https://www.macworld.co.uk/feature/mac/22-tricks-improve-mac-security-best-tips-3643100/
 
@@ -42,11 +44,11 @@ Find My Mac (обратите внимание на то, что гостево�
 проекты http://orbicule.com/undercover/mac/ и https://www.preyproject.com/. Но
 увы, они не работают с FileVault 2 (встроенным шифрованием).
 
-### Malware detector и другие полезности
+**Malware detector и другие полезности**
 
 https://objective-see.com/products.html
 
-### Network monitor
+**Network monitor**
 
 Little Snitch https://www.obdev.at/products/littlesnitch/index.html
 
@@ -63,8 +65,9 @@ NordVPN https://nordvpn.com/
 
 ## Secure communication
 
-- PGP https://ssd.eff.org/en/playlist/mac-user#how-use-pgp-mac-os-x
+- Signal https://www.signal.org/
 - ProtonMail https://protonmail.com/
+- PGP https://ssd.eff.org/en/playlist/mac-user#how-use-pgp-mac-os-x
 
 ## Браузер
 
@@ -77,6 +80,7 @@ Chrome или Firefox
 - HTTPS Everywhere https://www.eff.org/https-everywhere
 - uBlock https://www.ublock.org/
 - ScriptSafe https://www.andryou.com/scriptsafe
+- Punycode Alert https://chrome.google.com/webstore/detail/punycode-alert/djghjigfghekidjibckjmhbhhjeomlda?hl=en
 - EtherAddressLookup (для крипты) https://github.com/409H/EtherAddressLookup
 - MetaMask (для крипты) https://metamask.io
 
@@ -95,17 +99,34 @@ c ScriptSafe, отключенным Javascript и Cookies.
 
 Набор утилит: https://help.ubuntu.com/community/Security
 
-## Mobile
+## iPhone
 
-- https://spreadprivacy.com/iphone-privacy-tips/
-- https://spreadprivacy.com/android-privacy-tips/
+- [How To Protect Your Privacy On iPhone](https://spreadprivacy.com/iphone-privacy-tips/)
 
-## Password manager
+## Android
 
-KeePassX https://www.keepassx.org/ или 1Password https://1password.com/
+- [How To Protect Your Privacy On Android](https://spreadprivacy.com/android-privacy-tips/)
+- [10 best security apps for Android that aren’t antivirus apps](https://www.androidauthority.com/best-security-apps-android-687799/)
 
 ## 2FA
 
-Yubikey https://www.yubico.com/ или OnlyKey https://crp.to
+[Yubikey](https://www.yubico.com/) или [OnlyKey](https://crp.to)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r8tHr3p14BU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+## Password manager
+
+[KeePassX](https://www.keepassx.org/)  или [1Password](https://1password.com/)
+
+Большинство 2FA могут быть использованы в качестве замены менеджера паролей или
+как дополнение к нему
+[1](https://www.yubico.com/why-yubico/for-individuals/password-managers/),
+[2](https://crp.to/2016/10/is-the-entire-password-strategy-flawed-the-short-answer-yes/).
+
+## Tor
+
+[Tor](https://www.torproject.org/) объединяет в себе браузер, мессенджер и сеть.
+
+## Другие ОС
+
+[Qubes OS](https://www.qubes-os.org/)
