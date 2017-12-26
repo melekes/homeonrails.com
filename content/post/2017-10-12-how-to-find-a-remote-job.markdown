@@ -32,7 +32,7 @@ A few basic rules:
 - no age, sex or religion
 - if you have any gaps, please tell what you were doing (even if you were surfing on Bali ;D)
 
-Resume examples: [1](https://www.dropbox.com/s/8m3kzttv36vpcnp/Resume.pdf?dl=0). TODO add more.
+Resume examples: [1](https://www.dropbox.com/s/8m3kzttv36vpcnp/Resume.pdf?dl=0), [2](https://standardresume.co/figure8labs).
 
 One thing I noticed just recently - candidates, who have the "Highlights"
 section have a higher chance of catching an interviewer's attention. Do you
@@ -45,6 +45,10 @@ Highlights:
 - contributor to Go language (https://github.com/golang/go/commits?author=XXX)
 - Maintains Magic Wand tool (https://github.com/XXX/YYY)
 ```
+
+People who are reading your resume also may find interesting if you have
+"Career objective". It can be a sentence or two outlining your current career
+goal(s).
 
 ### 3. Invest in your resume
 
