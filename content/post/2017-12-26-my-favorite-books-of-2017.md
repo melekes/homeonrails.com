@@ -64,4 +64,4 @@ rationally. This book is incredibly funny and you can learn a lot. Awesome!
 
 ---
 
-If you like these, you might want to check out [the whole list of the things I've read on Goodreads](https://www.goodreads.com/review/list/24729949?read_at=2017&sort=rating).
+If you like these, you might want to check out [the full list on Goodreads](https://www.goodreads.com/review/list/24729949?read_at=2017&sort=rating).
