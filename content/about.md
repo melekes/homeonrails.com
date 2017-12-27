@@ -24,5 +24,4 @@ hello at <anton.kalyaev@gmail.com>!
 Proudly supporting:
 
 - [Neovim](https://neovim.io/)
-- [DevZen Podcast](http://devzen.ru/)
 - [Hexlet Podcast](https://ru.hexlet.io/blog/categories/podcast)
