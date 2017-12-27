@@ -13,7 +13,9 @@ This year I’ve set a very ambitious goal for me, which is to read fifty books.
 And I almost did it. Never thought it would be possible to even read forty
 books. The key here, as many of you know, is to find one hour in evening or
 before you go to sleep (depending on what works best for you) and spend it
-reading.
+reading. Audiobooks are great too!
+
+<!--more-->
 
 If you are looking for something to spend a few good evenings, I highly
 recommend these 5 books:
@@ -59,3 +61,7 @@ popular movie nowadays. You most probably do a facepalm every minute or so,
 when a hero performs another “stupid” (irrational) move. The plot is almost the
 same as the original Harry Potter except now young Harry act completely
 rationally. This book is incredibly funny and you can learn a lot. Awesome!
+
+---
+
+If you like these, you might want to check out [the whole list of the things I've read on Goodreads](https://www.goodreads.com/review/list/24729949?read_at=2017&sort=rating).
