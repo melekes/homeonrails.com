@@ -46,43 +46,44 @@ Find My Mac (обратите внимание на то, что гостево�
 
 **Malware detector и другие полезности**
 
-https://objective-see.com/products.html
+[Objective See](https://objective-see.com/products.html)
 
 **Network monitor**
 
-Little Snitch https://www.obdev.at/products/littlesnitch/index.html
+[Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 
 ## Поисковый движок
 
-DuckDuckGo https://duckduckgo.com/
+[DuckDuckGo](https://duckduckgo.com/)
 
 ## VPN
 
-NordVPN https://nordvpn.com/
+[NordVPN](https://nordvpn.com/)
 
 [@andy_one](https://twitter.com/andy_one) Некотролируемый VPN это не про
 безопасность совсем. AWS/DO/Azure/GoogleCE + Algo VPN.
 
 ## Secure communication
 
-- Signal https://www.signal.org/
-- ProtonMail https://protonmail.com/
-- PGP https://ssd.eff.org/en/playlist/mac-user#how-use-pgp-mac-os-x
+- [Signal](https://www.signal.org/)
+- [ProtonMail](https://protonmail.com/)
+- [PGP](https://ssd.eff.org/en/playlist/mac-user#how-use-pgp-mac-os-x)
 
 ## Браузер
 
 Chrome или Firefox
 
-Еще хочу попробовать https://brave.com/.
+Еще хочу попробовать [Brave](https://brave.com/).
 
 ## Плагины
 
-- HTTPS Everywhere https://www.eff.org/https-everywhere
-- uBlock https://www.ublock.org/
-- ScriptSafe https://www.andryou.com/scriptsafe
-- Punycode Alert https://chrome.google.com/webstore/detail/punycode-alert/djghjigfghekidjibckjmhbhhjeomlda?hl=en
-- EtherAddressLookup (для крипты) https://github.com/409H/EtherAddressLookup
-- MetaMask (для крипты) https://metamask.io
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+- [uBlock](https://www.ublock.org/)
+- [ScriptSafe](https://www.andryou.com/scriptsafe)
+- [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep)
+- [Punycode Alert](https://chrome.google.com/webstore/detail/punycode-alert/djghjigfghekidjibckjmhbhhjeomlda?hl=en)
+- [EtherAddressLookup (для крипты)](https://github.com/409H/EtherAddressLookup)
+- [MetaMask (для крипты)](https://metamask.io)
 
 Если ScriptSafe кажется слишком радикальным движением, то можно поступить как
 я: создать два профиля (1) стандартный для проверенных ресурсов (2) безопасный
