@@ -7,7 +7,7 @@ noauthor = true
 title = "PGP Pub Key"
 type = "page"
 [menu.main]
-weight = 122
+weight = 88
 
 +++
 ```
