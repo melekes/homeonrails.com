@@ -7,11 +7,11 @@ title = "Bus to Monte Alban"
 
 +++
 
-<img class="img-rounded" src="/images/posts/2017-12-30-bus-to-monte-alban/ma.jpg" alt="" title=""/>
-
 **Cheap local direct bus to [Monte Alban](https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n), Oaxaca**
 
 <!--more-->
+
+<img class="img-rounded" src="/images/posts/2017-12-30-bus-to-monte-alban/ma.jpg" alt="" title=""/>
 
 You can buy tickets either at Hotel Rivera (Mina street 518) or at Mina street
 number 501. The buses leave from Mina 501, which is just off Diaz Ordaz.
