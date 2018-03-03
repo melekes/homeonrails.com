@@ -2,7 +2,7 @@
 date = "2018-03-03T13:47:11+04:00"
 draft = false
 slug = "choosing-a-type-for-blockchain-height"
-tags = ["debugging", "golang"]
+tags = ["blockchain", "golang"]
 title = "Choosing a type for blockchain height (beware of unsigned integers)"
 
 +++
