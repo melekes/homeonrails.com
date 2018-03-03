@@ -4,11 +4,10 @@ draft = false
 slug = "debugging-the-memory-leak-in-tendermint"
 tags = ["debugging", "golang"]
 title = "Debugging the Memory Leak in Tendermint"
-image = ""
 
 +++
 
-_This article was originally published on [Medium]](https://blog.cosmos.network/debugging-the-memory-leak-in-tendermint-210186711420)._
+_This article was originally published on [Medium](https://blog.cosmos.network/debugging-the-memory-leak-in-tendermint-210186711420)._
 
 I have spent the last week looking for clues and writing test cases in order to
 find and fix the memory leak in
@@ -21,6 +20,8 @@ securely replicates it on many machines. It is also the foundation of
 Finding a memory leak in Go is not an easy task. However, there is a common set
 of questions, answers to which will hopefully help you identify the source of a
 leak. Here is the list:
+
+<!--more-->
 
 ## Detecting, Troubleshooting, and Fixing a Memory Leak in Go
 
@@ -49,9 +50,9 @@ and connecting to the same testnet. I took advantage of existing
 two heap dumps: one at the start, another after approximately 10 minutes of
 syncing. Then I compared them using `go tool pprof`.
 
-```sh
+{{< highlight shell >}}
 go tool pprof -base /tmp/mem1.mprof /tmp/mem2.mprof
-```
+{{< /highlight >}}
 
 Immediately I noticed [a lot of
 memory](https://github.com/cosmos/gaia/issues/108#issuecomment-358742047) is
@@ -73,7 +74,7 @@ heap and later used them to find where memory is going.
 
 The test-case looked like this:
 
-```go
+{{< highlight go >}}
 // memory heap before
 f, err := os.Create(“/tmp/mem1.mprof”)
 if err != nil {
@@ -97,7 +98,7 @@ if err != nil {
 }
 pprof.WriteHeapProfile(f)
 f.Close()
-```
+{{< /highlight >}}
 
 Indeed, the test showed leaking `newChannel` and `RepeatTimer`. But I still had
 no clue about why this was happening. I spent a few days reading various
@@ -108,10 +109,10 @@ for advice on StackOverflow.
 One advice was particularly interesting: **look for running goroutines**. So at the
 end of the test, I added:
 
-```go
+{{< highlight go >}}
 time.Sleep(10 * time.Second)
 pprof.Lookup(“goroutine”).WriteTo(os.Stdout, 1)
-```
+{{< /highlight >}}
 
 _In the process, I also discovered a great
 tool — [leaktest](https://github.com/fortytw2/leaktest), which does almost the
@@ -124,9 +125,9 @@ issue. I figured out there must be something wrong with my test case. Of
 course! How could I be so stupid? The culprit was testing using `TestReactor`
 ([spy](https://martinfowler.com/articles/mocksArentStubs.html)), which [keeps track of peers](https://github.com/tendermint/tendermint/blob/747b73cb95dab52ee1076ce83dcc92dca86ef93a/p2p/switch_test.go#L73) and [does not remove them](https://github.com/tendermint/tendermint/blob/747b73cb95dab52ee1076ce83dcc92dca86ef93a/p2p/switch_test.go#L67).
 
-```go
+{{< highlight go >}}
 tr.peersAdded = append(tr.peersAdded, peer)
-```
+{{< /highlight >}}
 
 `TestReactor` was the one holding reference to all peers (both added and
 removed). This is why Go was not able to garbage collect them.
@@ -144,7 +145,7 @@ wrapping `main.main()`) rather than something, which is using a [spy](https://ma
 In case of Tendermint, the entry point (analogue of `main.main()`) is creating
 and running a `Node`.
 
-```go
+{{< highlight go >}}
 // create & start node
 n, err := DefaultNewNode(config, log.TestingLogger())
 ...
@@ -170,7 +171,7 @@ n.Stop()
 // dump all running goroutines
 time.Sleep(10 * time.Second)
 pprof.Lookup(“goroutine”).WriteTo(os.Stdout, 1)
-```
+{{< /highlight >}}
 
 2 minutes later I discovered the real reason:
 
