@@ -32,9 +32,9 @@ language design, and others.
 
 Nowadays computers have so much memory the prevailing style of developing
 programs seems to become “ship something, which works more or less, quick and,
-later, fix it". Why a web page may eat 1GB of RAM? Why [the desktop
+later, fix it". Why the web page takes 1GB of RAM? Why [the desktop
 client](https://medium.com/@matt.at.ably/wheres-all-my-cpu-and-memory-gone-the-answer-slack-9e5c39207cab)
-consumed 1GB of RAM?
+takes 1GB of RAM?
 
 > “What drives software toward complexity? A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want. Another important reason lies in monolithic design. Increased hardware power has undoubtedly been the primary incentive for vendors to tackle more complex problems, and more complex problems inevitably require more complex solutions.”
 
@@ -43,8 +43,6 @@ architecture, which became super popular lately, is intended to solve the
 second point. At the same time, it brings the new problems and challenges
 ([distribution, operational complexity,
 ...](https://martinfowler.com/articles/microservice-trade-offs.html)).
-
-<img class="img-rounded" src="/images/posts/2018-03-31-a-plea-for-lean-software-niklaus-wirth-1995/death_stars.png" alt="" title=""/>
 
 > “Customer dependence is more profitable than customer education.”
 
