@@ -19,7 +19,7 @@ be clumsy and impudent. Brevity is the soul of wit.”
 
 I think we can apply the same principles to academic papers as well.
 
-One of the papers, that is concise, well thought and withstood a test of time
+One of the papers, that is concise, well thought and just fun to read
 is A Plea for Lean Software by Niklaus Wirth (1995). It is only five pages
 long, but it touches a great variety of topics including software complexity,
 language design, and others.
@@ -32,14 +32,17 @@ language design, and others.
 
 Nowadays computers have so much memory the prevailing style of developing
 programs seems to become “ship something, which works more or less, quick and,
-later, fix it". [1](https://medium.com/@matt.at.ably/wheres-all-my-cpu-and-memory-gone-the-answer-slack-9e5c39207cab),
-[2](https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb)
+later, fix it". Why a web page may eat 1GB of RAM? Why [the desktop
+client](https://medium.com/@matt.at.ably/wheres-all-my-cpu-and-memory-gone-the-answer-slack-9e5c39207cab)
+consumed 1GB of RAM?
 
 > “What drives software toward complexity? A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want. Another important reason lies in monolithic design. Increased hardware power has undoubtedly been the primary incentive for vendors to tackle more complex problems, and more complex problems inevitably require more complex solutions.”
 
 First and third points are still valid and will never go away. Microservices
 architecture, which became super popular lately, is intended to solve the
-second point. At the same time, it brings the new problems and challenges.
+second point. At the same time, it brings the new problems and challenges
+([distribution, operational complexity,
+...](https://martinfowler.com/articles/microservice-trade-offs.html)).
 
 <img class="img-rounded" src="/images/posts/2018-03-31-a-plea-for-lean-software-niklaus-wirth-1995/death_stars.png" alt="" title=""/>
 
