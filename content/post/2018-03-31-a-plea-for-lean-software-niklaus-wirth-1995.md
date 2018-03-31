@@ -62,3 +62,5 @@ On C and C++ programming languages:
 C++ has improved a lot apparently since then, but (as far as my limited
 knowledge of C++ goes) it still lacks Algebraic Data Types, Type Inference, and
 some other things, making new languages like Rust more attractive.
+
+The original paper is available [here](https://cr.yp.to/bib/1995/wirth.pdf).
