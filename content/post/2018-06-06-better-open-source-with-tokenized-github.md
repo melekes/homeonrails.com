@@ -40,6 +40,10 @@ And it can't be done as a Chrome plugin (opposite to
 [Gitcoin](https://gitcoin.co/)). It needs to be hard-coded into the platform.
 
 Maybe that's what [oscoin](http://oscoin.io/) is planning to do. I don't know.
+Not sure if we need decentralised Github, at least in it's open-source part.
+But it's possible people will switch to such platform because their private
+repositories will be there.
+
 But I am convinced we deserve better Github for open-source projects.
 
 --
