@@ -21,7 +21,8 @@ number of people maintaining the project is much much less than the number of
 people using it. Plus, very often, maintainer's time costs more than time of a
 person who created an issue (e.g. a person, who's new to crypto, trying to
 write his first smart-contract). Again, there is no protection against this
-kind of behaviour.
+kind of behaviour. Note I am not saying you don't have to be kind and welcoming
+to new people.
 
 There are some ways companies seem to have adopted over time:
 
@@ -35,6 +36,10 @@ crypto-economics into open-source?
 Suppose user A wants to create an issue. She pays X tokens to create it. The
 maintainers review it, and if they think it's valuable, user A gets her tokens
 back plus some bonus maybe (if the issue uncovers a huge bug).
+
+**The grand idea is to align the incentives so a person is incentivized to
+spend her time (reading documentation, searching StackOverflow, etc.) before
+spending maintainer's time.**
 
 And it can't be done as a Chrome plugin (opposite to
 [Gitcoin](https://gitcoin.co/)). It needs to be hard-coded into the platform.
