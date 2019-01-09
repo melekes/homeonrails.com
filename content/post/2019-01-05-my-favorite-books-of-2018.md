@@ -18,8 +18,8 @@ still happy with the result - 49 books!
 <!--more-->
 
 To be completely honest with you, I cheated a little bit by also adding photo
-books. But I wanted to keep a history neverless. Note: it usually takes about
-one or two hours to "read" one photo book.
+books. But I wanted to keep a history nevertheless. Note: it usually takes
+about one or two hours to "read" one photo book.
 
 Here are my top 5 favorites of 2018:
 
@@ -43,7 +43,7 @@ Here are my top 5 favorites of 2018:
 - [The Subtle Art of Not Giving a Fck: A Counterintuitive Approach to Living a Good Life by Mark Manson](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
   Not like the other self-help books :) I'll probably reread it this year.
 
-- [The Art of Loving by Erich Fromm](https://www.goodreads.com/book/show/14142.The_Art_of_Loving) and [Escape from Freedom by Erich Fromm](https://www.goodreads.com/book/show/25491.Escape_from_Freedom)
+- [The Art of Loving](https://www.goodreads.com/book/show/14142.The_Art_of_Loving) and [Escape from Freedom by Erich Fromm](https://www.goodreads.com/book/show/25491.Escape_from_Freedom)
   A deeper monologue on what it means to love somebody/something. His second
   book (Escape from Freedom), provides great insights and thoughts on the "the
   illness of contemporary civilization as witnessed by its willingness to
