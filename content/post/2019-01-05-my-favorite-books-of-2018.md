@@ -17,9 +17,9 @@ still happy with the result - 49 books!
 
 <!--more-->
 
-To be completely honest with you, I cheated a little bit by also adding photo
-books. But I wanted to keep a history nevertheless. Note: it usually takes
-about one or two hours to "read" one photo book.
+To be completely honest with you, I cheated a little bit by also adding a few
+photo books. But I wanted to keep the history nevertheless. Note: it usually
+takes about one or two hours to "read" one photo book.
 
 Here are my top 5 favorites of 2018:
 
