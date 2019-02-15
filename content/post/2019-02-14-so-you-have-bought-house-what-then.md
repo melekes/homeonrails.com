@@ -1,6 +1,6 @@
 +++
 author = "Anton Kaliaev"
-comments = true	# set false to hide Disqus
+comments = false	# set false to hide Disqus
 date = "2019-02-14T11:43:14+04:00"
 draft = false
 image = ""
