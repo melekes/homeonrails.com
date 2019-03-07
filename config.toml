@@ -2,7 +2,7 @@ languageCode = "en-us"
 
 baseURL             = "http://homeonrails.com/"
 copyright           = "All rights reserved"
-paginate            = 5
+paginate            = 10
 pluralizeListTitles = false
 theme               = "casper"
 title               = "Home on Rails"
@@ -65,7 +65,7 @@ disqusshortname    = "homeonrails"
 
 [params]
   author                = "Anton Kaliaev"
-  authorlocation        = "Ulyanovsk, Russia"
+  authorlocation        = ""
   authorwebsite         = "http://homeonrails.com"
   bio                   = "Software engineer, blogger, public speaker, traveler"
   cover                 = "images/cover.png"
