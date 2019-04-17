@@ -69,7 +69,7 @@ Bob -> [Ethereum Smart Contract] -> [Eth 1.0 Zone] -> [Cosmos Hub] -> [Bitcoin Z
 [Bitcoin Zone] -> [Binance DEX] -> [Bitcoin Zone] -> Bitcoin Contract -> Alisa
 ```
 
-Боб хочет отправить 55 CETH на свой счет в Bitcoin Zone:
+Боб хочет отправить 55 ETH на свой счет в Bitcoin Zone:
 
 1. Он отправляет эквивалент 55 ETH на смарт контракт.
 2. Eth 1.0 Zone ждет 100 блоков чтобы убедиться что транзакция не будет откачена
