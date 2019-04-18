@@ -3,7 +3,7 @@ author = ""
 comments = true	# set false to hide Disqus
 date = "2019-04-17T20:00:12+04:00"
 draft = false
-image = ""
+image = "images/posts/2019-04-17-lessons-learned-from-my-first-podcast-appearance/epicenter_studio.jpg"
 menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "lessons-learned-from-my-first-podcast-appearance"
@@ -21,7 +21,7 @@ few podcasts, where authors take on the hard job of editing an episode. Thanks
 guys! So what you end up listening is the edited (often abridged) version, not
 the original conversation.
 
-You can listen to the episode with me [here](https://basicblockradio.com/e068/).
+You can listen to the episode [here](https://basicblockradio.com/e068/).
 
 <!--more-->
 
