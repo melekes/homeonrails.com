@@ -3,7 +3,7 @@ author = ""
 comments = true	# set false to hide Disqus
 date = "2019-04-15T09:00:12+04:00"
 draft = false
-image = ""
+image = "images/posts/2019-04-15-basicblockradio-68-corrections/bbr.png"
 menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "basicblockradio-68-corrections"
@@ -12,7 +12,7 @@ title = "Базовый Блок 68: поправки и дополнения"
 +++
 
 Сегодня опубликовали выпуск со мной в подкасте ["Базовый
-Блок"](https://basicblockradio.com/%d0%b1%d0%b1-068-%d0%b0%d0%bd%d1%82%d0%be%d0%bd-%d0%ba%d0%b0%d0%bb%d1%8f%d0%b5%d0%b2-cosmos-%d0%be-tendermint-%d0%b8-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82%d0%b5-%d0%b1%d0%bb%d0%be%d0%ba/).
+Блок"](https://basicblockradio.com/e068/).
 
 Учитывая, что это был мой первый опыт участия в подкасте, вышло неплохо. НО я
 допустил несколько ошибок (ввиду волнения, ошибки перевода, тысячу других

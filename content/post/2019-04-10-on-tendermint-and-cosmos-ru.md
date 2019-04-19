@@ -3,7 +3,7 @@ author = ""
 comments = true	# set false to hide Disqus
 date = "2019-04-10T09:18:59+02:00"
 draft = false
-image = ""
+image = "https://cosmos.network/img/cosmos-tendermint-stack.8c717ec9.png"
 menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "on-tendermint-and-cosmos-ru"
@@ -15,6 +15,8 @@ title = "Коротко о Tendermint и Cosmos Network"
 подкасте ["Базовый Блок"](https://basicblockradio.com/). Это не в коем случае
 не исчерпывающий источник, а лишь короткий обзор включающий плюсы и минусы
 Tendermint, Cosmos. Также упоминается проект Polkadot.
+
+Выпуск со мной можно послушать [здесь](https://basicblockradio.com/e068/).
 
 <!--more-->
 
