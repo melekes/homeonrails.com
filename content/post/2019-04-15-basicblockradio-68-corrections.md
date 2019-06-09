@@ -38,10 +38,20 @@ decentralization](https://forum.cosmos.network/t/research-slashing-incentives-fo
 
 > в Tendermint есть похожая механика, где за генерацию блока участники получают награду
 
-В Cosmos, да. Помимо награды за блок есть также комиссии транзакций. Малая
-часть достается валидатору (у некоторых валидаторов сейчас установлена 0%
-комиссия), большая часть уходит делегаторам. См.
-[Cosmos Validator Economics - Bridging the Economic System of Old into the New Age of Blockchains](https://blog.cosmos.network/economics-of-proof-of-stake-bridging-the-economic-system-of-old-into-the-new-age-of-blockchains-3f17824e91db)
+В Cosmos Hub, да. Помимо награды за блок есть также комиссии транзакций и
+инфляция. Малая часть достается валидатору (у некоторых валидаторов сейчас
+установлена 0% комиссия), большая часть уходит делегаторам.
+
+См. [Cosmos Validator Economics - Bridging the Economic System of Old into the New Age of Blockchains](https://blog.cosmos.network/economics-of-proof-of-stake-bridging-the-economic-system-of-old-into-the-new-age-of-blockchains-3f17824e91db)
+
+Если более подробно, то награда за блок и инфляционные атомы распределяются так:
+
+- `baseProposerReward` - создателю блока
+- `bonusProposerReward * fractionPrecommits` - бонус за включение голосов других валидаторов
+- `(1 - baseProposerReward - (bonusProposerReward * fractionPrecommits))` - бонус всем валидаторам (сотне) пропорционально их ставке
+- `communityTax` - в общий пул
+
+Схема может претерпеть изменения [Proposal: alter uptime & precommit inclusion incentives](https://github.com/cosmos/cosmos-sdk/issues/3529).
 
 > Sybil attacks в Tendermint
 
