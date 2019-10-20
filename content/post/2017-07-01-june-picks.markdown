@@ -10,8 +10,7 @@ draft = false
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Well done pornhub. <a href="https://t.co/dYQv0fNp7U">pic.twitter.com/dYQv0fNp7U</a></p>&mdash; Barry Dorrans (@blowdart) <a href="https://twitter.com/blowdart/status/880277204319457285">June 29, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 880277204319457285 >}}
 
 **Articles**
 

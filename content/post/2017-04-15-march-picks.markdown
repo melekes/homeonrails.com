@@ -10,8 +10,7 @@ draft = false
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This guy is a software engineer, you can tell by his awesome estimation skills <a href="https://t.co/mvKSgJ1NMD">pic.twitter.com/mvKSgJ1NMD</a></p>&mdash; gopher://Rod Vagg 🐨 (@rvagg) <a href="https://twitter.com/rvagg/status/850126885581340672">April 6, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 850126885581340672 >}}
 
 ## English
 

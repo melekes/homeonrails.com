@@ -10,8 +10,7 @@ draft = false
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">the most normal thing in 2017 so far <a href="https://t.co/X05h6nQFrG">pic.twitter.com/X05h6nQFrG</a></p>&mdash; Adam Parkhomenko (@AdamParkhomenko) <a href="https://twitter.com/AdamParkhomenko/status/892986087475380224">August 3, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 892986087475380224 >}}
 
 * [Handling Overload](http://ferd.ca/handling-overload.html)
   "This is a long-ish entry posted after multiple discussions were had on the

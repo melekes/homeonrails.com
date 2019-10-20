@@ -10,8 +10,7 @@ slug: january-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="en" dir="ltr">Put Haskell on your resume even if you don&#39;t know it. When asked, say your resume is lazy and you&#39;ll learn it when results are needed.</p>&mdash; Kyrylo Perevozchykov (@axique) <a href="https://twitter.com/axique/status/679713633715286021">23 декабря 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 679713633715286021 >}}
 
 ## English
 

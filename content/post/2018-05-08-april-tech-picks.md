@@ -12,8 +12,7 @@ title = "April Tech Picks"
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/d4XZZcNbaH">pic.twitter.com/d4XZZcNbaH</a></p>&mdash; Matthew Hackling (@mhackling) <a href="https://twitter.com/mhackling/status/987770801653862400?ref_src=twsrc%5Etfw">April 21, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 987770801653862400 >}}
 
 **Articles**
 

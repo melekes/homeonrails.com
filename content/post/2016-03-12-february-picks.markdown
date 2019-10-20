@@ -10,8 +10,7 @@ slug: february-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="en" dir="ltr">Four stages of JS developer:<br>1. I can’t make JS do what I want<br>2. I can make JS do what I want<br>3. I know what JS wants<br>4. I am JS</p>&mdash; Dmitry Baranovskiy (@DmitryBaranovsk) <a href="https://twitter.com/DmitryBaranovsk/status/700242822876663808">18 февраля 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 700242822876663808 >}}
 
 ## English
 

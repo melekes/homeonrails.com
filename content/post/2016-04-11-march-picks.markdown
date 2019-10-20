@@ -10,8 +10,7 @@ slug: march-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="en" dir="ltr">Remember to leave positive feedback and say thanks too. <a href="https://t.co/5byOuQpi92">pic.twitter.com/5byOuQpi92</a></p>&mdash; Anna Pawlicka (@AnnaPawlicka) <a href="https://twitter.com/AnnaPawlicka/status/709978859005988864">16 марта 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 709978859005988864 >}}
 
 ## English
 

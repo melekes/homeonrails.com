@@ -12,8 +12,7 @@ title = "May Tech Picks (Blockchain Edition)"
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My daughter is looking for a summer job.  She’s a millennial so she’s hoping to find part-time work as a CEO.</p>&mdash; brian kiley (@kileynoodles) <a href="https://twitter.com/kileynoodles/status/999600379640844293?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 999600379640844293 >}}
 
 **Articles**
 

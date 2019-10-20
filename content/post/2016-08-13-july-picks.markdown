@@ -10,8 +10,7 @@ title = "July Picks"
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="und" dir="ltr"><a href="https://t.co/jm7KvT7XXW">pic.twitter.com/jm7KvT7XXW</a></p>&mdash; Max Jazz (@maxjazzz) <a href="https://twitter.com/maxjazzz/status/758234340753018880">27 июля 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 758234340753018880 >}}
 
 ## English
 

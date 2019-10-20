@@ -10,8 +10,7 @@ slug: november-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" lang="ru"><p lang="en" dir="ltr">Programming <a href="https://t.co/YR9e8cDrJs">pic.twitter.com/YR9e8cDrJs</a></p>&mdash; Luis Solano (@luisobo) <a href="https://twitter.com/luisobo/status/662750626875592704">6 ноября 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 662750626875592704 >}}
 
 ## English
 

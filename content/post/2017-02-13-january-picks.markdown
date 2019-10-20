@@ -10,8 +10,7 @@ draft = false
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">might be the best selfie of the year and it&#39;s only Jan 16th. Via reddit. <a href="https://t.co/61H2VqBjv7">pic.twitter.com/61H2VqBjv7</a></p>&mdash; Steven Weintraub (@colliderfrosty) <a href="https://twitter.com/colliderfrosty/status/821070925432963075">January 16, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 821070925432963075 >}}
 
 ## English
 

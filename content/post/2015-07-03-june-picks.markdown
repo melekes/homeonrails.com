@@ -10,8 +10,7 @@ slug: june-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Join the Dark side! <a href="http://t.co/B8BqRyCMcy">pic.twitter.com/B8BqRyCMcy</a></p>&mdash; Юрий Петров (@AveViort) <a href="https://twitter.com/AveViort/status/609269488681418752">June 12, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 609269488681418752 >}}
 
 ## English
 

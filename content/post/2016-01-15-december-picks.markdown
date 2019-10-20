@@ -10,8 +10,7 @@ slug: december-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" lang="ru"><p lang="en" dir="ltr">First attempt at async programming. <a href="https://t.co/u5YwRqBuou">pic.twitter.com/u5YwRqBuou</a></p>&mdash; Sampson (@jonathansampson) <a href="https://twitter.com/jonathansampson/status/676487374495342592">14 декабря 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 676487374495342592 >}}
 
 ## English
 

@@ -10,8 +10,7 @@ draft = false
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The most important professional programming skill is being able to move on. Example: &quot;I moved on from hating JavaScript to hating Go&quot;.</p>&mdash; Aleksey Shipilëv (@shipilev) <a href="https://twitter.com/shipilev/status/835779166217912321">February 26, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 835779166217912321 >}}
 
 ## English
 

@@ -10,8 +10,7 @@ slug: october-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" lang="ru"><p lang="en" dir="ltr">Happy Halloween! <a href="https://t.co/KptTZkFJX8">pic.twitter.com/KptTZkFJX8</a></p>&mdash; Practical Developer (@ThePracticalDev) <a href="https://twitter.com/ThePracticalDev/status/660584764282417152">31 октября 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 660584764282417152 >}}
 
 ## English
 

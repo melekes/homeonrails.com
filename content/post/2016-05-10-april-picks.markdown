@@ -10,8 +10,7 @@ slug: april-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="en" dir="ltr">Docker. <a href="https://t.co/43yvyT8A14">pic.twitter.com/43yvyT8A14</a></p>&mdash; Robert (@kventil) <a href="https://twitter.com/kventil/status/725645207799209984">28 апреля 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 725645207799209984 >}}
 
 ## English
 

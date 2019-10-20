@@ -10,8 +10,7 @@ draft = false
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="en" dir="ltr">The CIA remotely accessed Russian hacker&#39;s webcam moments before hack, first images have been revealed <a href="https://t.co/RycQD8RYX1">pic.twitter.com/RycQD8RYX1</a></p>&mdash; Science Cat (@DrScienceCat) <a href="https://twitter.com/DrScienceCat/status/809473634259636225">15 декабря 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 809473634259636225 >}}
 
 ## English
 

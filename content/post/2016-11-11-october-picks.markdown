@@ -10,8 +10,7 @@ title = "October Picks"
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="en" dir="ltr">We all know what&#39;s coming. <a href="https://t.co/4P2GcWt09D">pic.twitter.com/4P2GcWt09D</a></p>&mdash; Adam (@AdamWhitcroft) <a href="https://twitter.com/AdamWhitcroft/status/791718192506953728">27 октября 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 791718192506953728 >}}
 
 ## English
 

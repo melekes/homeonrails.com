@@ -10,8 +10,7 @@ slug: may-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" lang="ru"><p lang="en" dir="ltr">☐ Consistency&#10;☐ Availability&#10;☐ Partition tolerance&#10;☑ Deployed to production</p>&mdash; Sad Server (@sadserver) <a href="https://twitter.com/sadserver/status/598117703291797504">12 мая 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 598117703291797504 >}}
 
 ## English
 

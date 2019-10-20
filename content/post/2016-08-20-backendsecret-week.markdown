@@ -31,8 +31,7 @@ UPD. 5 день куда-то пропал (надеюсь, временно). �
 
 24% из 83 опрошенных переходят (или планируют) на http://www.phoenixframework.org
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="ru" dir="ltr">Кто переходит на Phoenix?</p>&mdash; Разработчик бэкенда (@backendsecret) <a href="https://twitter.com/backendsecret/status/762936024238612480">9 августа 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 762936024238612480 >}}
 
 Добавил 2 книги ([отсюда](http://blog.jordan-dimov.com/round-up-of-elixir-books-and-resources/)) в список для прочтения:
 
@@ -45,15 +44,13 @@ UPD. 5 день куда-то пропал (надеюсь, временно). �
 
 Всего лишь 16% респондентов (из 154 опрошенных) используют эргономические клавиатуры.
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="ru" dir="ltr">Кто использует/пробовал эргономические клавиатуры? Поделитесь опытом (модель, плюсы/минусы, довольны ли)!</p>&mdash; Разработчик бэкенда (@backendsecret) <a href="https://twitter.com/backendsecret/status/763306117581725696">10 августа 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 763306117581725696 >}}
 
 Стол для работы стоя или сидя, кот. регулируется по высоте можно купить всего лишь за 30тр (https://ergostol.ru, https://bit.ly/2aV19Db, https://bit.ly/1haVfAd)
 
 К нему можно купить стул-седло (http://salli.com/en).
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="ru" dir="ltr">2. стул-седло обеспечивает оптимальную осанку, комфортней для поясницы, но создает дискомфорт в бедрах и ягодицах</p>&mdash; Разработчик бэкенда (@backendsecret) <a href="https://twitter.com/backendsecret/status/763349736254472192">10 августа 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 763349736254472192 >}}
 
 Полезность послеобеденного сна пока не доказана.
 
@@ -61,15 +58,12 @@ UPD. 5 день куда-то пропал (надеюсь, временно). �
 
 11% из 47 опрошенных пробовали property-based тестирование.
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="ru" dir="ltr">Кто пробовал или пишет property-based тесты? Что использовали?</p>&mdash; Разработчик бэкенда (@backendsecret) <a href="https://twitter.com/backendsecret/status/764081148729315328">12 августа 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 764081148729315328 >}}
 
 Долго смеялся над [этим](https://twitter.com/forshtreter/status/761470066793775104):
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="ru" dir="ltr">&quot;Код в проекте должен выглядеть так, будто его писал один человек&quot;. Блин, да я один не могу написать код, который так выглядит.</p>&mdash; Арсений Форштретер (@forshtreter) <a href="https://twitter.com/forshtreter/status/761470066793775104">5 августа 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 761470066793775104 >}}
 
 Но, лучший твит по моему мнению [вот этот](https://twitter.com/tomdale/status/587731286917165056):
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="und" dir="ltr"><a href="http://t.co/oCf8RZiYSU">pic.twitter.com/oCf8RZiYSU</a></p>&mdash; Tom Dale (@tomdale) <a href="https://twitter.com/tomdale/status/587731286917165056">13 апреля 2015 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 587731286917165056 >}}

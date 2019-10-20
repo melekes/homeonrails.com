@@ -10,8 +10,7 @@ draft = false
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here is my report from a day in the south bay. <a href="https://t.co/ewigWOw2LG">pic.twitter.com/ewigWOw2LG</a></p>&mdash; Mark Bergen (@mhbergen) <a href="https://twitter.com/mhbergen/status/966876932313763841?ref_src=twsrc%5Etfw">February 23, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 966876932313763841 >}}
 
 **Articles**
 

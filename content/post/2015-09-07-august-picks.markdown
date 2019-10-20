@@ -10,8 +10,7 @@ slug: august-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" lang="ru"><p lang="en" dir="ltr">My friend asked me what server failover was about &amp; I showed him this. <a href="https://twitter.com/hashtag/Funny?src=hash">#Funny</a> <a href="https://twitter.com/hashtag/ExplainLikeIAmFive?src=hash">#ExplainLikeIAmFive</a> <a href="http://t.co/SraHvp7R77">pic.twitter.com/SraHvp7R77</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/631246886293233664">11 августа 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 631246886293233664 >}}
 
 ## English
 

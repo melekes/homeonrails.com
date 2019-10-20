@@ -10,8 +10,7 @@ draft = false
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Debugging a memory leak. (Vincent van Gogh, 1890) <a href="https://twitter.com/hashtag/devart?src=hash&amp;ref_src=twsrc%5Etfw">#devart</a> <a href="https://t.co/A5eYvK1Zmq">pic.twitter.com/A5eYvK1Zmq</a></p>&mdash; Miria Grunick (@MiriaGrunick) <a href="https://twitter.com/MiriaGrunick/status/939390429551788032?ref_src=twsrc%5Etfw">December 9, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 939390429551788032 >}}
 
 **Articles**
 

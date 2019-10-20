@@ -10,8 +10,7 @@ draft = false
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Rock Star Developer&quot;© <a href="https://t.co/pllXSfNqQi">pic.twitter.com/pllXSfNqQi</a></p>&mdash; Max Riveiro (@HornedKavu) <a href="https://twitter.com/HornedKavu/status/924549293217808384?ref_src=twsrc%5Etfw">October 29, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 924549293217808384 >}}
 
 * [Take It to the Limit: Considerations for Building Reliable Systems](http://bravenewgeek.com/take-it-to-the-limit-considerations-for-building-reliable-systems/)
   Read it if you want to know why it's better to be explicit and set limits like queue max size, max msg size, etc. upfront.

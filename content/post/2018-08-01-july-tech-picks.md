@@ -12,8 +12,7 @@ title = "July Tech Picks"
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Someone in SF just honked and yelled Òlearn to fucking drive.Ó It was at a driverless car.</p>&mdash; alex peysakhovich (@alex_peys) <a href="https://twitter.com/alex_peys/status/1023027543836745728?ref_src=twsrc%5Etfw">July 28, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1023027543836745728 >}}
 
 **Articles**
 

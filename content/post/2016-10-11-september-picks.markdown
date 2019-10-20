@@ -10,8 +10,7 @@ title = "September Picks"
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="en" dir="ltr">&quot;Most important, have the courage to follow your heart and intuition.&quot; Remembering Steve and the many ways he changed our world. <a href="https://t.co/ONAuEoq3uU">pic.twitter.com/ONAuEoq3uU</a></p>&mdash; Tim Cook (@tim_cook) <a href="https://twitter.com/tim_cook/status/783662822819401728">5 октября 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 783662822819401728 >}}
 
 As many of you already know, I was traveling in China. And I didn't have much
 time to read articles. That's why it's only 4 articles and 1 video.

@@ -10,8 +10,7 @@ slug: september-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" lang="ru"><p lang="en" dir="ltr">Vandals choose <a href="https://twitter.com/hashtag/Java?src=hash">#Java</a> to maximize damage thanks to its verbosity. <a href="http://t.co/OwHTFZMNGq">pic.twitter.com/OwHTFZMNGq</a></p>&mdash; Hildeberto Mendonça (@htmfilho) <a href="https://twitter.com/htmfilho/status/645610733196189696">20 сентября 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 645610733196189696 >}}
 
 ## English
 

@@ -10,8 +10,7 @@ slug: july-picks
 
 <!--more-->
 
-<blockquote class="twitter-tweet" lang="ru"><p lang="en" dir="ltr">Must be this tall to write multithreaded code. <a href="http://t.co/1CiPFUWrkX">pic.twitter.com/1CiPFUWrkX</a></p>&mdash; fgavilondo (@fgavilondo) <a href="https://twitter.com/fgavilondo/status/622340538969165825">18 июля 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 622340538969165825 >}}
 
 ## English
 

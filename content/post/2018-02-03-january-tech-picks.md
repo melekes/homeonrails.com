@@ -10,8 +10,7 @@ draft = false
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">No idea what this game is called, but whoever made it, is the devil. <a href="https://t.co/Ec98aGXSDD">pic.twitter.com/Ec98aGXSDD</a></p>&mdash; Steve Noah (@Steve_OS) <a href="https://twitter.com/Steve_OS/status/956164448322031616?ref_src=twsrc%5Etfw">January 24, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 956164448322031616 >}}
 
 **Articles**
 

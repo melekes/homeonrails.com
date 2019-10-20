@@ -10,8 +10,7 @@ draft = false
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bram Cohen (<a href="https://twitter.com/bramcohen">@bramcohen</a>) - Computer programmer and inventor of BitTorrent. <a href="https://t.co/jjBfF1benW">pic.twitter.com/jjBfF1benW</a></p>&mdash; Programming Wisdom (@CodeWisdom) <a href="https://twitter.com/CodeWisdom/status/860555463468908546">May 5, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 860555463468908546 >}}
 
 **Articles**
 

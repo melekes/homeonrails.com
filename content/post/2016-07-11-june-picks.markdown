@@ -10,8 +10,7 @@ title = "June Picks"
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="ru" dir="ltr">Когда твой кот освоил программирование и мутит приложуху <a href="https://t.co/dzyPvhc5eL">pic.twitter.com/dzyPvhc5eL</a></p>&mdash; BuzzFeed Russia (@BuzzFeedRU) <a href="https://twitter.com/BuzzFeedRU/status/749909386890321920">4 июля 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 749909386890321920 >}}
 
 ## English
 

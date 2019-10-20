@@ -12,8 +12,7 @@ title = "March Tech Picks"
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It me. <a href="https://t.co/BJstjI5X7w">pic.twitter.com/BJstjI5X7w</a></p>&mdash; Runa Sandvik (@runasand) <a href="https://twitter.com/runasand/status/978072135162826752?ref_src=twsrc%5Etfw">March 26, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 978072135162826752 >}}
 
 **Articles**
 

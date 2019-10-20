@@ -10,8 +10,7 @@ title = "November Picks"
 
 <!--more-->
 
-<blockquote class="twitter-tweet" data-lang="ru"><p lang="en" dir="ltr">Truth bomb 💣💥👌 <a href="https://twitter.com/hashtag/JSConfAU16?src=hash">#JSConfAU16</a> <a href="https://t.co/mq3B1Un9Fl">pic.twitter.com/mq3B1Un9Fl</a></p>&mdash; Melissa Kaulfuss 🎄 (@MelissaKaulfuss) <a href="https://twitter.com/MelissaKaulfuss/status/804209991510937600">1 декабря 2016 г.</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 804209991510937600 >}}
 
 ## English
 
