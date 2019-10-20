@@ -4,64 +4,24 @@ baseURL             = "http://homeonrails.com/"
 copyright           = "All rights reserved"
 paginate            = 10
 pluralizeListTitles = false
-theme               = "casper"
+theme               = "hyde"
 title               = "Home on Rails"
 canonifyurls        = true
-
 disqusshortname    = "homeonrails"
 
 [permalinks]
   post = "/:year/:month/:slug/"
 
-[[menu.main]]
-  identifier = "blog"
-  name       = "Blog"
-  url        = "/"
-  weight     = 120
-
-[[menu.main]]
-  name = "About me"
-  weight = 119
-  identifier = "about"
-  url = "/about"
-
-[[menu.main]]
-  name   = "Most popular posts"
-  pre    = "<h3>Explore</h3>"
-  url    = "/most-popular-posts"
-  weight = 110
-
-[[menu.main]]
-  name   = "Talks"
-  url    = "https://speakerdeck.com/melekes"
-  weight = 109
-
-[[menu.main]]
-  name   = "Github repos"
-  pre    = "<h3>Follow Me</h3>"
-  url    = "https://github.com/melekes"
-  weight = 100
-
-[[menu.main]]
-  name   = "Twitter timeline"
-  url    = "https://twitter.com/akaliaev"
-  weight = 99
-
-[[menu.main]]
-  name   = "Goodreads books"
-  url    = "https://www.goodreads.com/melekes"
-  weight = 98
-
-[[menu.main]]
-  name   = "LinkedIn"
-  pre    = "<h3>Contact Me</h3>"
-  url    = "http://www.linkedin.com/in/melekes"
-  weight = 90
-
-[[menu.main]]
-  name = "Keybase (secure msg)"
-  url = "https://Keybase.io/melekes"
-  weight = 89
+[Menus]
+  main = [
+      {Name = "About me", URL = "/about"},
+      {Name = "Twitter", URL = "https://twitter.com/akaliaev"},
+      {Name = "Github", URL = "https://github.com/melekes"},
+      {Name = "Goodreads", URL = "https://www.goodreads.com/melekes"},
+      {Name = "LinkedIn", URL = "http://www.linkedin.com/in/melekes"},
+      {Name = "Most popular posts", URL = "/most-popular-posts"},
+      {Name = "Slides", URL = "https://speakerdeck.com/melekes"},
+  ]
 
 [params]
   author                = "Anton Kaliaev"
@@ -69,7 +29,7 @@ disqusshortname    = "homeonrails"
   authorwebsite         = "http://homeonrails.com"
   bio                   = "Software engineer, blogger, public speaker, traveler"
   cover                 = "images/cover.png"
-  description           = "Magic unicorns, steep rabbits, fat cats discussing software development"
+  description           = "Success is not final, failure is not fatal: it is the courage to continue that counts. Winston Churchill"
   googleAnalyticsUserID = ""
   hideHUGOSupport       = false
   logo                  = "images/logo.png"
@@ -77,6 +37,7 @@ disqusshortname    = "homeonrails"
   githubName            = "melekes"
   twitterName           = "akaliaev"
   customHeaderPartial   = "header.include.html"
+  themeColor            = "theme-base-0d"
 
 [sitemap]
   ChangeFreq = ""
