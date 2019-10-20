@@ -10,8 +10,6 @@ slug: may-picks
 
 <!--more-->
 
-{{< tweet 740505961555742721 >}}
-
 ## English
 
 ### Articles

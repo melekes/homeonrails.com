@@ -10,8 +10,6 @@ draft = false
 
 <!--more-->
 
-{{< tweet 809473634259636225 >}}
-
 ## English
 
 ### Articles
