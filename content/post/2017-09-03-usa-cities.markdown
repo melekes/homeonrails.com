@@ -37,11 +37,11 @@ Everyone says **the subway** in New York is confusing. We were using Google Maps
 and have never made a mistake. The subway is very old, with its own history and
 character. Here are a few videos:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/agUF_53fmyw" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="agUF_53fmyw" >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U7ePrBYb2wA" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="U7ePrBYb2wA" >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aluYo-FSqiw?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="aluYo-FSqiw" >}}
 
 I thought there are different activities on **Time Square** every day. But in
 fact, every day it is the same show - African Americans jumping over a few
@@ -59,7 +59,7 @@ Good for them!
 Unlike New York, here ice cream trucks ride through the central streets with
 creepy music at full volume:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tag0-8vEAm8?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="tag0-8vEAm8" >}}
 
 I must admit that ice cream itself is delicious!
 

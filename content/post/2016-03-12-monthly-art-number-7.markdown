@@ -14,7 +14,7 @@ book or even painting.
 
 ## Film - Agora (2009)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RbuEhwselE0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="RbuEhwselE0" >}}
 
 Historians seem to agree that most of the books of Library of Alexandria were
 lost during Caesar's fire and, later, during the taking of the city by another
@@ -27,7 +27,7 @@ thousands of people just because they profess a different religion.
 
 ## Short film - The Life of Death (2016)
 
-<iframe src="https://player.vimeo.com/video/154739710?portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{{< vimeo 154739710 >}}
 
 Beautiful handdrawn animation about the day Death fell in love with Life.
 

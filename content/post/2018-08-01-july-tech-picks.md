@@ -35,8 +35,8 @@ title = "July Tech Picks"
 
 * GOTO 2015 Agile is Dead Pragmatic Dave Thomas
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a-BOSpxYJ9M?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube id="a-BOSpxYJ9M" >}}
 
 * GopherCon 2015: Tomas Senart - Embrace the Interface
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xyDkyFjzFVc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube id="xyDkyFjzFVc" >}}

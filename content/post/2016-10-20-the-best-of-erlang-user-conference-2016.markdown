@@ -18,7 +18,7 @@ these too. _Disclaimer: your experience may vary._
 
 by Garrett Smith (47 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iMhBEVCgPdg" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="iMhBEVCgPdg" >}}
 
 An example of a very good presentation. After watching, I immediately wanted to learn more about deep learning.
 
@@ -26,7 +26,7 @@ An example of a very good presentation. After watching, I immediately wanted to 
 
 by Christopher Meiklejohn (45 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SXT_fVJOkD0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="SXT_fVJOkD0" >}}
 
 Christopher continues his series of presentations about the Lasp lang and its runtime system.
 
@@ -34,13 +34,13 @@ Christopher continues his series of presentations about the Lasp lang and its ru
 
 by Steven Acreman and Heinz Gies (42 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1lC8m3omo4I" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="1lC8m3omo4I" >}}
 
 # 4. Think Outside the VM: Unobtrusive Performance Measurement
 
 by Julian Squires (44 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xP2yzaYdjpo" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="xP2yzaYdjpo" >}}
 
 ## Want more?
 

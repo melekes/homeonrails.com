@@ -26,7 +26,7 @@ realistic games.
 
 ## Documentary - Valley Uprising (2014)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o86TpaSBcWw" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="o86TpaSBcWw" >}}
 
 Not so long ago I've started to watch documentaries. And this movie was for me
 a real boon. Very colorful, exciting, it won't let you go until the very end.
@@ -38,4 +38,4 @@ the "standard" american life and decide to do, what they love - rock climbing.
 
 # Music - Samuel Barber - Adagio for Strings
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/izQsgE0L450" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="izQsgE0L450" >}}

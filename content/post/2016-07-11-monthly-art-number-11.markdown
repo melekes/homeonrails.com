@@ -14,7 +14,7 @@ book or even painting.
 
 ## Documentary - The Fog of War: Eleven Lessons from the Life of Robert S. McNamara (2003)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/VgA98V1Ubk8" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="VgA98V1Ubk8" >}}
 
 - IMDB: http://www.imdb.com/title/tt0317910/
 - Kinopoisk.ru: http://www.kinopoisk.ru/film/38877/
@@ -37,12 +37,12 @@ These topics were selected by Errol Morris and highlighted in the film; they wer
 
 ## TED-Ed - Where did Russia come from? - Alex Gendler
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfe1wEQzSzM" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="lfe1wEQzSzM" >}}
 
 If you haven't subscribed to this channel, go do it. It's must have.
 
 ## Video - How Does an Editor Think and Feel?
 
-<iframe src="https://player.vimeo.com/video/166319350?color=f0a400&badge=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{{< vimeo 166319350 >}}
 
 Very interesting insights from the editing process! What I like is that this video makes you think different - from the point of editor's view, not viewers.

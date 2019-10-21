@@ -14,7 +14,7 @@ book or even painting.
 
 ## Film - Night on Earth (1991)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/F1m6GlPyOSU" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="F1m6GlPyOSU" >}}
 
 "Night on Earth" - 5 world capitals, 5 random fares and indescribable mix
 of humor and sadness, which is a hallmark of Jim Jarmusch.
@@ -24,7 +24,7 @@ of humor and sadness, which is a hallmark of Jim Jarmusch.
 
 ## Short film - World of Tomorrow (2015)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rWeGcWDmnIQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="rWeGcWDmnIQ" >}}
 
 A little girl is taken on a mind-bending tour of her distant future.
 

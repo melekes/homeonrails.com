@@ -14,7 +14,7 @@ book or even painting.
 
 ## Miniseries - The Jinx: The Life and Deaths of Robert Durst (2015)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tEPG9z9rHsc" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="tEPG9z9rHsc" >}}
 
 - IMDB: http://www.imdb.com/title/tt4299972/
 - Kinopoisk.ru: http://www.kinopoisk.ru/film/870265/
@@ -22,7 +22,7 @@ book or even painting.
 
 ## Miniseries - Making a Murderer (2015)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qxgbdYaR_KQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="qxgbdYaR_KQ" >}}
 
 - IMDB: http://www.imdb.com/title/tt5189670
 - Kinopoisk.ru: http://www.kinopoisk.ru/film/957236/
@@ -44,12 +44,12 @@ years!) for the crime he did not commit.
 
 ## Video - Sky Magic Live at Mt.Fuji : Drone Ballet Show
 
-<iframe src="https://player.vimeo.com/video/163266757?title=0&byline=0&portrait=0&badge=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{{< vimeo 163266757 >}}
 
 Soon these things will be flying over our heads.
 
 ## Video - Hello Tokyo by Christoph Gelep
 
-<iframe src="https://player.vimeo.com/video/163662857?title=0&byline=0&portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{{< vimeo 163662857 >}}
 
 Like how the background soundtrack matches the picture. Great job!

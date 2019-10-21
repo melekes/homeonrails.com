@@ -31,7 +31,7 @@ classical music and mix real and painted scenes.
 
 ## The meaning of life (2005)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xMsyOowMaEY" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="xMsyOowMaEY" >}}
 
 ## Bill's story (Trilogy)
 
@@ -42,7 +42,7 @@ dark humor while showing us a life of the main character.
 
 ### Everything will be ok (2006)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/1IUX0Qy-IDM" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="1IUX0Qy-IDM" >}}
 
 - I am so proud of you (2008) [Vk.com](https://vk.com/video95790960_154781825)
 - It's such a beautiful day (2011) [Vk.com](https://vk.com/video17134977_170506076) [Vimeo](https://vimeo.com/ondemand/itssuchabeautifulday)

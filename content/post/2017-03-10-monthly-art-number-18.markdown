@@ -15,7 +15,7 @@ or even a painting.
 
 ### Movie: Inside I'm Dancing (2004)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m2X4M3WT0W4" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="m2X4M3WT0W4" >}}
 
 * [IMDB](http://www.imdb.com/title/tt0417791/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Inside_I'm_Dancing)
@@ -25,7 +25,7 @@ You need to learn to appreciate what you have.
 
 ### Video: How Martin Luther King Jr. Wrote 'I Have A Dream'
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RIZLJMOhQCE" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="RIZLJMOhQCE" >}}
 
 ### Article: [Cities and Ambition by Paul Graham](http://www.paulgraham.com/cities.html)
 

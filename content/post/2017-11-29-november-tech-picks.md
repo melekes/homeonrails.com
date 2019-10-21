@@ -36,7 +36,7 @@ draft = false
 
 * BIP001: "Unlimited Edition". Vlad Zamfir
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u6VSPD5TrP4?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="u6VSPD5TrP4" >}}
 
 Nice talk about cryptoeconomics questions.
 
@@ -44,5 +44,5 @@ Nice talk about cryptoeconomics questions.
   "We must be able to measure blockchain decentralization before we can improve
   it." But this might be an interesting read for non-blockchain folks.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2GwN3vc_9ic?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="2GwN3vc_9ic" >}}
 

@@ -16,7 +16,7 @@ or even a painting.
 
 * The Man from Earth (2007)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9mOIxyRTY5I?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="9mOIxyRTY5I" >}}
 
 A very interesting and thought-provoking experiment.
 

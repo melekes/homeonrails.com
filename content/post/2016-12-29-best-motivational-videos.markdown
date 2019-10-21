@@ -12,23 +12,23 @@ Best motivational videos related to life (in general).
 
 ## Will Smith - The Keys To Life
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-08M7JpLpl4" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="/-08M7JpLpl4" >}}
 
 ## Steve Jobs Stanford Commencement Speech 2005
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D1R-jKKp3NA" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="D1R-jKKp3NA" >}}
 
 ## Look Up || Gary Turk - SPOKEN WORD
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7dLU6fk9QY" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="Z7dLU6fk9QY" >}}
 
 ## Neil Gaiman Addresses the University of the Arts Class of 2012
 
-<iframe src="https://player.vimeo.com/video/42372767?color=ffffff" width="560" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{{< vimeo 42372767 >}}
 
 ## The big Kahuna final monologue
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xkgbWGBmgN8" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="xkgbWGBmgN8" >}}
 
 You may also find interesting [videos, which were not listed
 here](https://gist.github.com/melekes/ac047081e479b4f4aeb6#life), but still

@@ -36,13 +36,13 @@ draft = false
   This is probably the second funniest dev talk after the famous "Wat" talk by
   Gary Bernhardt. Must watch!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3wyd6J3yjcs" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="3wyd6J3yjcs" >}}
 
 * [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
   Ok, this is something paradigm shifting. Data-oriented versus object-oriented
   design.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rX0ItVEVjHc" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="rX0ItVEVjHc" >}}
 
 ## На русском
 

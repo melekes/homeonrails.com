@@ -15,7 +15,7 @@ or even a painting.
 
 ## Documentary - Going Clear: Scientology and the Prison of Belief (2015)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ixgd38EZIR0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="ixgd38EZIR0" >}}
 
 - IMDB: http://www.imdb.com/title/tt4257858
 - Rotten Tomatoes: https://www.rottentomatoes.com/m/going_clear_scientology_and_the_prison_of_belief_2015/
@@ -33,7 +33,7 @@ Incredibly funny :D
 
 ## [RU] Видео - Самая быстрая история русского искусства XX века
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tDxrdnk4e5g" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="tDxrdnk4e5g" >}}
 
 Узнал, что за черным квадратом оказывается что-то другое было нарисовано! А я
 то неуч думал, что это просто черный квадрат :)

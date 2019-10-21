@@ -22,7 +22,7 @@ _Disclaimer: your experience may vary._
 
 by Jamshid Mahdavi, WhatsApp Inc. (45 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tW49z8HqsNw" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="tW49z8HqsNw" >}}
 
 Great talk from the WhatsApp engineer on how they make this app so bulletproof.
 
@@ -30,7 +30,7 @@ Great talk from the WhatsApp engineer on how they make this app so bulletproof.
 
 by Fred Hebert aka ferd (45 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WoUn2XQvGDw" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="WoUn2XQvGDw" >}}
 
 An excursion into the history of different civilizations and their calendars. Fascinating!
 
@@ -38,7 +38,7 @@ An excursion into the history of different civilizations and their calendars. Fa
 
 by Peter Hamilton, RethinkDB (36 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6K0Tjvn6PV8" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="6K0Tjvn6PV8" >}}
 
 Peter talks about one of the ways to build a reliable processing pipeline which
 stores intermediate results inside RethinkDB. You will need something like this
@@ -48,7 +48,7 @@ if it's undesirable to restart the whole pipeline from the beginning.
 
 by Chris McCord and Evan Czaplicki (55 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XJ9ckqCMiKk" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="XJ9ckqCMiKk" >}}
 
 Feel free to skip the Elm part if you are already familiar with this language.
 
@@ -56,7 +56,7 @@ Feel free to skip the Elm part if you are already familiar with this language.
 
 by MZSPEED team, MachineZone Inc. (47 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SPZV2h_r4U0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="SPZV2h_r4U0" >}}
 
 How would you build a fast data processing system in Erlang? The presenters
 tell a story about their attempts in building one and the difficulties they

@@ -30,7 +30,7 @@ title = "November Picks"
   You will hear about latency, throughput, queuing theory, dangers of
   abstractions and much more.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/03GsLxVdVzU" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="03GsLxVdVzU" >}}
 
 * [The Verification of a Distributed System](https://www.youtube.com/watch?v=kDh5BrqiGhI)
   We are all writing distributed systems. And while most of us probably do not
@@ -38,7 +38,7 @@ title = "November Picks"
   testing, fault injection) and tactics are very useful.
   https://github.com/CaitieM20/TheVerificationOfDistributedSystem
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kDh5BrqiGhI" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="kDh5BrqiGhI" >}}
 
 ## На русском
 

@@ -18,22 +18,22 @@ favorite talks. Enjoy!
 
 by Robert Virding (**44 min**)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/afLRmoSOnHA" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="afLRmoSOnHA" >}}
 
 # 2. Techniques for Metaprogramming in Erlang
 
 by Sean Cribbs (**40 min**)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8v4ZfJUTnLc" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="8v4ZfJUTnLc" >}}
 
 # 3. Cloud Scale Erlang
 
 by Richard Croucher (**38 min**)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/te89NpsryTA" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="te89NpsryTA" >}}
 
 # 4. Building a Scalable Real Time Bidding Exchange
 
 by Philip Clarke (**37 min**)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4PDInGV7bNw" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="4PDInGV7bNw" >}}

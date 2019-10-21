@@ -15,7 +15,7 @@ or even a painting.
 
 ### Movie: Kubo and the Two Strings (2016)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p4-6qJzeb3A" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="p4-6qJzeb3A" >}}
 
 - [IMDB](http://www.imdb.com/title/tt4302938/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Kubo_and_the_Two_Strings)
@@ -31,7 +31,7 @@ This video is revelation! 28 years of pain, but not more. Note: if you are a wom
 
 ### Video: How the inventor of Mario designs a game
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K-NBcP0YUQI" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="K-NBcP0YUQI" >}}
 
 I never would have thought that the first level of the game Mario is so well designed before watching this video.
 

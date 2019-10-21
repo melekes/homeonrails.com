@@ -18,31 +18,31 @@ gems for you guys. _Disclaimer: your experience may vary._
 
 by Stuart Halloway (40 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VNTQ-M_uSo8" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="VNTQ-M_uSo8" >}}
 
 # 2. Reasoning about performance (in the context of search)
 
 by Dan Luu (30 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/80LKF2qph6I" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="80LKF2qph6I" >}}
 
 # 3. Point-Free or Die: Tacit Programming in Haskell and Beyond
 
 by Amar Shah (36 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/seVSlKazsNk" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="seVSlKazsNk" >}}
 
 # 4. GraphQL: Designing a Data Language
 
 by Lee Byron (40 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oh5oC98ztvI" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="Oh5oC98ztvI" >}}
 
 # 5. Runtime scheduling: theory and reality
 
 by Eben Freeman (42 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8g9fG7cApbc" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="8g9fG7cApbc" >}}
 
 ## Want more?
 

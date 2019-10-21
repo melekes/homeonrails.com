@@ -14,7 +14,7 @@ book or even painting.
 
 ## Film - Big Fish (2003)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M3YVTgTl-F0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="M3YVTgTl-F0" >}}
 
 - IMDB: http://www.imdb.com/title/tt0319061/
 - Kinopoisk.ru: http://www.kinopoisk.ru/film/9617/

@@ -19,7 +19,7 @@ your experience may vary._
 
 by Sean Kelly, Tapjoy (47 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKk_je4GCqs" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="KKk_je4GCqs" >}}
 
 In his talk, Sean explains why they have decided to write their own queue and
 not to use existing solutions (such as NSQ or Kafka). After that he presents
@@ -29,13 +29,13 @@ the result and lessons they have learned on the way.
 
 by Ben Hindman, Founder Mesosphere, Inc. (1 hour 2 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K76WZkkBO2c" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="K76WZkkBO2c" >}}
 
 # 3. Distributed Transactions - The Fairness Isolation Throughput Tradeoff
 
 by Jose Faleiro, Yale University (45 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GvvkmrKKrM" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="5GvvkmrKKrM" >}}
 
 *WARNING: his English is not perfect*. But if you're interested in distributed
 transactions (in DBs) - must watch.

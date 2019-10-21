@@ -38,7 +38,7 @@ Winston."
 
 ## Documentary - That Sugar Film (2015)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6uaWekLrilY" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="6uaWekLrilY" >}}
 
 Are you aware of how much sugar you're consuming every day and how it affects
 your body?

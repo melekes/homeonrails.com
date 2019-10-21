@@ -34,4 +34,4 @@ system based on an eventually consistent data store."
 
 * [(RU) Григорий Бакунов, Что делать, чтобы изобретать](https://www.youtube.com/watch?v=zpAQkaJ4E_s)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zpAQkaJ4E_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="zpAQkaJ4E_s" >}}

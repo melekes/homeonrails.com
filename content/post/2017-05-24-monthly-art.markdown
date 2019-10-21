@@ -15,7 +15,7 @@ or even a painting.
 
 ### Documentary: Happy People: A Year in the Taiga (2010)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V1pOjj49d9Y" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="V1pOjj49d9Y" >}}
 
 * [IMDB](http://www.imdb.com/title/tt1683876/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Happy_People:_A_Year_in_the_Taiga)
@@ -25,7 +25,7 @@ In this place, there is no politics, no mobile communications, no roads or railw
 
 ### Movie: Angel-A (2005)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoYTgbUmdc" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="IaoYTgbUmdc" >}}
 
 * [IMDB](http://www.imdb.com/title/tt0473753/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Angel-A)

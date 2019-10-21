@@ -17,7 +17,7 @@ or even a painting.
 
 Pleasantville (1988)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dSDm62Hmbf4" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="dSDm62Hmbf4" >}}
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Pleasantville_(film))
 * [IMDB](http://www.imdb.com/title/tt0120789/)

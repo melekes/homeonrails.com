@@ -16,7 +16,7 @@ book or even painting.
 
 «The greatest science fiction movie never made»
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jg4OCeSTL08" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="jg4OCeSTL08" >}}
 
 - IMDB: http://www.imdb.com/title/tt1935156/
 - Kinopoisk.ru: http://www.kinopoisk.ru/film/742858/
@@ -36,6 +36,6 @@ Tim Urban is one of my favorite authors (http://waitbutwhy.com/), and, as it tur
 
 ## Video - HYPER-REALITY
 
-<iframe src="https://player.vimeo.com/video/166807261?color=c9ff23&title=0&byline=0&portrait=0&badge=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{{< vimeo 166807261 >}}
 
 One of the variants of the future. It seems to me very likely because of the future spread of augmented reality and gesture control (e.g. Project Soli https://www.youtube.com/watch?v=0QNiZfSsPc0)

@@ -19,25 +19,25 @@ talks. _Disclaimer: your experience may vary._
 
 by Ron Pressler (**45 min**)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/449j7oKQVkc" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="449j7oKQVkc" >}}
 
 # 2. Some Things That Macros Do
 
 by Zach Tellman (**40 min**)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o69H0MXCNxw" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="o69H0MXCNxw" >}}
 
 # 3. Pony: Making it easy to write efficient, concurrent, data race free programs
 
 by Sylvan Clebsch, Sebastian Blessing (**46 min**)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KvLjy8w1G_U" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="KvLjy8w1G_U" >}}
 
 # 4. [Keynote] What – if anything – have we learned from C++?
 
 by Bjarne Stroustrup (**1 hour 30 min**)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2egL4y_VpYg" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="2egL4y_VpYg" >}}
 
 <br>
 

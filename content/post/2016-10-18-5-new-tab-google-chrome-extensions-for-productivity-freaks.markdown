@@ -36,7 +36,7 @@ https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpae
 
 <img class="img-rounded" src="/images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-productivity-freaks/dayboard.jpg" alt="" width="100%" title=""/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VHfWzt94tVQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="VHfWzt94tVQ" >}}
 
 **ToDo list**.
 

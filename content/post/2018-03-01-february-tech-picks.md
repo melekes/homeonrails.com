@@ -27,7 +27,7 @@ draft = false
 
 * [On Writing Software (well?) #1: Pilot Episode](https://www.youtube.com/watch?v=H5i1gdwe1Ls)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/H5i1gdwe1Ls" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube id="H5i1gdwe1Ls" >}}
 
 The first episode is about naming and it's great. Others are Rails specific, so
 watch them only if you're a Rails developer.

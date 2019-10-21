@@ -27,4 +27,4 @@ draft = false
 
 * [Christopher Meiklejohn, Caitie McCaffrey - A Brief History of Distributed Programming: RPC](https://www.youtube.com/watch?v=aDWZyYHj2XM)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aDWZyYHj2XM" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="aDWZyYHj2XM" >}}

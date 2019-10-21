@@ -31,7 +31,7 @@ thought process.
 Preferable to have just one way, or at least fewer, simpler ways.
 {% endblockquote %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rFejpH_tAHM" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="rFejpH_tAHM" >}}
 
 Highly recommend watching this video.
 

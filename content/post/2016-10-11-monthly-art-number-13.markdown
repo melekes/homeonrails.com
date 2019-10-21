@@ -15,7 +15,7 @@ or even a painting.
 
 ## Movie - Captain Fantastic (2016)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D1kH4OMIOMc" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="D1kH4OMIOMc" >}}
 
 - IMDB: http://www.imdb.com/title/tt3553976/
 - Rotten Tomatoes: https://www.rottentomatoes.com/m/captain_fantastic/
@@ -38,7 +38,7 @@ Family is important! Point.
 
 ## [RU] Видео - Надежные источники информации
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AfUqqOiZVHg" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="AfUqqOiZVHg" >}}
 
 Вкратце: надежных источников нет, есть эмпирика и логика. Совет: выставляйте
 скорость 2X.

@@ -113,7 +113,7 @@ c ScriptSafe, отключенным Javascript и Cookies.
 
 [Yubikey](https://www.yubico.com/) или [OnlyKey](https://crp.to)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r8tHr3p14BU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+{{< youtube id="r8tHr3p14BU" >}}
 
 ## Password manager
 

@@ -15,7 +15,7 @@ or even a painting.
 
 ## Movie - Mr. Church (2016)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wySiVNV71IQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="wySiVNV71IQ" >}}
 
 That's the tough one. I can't say this movie has some particular subject.
 Instead, I think, it teaches you many small things like passion, love, life and
@@ -27,17 +27,17 @@ death.
 
 ## Video - A Writer and Three Script Editors Walk Into a Bar
 
-<iframe src="https://player.vimeo.com/video/179713937?color=f0a400" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{{< vimeo 179713937 >}}
 
 ## Video - The First Principles Method Explained by Elon Musk
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NV3sBlRgzTI" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="NV3sBlRgzTI" >}}
 
 One must reason from fundamental truths, rather than by analogy.
 
 ## Documentary - Propaganda (2012)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hQLfkhwkEbo" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="hQLfkhwkEbo" >}}
 
 [На русском](https://www.youtube.com/watch?v=tLFO0PcHHMA)
 

@@ -30,7 +30,7 @@ draft = false
 
 * ["Engineering You" - Keynote by Martin Thompson](https://www.youtube.com/watch?v=cJDcPeQG7Bw)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cJDcPeQG7Bw" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="cJDcPeQG7Bw" >}}
 
 **Quick learn**
 

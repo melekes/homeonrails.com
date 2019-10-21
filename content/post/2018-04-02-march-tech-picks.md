@@ -31,7 +31,7 @@ A collection of advices from people like Jeff Bezos, Seth Godin, etc.
 
 * [Joe Armstrong - Keynote: The Forgotten Ideas in Computer Science - Code BEAM SF 2018](https://www.youtube.com/watch?v=-I_jE0l7sYQ)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-I_jE0l7sYQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube id="/-I_jE0l7sYQ" >}}
 
 If you don't want to read the papers Joe mentions in his talk, here are the
 excerpts: [The Emperor’s Old Clothes by C.A.R. Hoare
@@ -41,6 +41,6 @@ and [A Plea for Lean Software by Niklaus Wirth
 
 * [What Every Programmer has to know about Database Storage by Alex Petrov](https://www.youtube.com/watch?v=e1wbQPbFZdk)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e1wbQPbFZdk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube id="e1wbQPbFZdk" >}}
 
 Memory refresher on different data structures and trade-offs.

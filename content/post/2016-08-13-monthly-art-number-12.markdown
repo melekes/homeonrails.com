@@ -14,7 +14,7 @@ book or even painting.
 
 ## Film - The Fisher King (1991)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NHaZuRo3DZ4" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="NHaZuRo3DZ4" >}}
 
 - IMDB: http://www.imdb.com/title/tt0101889/
 - Rotten Tomatoes: https://www.rottentomatoes.com/m/fisher_king/
@@ -26,7 +26,7 @@ There are many ways to hide from your demons. One imagines that he is in the wor
 
 ## Video - High Speed Footage | Past Missions | SpaceX (2016)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DKqY8sy3nkM" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="DKqY8sy3nkM" >}}
 
 In order of appearance: JCSAT-14 launch, CRS-9 launch, separation of stages, interaction of the engine exhausts of the first and second stages CRS-9 after the separation, braking before entering the atmosphere, landing of the first stages ORBCOMM-2 and CRS-9.
 

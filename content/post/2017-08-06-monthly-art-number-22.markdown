@@ -17,7 +17,7 @@ or even a painting.
 
 * Les Choristes (2004)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LrhqaPJMdV4?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="LrhqaPJMdV4" >}}
 
 * [Wikipedia](https://en.wikipedia.org/wiki/The_Chorus_(2004_film))
 * [IMDB](http://www.imdb.com/title/tt0372824/)

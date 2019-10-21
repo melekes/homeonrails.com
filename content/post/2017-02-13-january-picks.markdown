@@ -35,11 +35,11 @@ draft = false
 
 * [GOTO 2012 • Mythbusting Modern Hardware to Gain 'Mechanical Sympathy' • Martin Thompson](https://www.youtube.com/watch?v=MC1EKLQ2Wmg)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/MC1EKLQ2Wmg" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="MC1EKLQ2Wmg" >}}
 
 * [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WDIkqP4JbkE" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="WDIkqP4JbkE" >}}
 
 ## На русском
 

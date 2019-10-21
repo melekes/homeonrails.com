@@ -14,7 +14,7 @@ or even a painting.
 
 ### Movie: Eddie the Eagle (2016)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6FWAiXll_jw" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="6FWAiXll_jw" >}}
 
 * [Wikipedia](https://ru.wikipedia.org/wiki/%D0%AD%D0%B4%D0%B4%D0%B8_%C2%AB%D0%9E%D1%80%D1%91%D0%BB%C2%BB)
 * [IMDB](http://www.imdb.com/title/tt1083452/)
@@ -24,7 +24,7 @@ or even a painting.
 
 ### Documentary: Man with a Movie Camera (1929)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZkvjWIEcoU" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="7ZkvjWIEcoU" >}}
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Man_with_a_Movie_Camera)
 * [IMDB](http://www.imdb.com/title/tt0019760/)

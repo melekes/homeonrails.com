@@ -37,7 +37,7 @@ application to hardware level 🔥
 
 * [Mark Callaghan - Choosing between Efficiency and Performance with RocksDB](https://www.youtube.com/watch?v=tgzkgZVXKB4)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tgzkgZVXKB4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube id="tgzkgZVXKB4" >}}
 
 This talk will give you a very clear guidance on different trade-offs while
 picking a data structure for your database.

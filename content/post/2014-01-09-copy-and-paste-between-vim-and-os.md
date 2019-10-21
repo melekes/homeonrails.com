@@ -79,6 +79,6 @@ Now all operations such as `yy`, `D`, and `p` work with the clipboard. No need t
 
 Example:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/x19YZF4YfLs" frameborder="0" allowfullscreen="true">       </iframe>
+{{< youtube id="x19YZF4YfLs" >}}
 
 \* these utilities are among the best in my humble opinion and they are helping me every day

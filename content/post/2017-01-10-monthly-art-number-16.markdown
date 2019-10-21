@@ -15,7 +15,7 @@ or even a painting.
 
 ## Documentary - Before the Flood (2016)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D9xFFyUOpXo" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="D9xFFyUOpXo" >}}
 
 - https://www.beforetheflood.com/
 - [IMDB](http://www.imdb.com/title/tt5929776/)

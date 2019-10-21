@@ -23,7 +23,7 @@ by Donevan Dolby (41 min)
 
 Never would have thought that Clojure could be a part of an airplane's software (Boeing 737 Max).
 
-https://www.youtube.com/watch?v=iUC7noGU1mQ
+{{< youtube id="iUC7noGU1mQ" >}}
 
 # 2. Parallel Programming, Fork Join, and Reducers
 
@@ -33,7 +33,7 @@ Daniel is an author of "Clojure for the brave and true". He talks about
 approaches to parallel programming (thread management, task decomposition) and
 fork/join framework. He is also fun to watch, so go watch it right now.
 
-https://www.youtube.com/watch?v=eRq5UBx6cbA
+{{< youtube id="eRq5UBx6cbA" >}}
 
 # 3. Types are like the Weather, Type Systems are like Weathermen
 
@@ -47,7 +47,7 @@ Types for untyped languages:
   * it reduces developer time
   * it won't mask errors (like Typed Clojure does)
 
-https://www.youtube.com/watch?v=XTl7Jn_kmio
+{{< youtube id="XTl7Jn_kmio" >}}
 
 # 4. One Million Clicks per Minute with Kafka and Clojure
 
@@ -60,5 +60,5 @@ become the main language for stream processing applications** and solutions
 ([Onyx](https://github.com/onyx-platform/onyx)), because of it's Java interop
 and Lisp's expressiveness. What do you think?
 
-https://www.youtube.com/watch?v=VC_MTD68erY
+{{< youtube id="VC_MTD68erY" >}}
 

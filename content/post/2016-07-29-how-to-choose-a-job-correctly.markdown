@@ -121,4 +121,4 @@ Interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-inte
 
 Просто хорошее видео:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/D1R-jKKp3NA" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="D1R-jKKp3NA" >}}

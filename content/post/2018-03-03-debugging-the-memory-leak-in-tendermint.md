@@ -132,7 +132,7 @@ tr.peersAdded = append(tr.peersAdded, peer)
 `TestReactor` was the one holding reference to all peers (both added and
 removed). This is why Go was not able to garbage collect them.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ti3mWTKXIgk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube id="Ti3mWTKXIgk" >}}
 
 The mistake I was talking above was **jumping to a unit test instead of writing
 an integration test**. Then it all became clear. I knew what I needed to do. I

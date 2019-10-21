@@ -20,22 +20,22 @@ real gems for you guys. _Disclaimer: your experience may vary._
 
 by Caitie McCaffrey (35 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H0i_bXKwujQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="H0i_bXKwujQ" >}}
 
 # 2. Transactions: myths, surprises and opportunities
 
 by Martin Kleppmann (41 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZjhNTM8XU8" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="5ZjhNTM8XU8" >}}
 
 # 3. I See What You Mean
 
 by Peter Alvaro (52 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R2Aa4PivG0g" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="R2Aa4PivG0g" >}}
 
 # 4. Eve
 
 by Chris Granger (46 min)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5V1ynVyud4M" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="5V1ynVyud4M" >}}

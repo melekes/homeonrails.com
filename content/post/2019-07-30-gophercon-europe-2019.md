@@ -19,7 +19,7 @@ enjoy these too.
 
 ### 1. Ivan Daniluk - Rethinking Visual Programming
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ps3mBPcjySE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="Ps3mBPcjySE" >}}
 
 This talk is based on ["Rethinking Visual Programming with
 Go"](https://divan.dev/posts/visual_programming_go/), which I highly recommend
@@ -28,4 +28,4 @@ article.
 
 ### 2. Egon Elbre - Psychology of Code Readability
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/R3zEOsh8AnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="R3zEOsh8AnQ" >}}

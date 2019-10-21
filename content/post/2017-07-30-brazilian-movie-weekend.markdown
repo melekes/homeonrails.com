@@ -18,7 +18,7 @@ Lithuania.
 
 ## Central Station (1998)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nLJwHxE-pM?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="0nLJwHxE-pM" >}}
 
 "An emotive journey of a former school teacher, who writes letters for
 illiterate people, and a young boy, whose mother has just died, as they search
@@ -30,7 +30,7 @@ for the father he never knew."
 
 ## City of God (2002)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ioUE_5wpg_E?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="ioUE_5wpg_E" >}}
 
 "Two boys growing up in a violent neighborhood of Rio de Janeiro take different
 paths: one becomes a photographer, the other a drug dealer."
@@ -41,7 +41,7 @@ paths: one becomes a photographer, the other a drug dealer."
 
 ## The Motorcycle Diaries (2004)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MyGVRfNxdJg?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="MyGVRfNxdJg" >}}
 
 "The dramatization of a motorcycle road trip Che Guevara went on in his youth that showed him his life's calling."
 

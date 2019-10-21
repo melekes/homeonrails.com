@@ -18,14 +18,14 @@ being motivated and engaged in the classroom.
 
 ## Can We Auto-Correct Humanity?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dRl8EIhrQjQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="dRl8EIhrQjQ" >}}
 
 ## EVERYBODY DIES, BUT NOT EVERYBODY LIVES
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ja-n5qUNRi8" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="ja-n5qUNRi8" >}}
 
 ## Why I Think This World Should End
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/itvnQ2QB4yc" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="itvnQ2QB4yc" >}}
 
 [Prince Ea channel on YouTube](https://www.youtube.com/channel/UCDgUAAHgsV2fFZQm2fIWBnA)

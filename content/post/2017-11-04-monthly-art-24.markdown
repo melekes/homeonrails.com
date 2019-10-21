@@ -16,13 +16,13 @@ or even a painting.
 
 * The Breakfast Club (1985)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dkX8J-FKndE?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="dkX8J-FKndE" >}}
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Breakfast_Club) | [IMDB](http://www.imdb.com/title/tt0088847/) | [Kinopoisk.ru](https://www.kinopoisk.ru/film/klub-zavtrak-1985-21844/)
 
 * In Tech We Trust? A Debate with Peter Thiel and Marc Andreessen
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0yztBoNQRYo?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="0yztBoNQRYo" >}}
 
 Will self-driving cars lead to massive unemployment? Will AI destroy the world?
 
@@ -38,4 +38,4 @@ More info at http://www.milkeninstitute.org/events/conferences/global-conference
 
 * [Princess Mononoke (Original Soundtrack) by Joe Hisaishi](https://itunes.apple.com/us/album/princess-mononoke-original-soundtrack/id883500999)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2129YtOx7lA" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="2129YtOx7lA" >}}

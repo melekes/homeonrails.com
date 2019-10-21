@@ -16,7 +16,7 @@ wonder they all have a very good score on IMDB. So, thank you guys!
 
 ## Swades (2004)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4tiVPuLbbHg" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="4tiVPuLbbHg" >}}
 
 A project manager from NASA decides to go to India to find his nanny.
 
@@ -26,7 +26,7 @@ A project manager from NASA decides to go to India to find his nanny.
 
 ## OMG – Oh My God! (2012)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8nUwpoTrWFk" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="8nUwpoTrWFk" >}}
 
 As a result of an earthquake, the shop of a man who is atheist destroyed. The
 insurance company is saying that his insurance does not cover "the God's work".
@@ -38,7 +38,7 @@ So he chooses to sue the God.
 
 ## 3 Idiots (2009)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xvszmNXdM4w" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="xvszmNXdM4w" >}}
 
 The story of 3 friends studying in the University.
 

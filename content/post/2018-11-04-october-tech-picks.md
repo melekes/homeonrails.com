@@ -49,6 +49,6 @@ Must read for anyone writing code.
 
 * "Uncle" Bob Martin - "The Future of Programming"
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ecIWPzGEbFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="ecIWPzGEbFc" >}}
 
 Reflection on the history of programming (from 1948).
