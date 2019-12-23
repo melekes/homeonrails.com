@@ -10,23 +10,23 @@ Best motivational videos related to life (in general).
 
 <!--more-->
 
-## Will Smith - The Keys To Life
+* Will Smith - The Keys To Life
 
 {{< youtube id="/-08M7JpLpl4" >}}
 
-## Steve Jobs Stanford Commencement Speech 2005
+* Steve Jobs Stanford Commencement Speech 2005
 
 {{< youtube id="D1R-jKKp3NA" >}}
 
-## Look Up || Gary Turk - SPOKEN WORD
+* Look Up || Gary Turk - SPOKEN WORD
 
 {{< youtube id="Z7dLU6fk9QY" >}}
 
-## Neil Gaiman Addresses the University of the Arts Class of 2012
+* Neil Gaiman Addresses the University of the Arts Class of 2012
 
 {{< vimeo 42372767 >}}
 
-## The big Kahuna final monologue
+* The big Kahuna final monologue
 
 {{< youtube id="xkgbWGBmgN8" >}}
 

@@ -14,9 +14,7 @@ slug: kafka-ways-to-deduplicate-on-the-consumer
 
 В FAQ Kafka написано:
 
-{% blockquote %}
-Include a primary key (UUID or something) in the message and deduplicate on the consumer.
-{% endblockquote %}
+> Include a primary key (UUID or something) in the message and deduplicate on the consumer.
 
 https://cwiki.apache.org/confluence/display/KAFKA/FAQ#FAQ-HowdoIgetexactly-oncemessagingfromKafka?
 

@@ -37,9 +37,8 @@ image = "/images/posts/2016-07-29-how-to-choose-a-job-correctly/chart.png"
 [Сенеки](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic) или
 [Марка Аврелия](https://www.goodreads.com/book/show/30659.Meditations)).
 
-{% blockquote Сенека %}
-Надо отвоевать себя для себя самого, беречь время, которое у нас отбирается силой, похищается, утекает впустую на дурные дела и безделье.
-{% endblockquote %}
+> Надо отвоевать себя для себя самого, беречь время, которое у нас отбирается
+  силой, похищается, утекает впустую на дурные дела и безделье.
 
 {{< figure src="/images/posts/2016-07-29-how-to-choose-a-job-correctly/time.jpg" title="Кадр из фильма Время" >}}
 

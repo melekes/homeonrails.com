@@ -66,11 +66,9 @@ off synchronous mode.
 What will happen then is lager's mailbox start growing and, eventually, when
 there will be no more free memory, node will crash.
 
-{% blockquote %}
-For performance, the file backend does delayed writes, although it will sync at
-specific log levels, configured via the `sync_on' option. By default the error
-level or above will trigger a sync.
-{% endblockquote %}
+> For performance, the file backend does delayed writes, although it will sync
+  at specific log levels, configured via the `sync_on' option. By default the
+  error level or above will trigger a sync.
 
 Keep in mind that there were an exessive amount of info messages, so no `fsync`
 calls ([file:datasync][filedatasync]) were made (we didn't change the default).

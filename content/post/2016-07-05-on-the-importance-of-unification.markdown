@@ -21,15 +21,13 @@ for things like map and filter to be built into Go and we said no". He gave
   this example while talking about the expense feature(s) may have, but I think
   it also applies to the quote below.
 
-{% blockquote Rob Pike %}
-If there is a lot of features, you may look at the line of code, write it one
-way. "Uu, I could do something different." You might even spend half an hour
-playing with a few lines of code... and it's kind of a waste of time to do it,
-but worse, when you come back to the program later, you have to recreate that
-thought process.
+> If there is a lot of features, you may look at the line of code, write it one
+  way. "Uu, I could do something different." You might even spend half an hour
+  playing with a few lines of code... and it's kind of a waste of time to do
+  it, but worse, when you come back to the program later, you have to recreate
+  that thought process.
 
-Preferable to have just one way, or at least fewer, simpler ways.
-{% endblockquote %}
+> Preferable to have just one way, or at least fewer, simpler ways.
 
 {{< youtube id="rFejpH_tAHM" >}}
 
