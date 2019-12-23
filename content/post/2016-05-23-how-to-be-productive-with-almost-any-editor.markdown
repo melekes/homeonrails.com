@@ -33,7 +33,7 @@ In addition, I've compared the 5 most popular editors (vim, emacs, idea,
 sublime text and atom). I hope it will be interesting for you to see how your
 editor is doing relative to others.
 
-<img class="img-rounded" src="/images/posts/2016-05-23-how-to-be-productive-with-almost-any-editor/trends.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-05-23-how-to-be-productive-with-almost-any-editor/trends.png" title="" >}}
 
 Your humble servant is using Vim at his regular job, so you may notice a
 certain predisposition. But I try to be open - the second attempt to master

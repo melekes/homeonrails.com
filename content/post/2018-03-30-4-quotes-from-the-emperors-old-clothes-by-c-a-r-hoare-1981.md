@@ -11,7 +11,7 @@ title = "4 quotes from The Emperor’s Old Clothes by C.A.R. Hoare (1981)"
 
 _This article was originally published on [Medium](https://medium.com/@anton.kalyaev/4-quotes-from-the-emperors-old-clothes-by-c-a-r-hoare-1981-8d8fba5e32f5)._
 
-<img class="img-rounded" src="/images/posts/2018-03-30-4-quotes-from-the-emperors-old-clothes-by-c-a-r-hoare-1981/emperor.jpg" alt="" title="Kangxi Emperor"/>
+{{< figure src="/images/posts/2018-03-30-4-quotes-from-the-emperors-old-clothes-by-c-a-r-hoare-1981/emperor.jpg" title="Kangxi Emperor" >}}
 
 About ALGOL 60 which introduced recursion and enabled him to express his quick
 sort algorithm:

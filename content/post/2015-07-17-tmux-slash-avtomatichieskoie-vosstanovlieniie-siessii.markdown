@@ -16,9 +16,7 @@ slug: tmux-slash-avtomatichieskoie-vosstanovlieniie-siessii
 
 <!--more-->
 
-
-<img class="img-rounded" src="/images/posts/2015-07-17-tmux-slash-avtomatichieskoie-vosstanovlieniie-siessii/ILKC62E3GC.jpg" alt=""/ width="694" title="tmux / Автоматическое восстановление сессии">
-
+{{< figure src="/images/posts/2015-07-17-tmux-slash-avtomatichieskoie-vosstanovlieniie-siessii/ILKC62E3GC.jpg" title="" >}}
 
 Представьте себе, вы выключили компьютер (не все так поступают, я знаю) и
 отправились домой. Вечером, отправив жену готовить борщ, и удобно устроившись

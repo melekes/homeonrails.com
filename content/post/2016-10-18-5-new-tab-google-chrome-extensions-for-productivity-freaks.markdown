@@ -12,7 +12,7 @@ image = "images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-producti
 
 ## 1. Mortality
 
-<img class="img-rounded" src="/images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-productivity-freaks/mortality.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-productivity-freaks/mortality.jpg" title="" >}}
 
 "Mortality is a new tab extension that reminds you of your precise age. A
 bitter-sweet motivational tool; it illustrates how little time we have. Circles
@@ -25,7 +25,7 @@ https://chrome.google.com/webstore/detail/mortality-new-tab/eeedcpdcehnikgkhbobm
 
 ## 2. Motivation
 
-<img class="img-rounded" src="/images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-productivity-freaks/motivation.gif" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-productivity-freaks/motivation.gif" title="" >}}
 
 If Mortality is too much for you, try this small extension. **Just a counter**,
 nothing more.
@@ -34,7 +34,7 @@ https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpae
 
 ## 3. Dayboard - New Tab Page
 
-<img class="img-rounded" src="/images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-productivity-freaks/dayboard.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-productivity-freaks/dayboard.jpg" title="" >}}
 
 {{< youtube id="VHfWzt94tVQ" >}}
 
@@ -48,7 +48,7 @@ https://chrome.google.com/webstore/detail/dayboard-new-tab-page/kimodcegbhclamjc
 
 ## 4. Wunderlist New Tab
 
-<img class="img-rounded" src="/images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-productivity-freaks/wunderlist.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-productivity-freaks/wunderlist.jpg" title="" >}}
 
 **ToDo list with a background**
 
@@ -56,7 +56,7 @@ https://chrome.google.com/webstore/detail/wunderlist-new-tab/fgikemaeelgbhjnhnna
 
 ## 5. Momentum
 
-<img class="img-rounded" src="/images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-productivity-freaks/momentum.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-18-5-new-tab-google-chrome-extensions-for-productivity-freaks/momentum.png" title="" >}}
 
 **Personal dashboard** with a different wallpaper every day, ability to set a daily
 goal and other features. There is a new extension,

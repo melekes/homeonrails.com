@@ -32,7 +32,7 @@ title = "Строительные компании Ульяновской обл
 почему не надо делать сауну внутри дома и мансардные окна. Первые имеют
 тенденцию гореть. Вторые требуют профессиональной установки.
 
-<img class="img-rounded" src="/images/posts/2018-03-18-construction-companies-in-ulsk-oblast/on.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2018-03-18-construction-companies-in-ulsk-oblast/on.jpg" title="" >}}
 
 Проект стоит 45 тыс. (25 тыс. если будешь строить дом у него)
 

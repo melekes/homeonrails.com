@@ -7,7 +7,7 @@ title: Советы собирающимся в Гонконг
 slug: advices-for-hong-kong-travellers
 ---
 
-<img class="img-rounded" src="/images/posts/2016-01-10-advices-for-hong-kong-travellers/hongkong.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-01-10-advices-for-hong-kong-travellers/hongkong.jpg" title="" >}}
 
 <!--more-->
 
@@ -40,7 +40,7 @@ Tea House][1], например. Также особой любовью поль
 Напоследок хотелось бы привести пару мест, которые не так известны среди
 туристов, но пользуются популярностью у местных.
 
-<img class="img-rounded" src="/images/posts/2016-01-10-advices-for-hong-kong-travellers/tea.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-01-10-advices-for-hong-kong-travellers/tea.jpg" title="" >}}
 
 - One Eyed Man's Cooling Tea ([на карте][4]): тут можно попробовать чай, который заваривается
   20 часов (стоимость удовольствия всего 10 HKD за чашку)

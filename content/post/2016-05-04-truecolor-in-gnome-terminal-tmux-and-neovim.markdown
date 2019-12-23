@@ -17,11 +17,11 @@ colors).
 
 Difference between TrueColor (24bits - 16 million colors) and "256colors" (8bits - 256 colors):
 
-<img class="img-rounded" src="/images/posts/2016-05-05-truecolor-in-gnome-terminal-tmux-and-neovim/diff1.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-05-05-truecolor-in-gnome-terminal-tmux-and-neovim/diff1.png" title="" >}}
 
 Original theme ([gruvbox](https://github.com/morhetz/gruvbox)):
 
-<img class="img-rounded" src="/images/posts/2016-05-05-truecolor-in-gnome-terminal-tmux-and-neovim/orig.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-05-05-truecolor-in-gnome-terminal-tmux-and-neovim/orig.png" title="" >}}
 
 TrueColor looks better and comfier for your eyes. So, there is no excuse not to use it.
 

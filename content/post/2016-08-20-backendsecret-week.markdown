@@ -6,7 +6,7 @@ tags = []
 title = "Неделя @backendsecret в твиттере"
 
 +++
-<img class="img-rounded" src="/images/posts/2016-08-20-backendsecret-week/week.jpg" alt="" width="360px" title=""/>
+{{< figure src="/images/posts/2016-08-20-backendsecret-week/week.jpg" title="" >}}
 
 Прошлую неделю (08.08 - 14.08) вел коллективный твиттер-аккаунт для бэкенд-разработчиков
 https://twitter.com/backendsecret. Интересный опыт ;) Когда ты спрашиваешь о

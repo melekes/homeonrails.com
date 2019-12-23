@@ -9,7 +9,7 @@ tags = ["programming","papers"]
 title = "A Plea for Lean Software by Niklaus Wirth (1995)"
 +++
 
-<img class="img-rounded" src="/images/posts/2018-03-31-a-plea-for-lean-software-niklaus-wirth-1995/plea.jpg" alt="" title="Plea for Greek Independence by Eugène Delacroix (1826)"/>
+{{< figure src="/images/posts/2018-03-31-a-plea-for-lean-software-niklaus-wirth-1995/plea.jpg" title="Plea for Greek Independence by Eugène Delacroix (1826)" >}}
 
 In 1889, [Anton Chekhov](https://en.wikipedia.org/wiki/Anton_Chekhov) writes to
 his brother Alexander: "My advice: in the play try to be original and as clever

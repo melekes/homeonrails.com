@@ -10,7 +10,7 @@ title = "Обязательные приложения для путешеств
 
 ## China Trains
 
-<img class="img-rounded" src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/china_trains.png" alt="" width="128px" title=""/>
+{{< figure src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/china_trains.png" title="" width="128px" >}}
 
 **Билеты на поезд**
 
@@ -29,7 +29,7 @@ https://www.travelchinaguide.com/china-trains/
 
 ## Ctrip
 
-<img class="img-rounded" src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/ctrip.png" alt="" width="128px" title=""/>
+{{< figure src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/ctrip.png" title="" width="128px" >}}
 
 **отели, билеты на поезд или самолёт, статус рейса**
 
@@ -50,7 +50,7 @@ http://english.ctrip.com/
 
 ## Qunar.com (去哪儿旅行)
 
-<img class="img-rounded" src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/qunar.png" alt="" width="128px" title=""/>
+{{< figure src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/qunar.png" title="" width="128px" >}}
 
 **отели, билеты на автобусы, поезда и самолеты**
 
@@ -69,7 +69,7 @@ http://www.qunar.com/
 
 ## Pleco
 
-<img class="img-rounded" src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/pleco.png" alt="" width="128px" title=""/>
+{{< figure src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/pleco.png" title="" width="128px" >}}
 
 **китайско-английский словарь**
 
@@ -87,7 +87,7 @@ https://www.pleco.com/
 
 ## Waygo
 
-<img class="img-rounded" src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/waygo.png" alt="" width="128px" title=""/>
+{{< figure src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/waygo.png" title="" width="128px" >}}
 
 **переводит иероглифы с изображения из камеры на английский на лету**
 
@@ -105,7 +105,7 @@ http://www.waygoapp.com/
 
 ## Baidu maps (百度地图-智能出行)
 
-<img class="img-rounded" src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/baidu_maps.png" alt="" width="128px" title=""/>
+{{< figure src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/baidu_maps.png" title="" width="128px" >}}
 
 **карты**
 
@@ -127,7 +127,7 @@ http://map.baidu.com/
 
 ## Baidu Translate 百度翻译
 
-<img class="img-rounded" src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/baidu_translate.png" alt="" width="128px" title=""/>
+{{< figure src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/baidu_translate.png" title="" width="128px" >}}
 
 **китайско-английский переводчик**
 
@@ -144,7 +144,7 @@ http://fanyi.baidu.com/
 
 ## Metro China Subway
 
-<img class="img-rounded" src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/metroman.png" alt="" width="128px" title=""/>
+{{< figure src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/metroman.png" title="" width="128px" >}}
 
 **карты метро городов Китая**
 
@@ -163,11 +163,11 @@ http://fanyi.baidu.com/
 Копируем результат в строку поиска Qunar.com. Из предложенного списка выбираем
 автобус и переходим к результатам.
 
-<img class="img-rounded" src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/bus_sequence_01.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/bus_sequence_01.png" title="" >}}
 
 ## Как найти гостиницу/хостел
 
-<img class="img-rounded" src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/hotel_sequence_01.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-07-must-have-apps-for-traveling-in-china/hotel_sequence_01.png" title="" >}}
 
 Жмем на иконку здания. Город выбираем либо вставляя его название из интернета
 или заметок, либо набирая на

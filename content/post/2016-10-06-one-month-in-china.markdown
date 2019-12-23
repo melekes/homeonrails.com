@@ -16,7 +16,7 @@ image = "/images/posts/2016-10-06-one-month-in-china/wall2.jpg"
 
 ## Маршрут
 
-<img class="img-rounded" src="/images/posts/2016-10-06-one-month-in-china/china_route.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-06-one-month-in-china/china_route.png" title="" >}}
 
 ```
 1 день - Пекин
@@ -102,7 +102,7 @@ image = "/images/posts/2016-10-06-one-month-in-china/wall2.jpg"
 
 ## Про людей
 
-<img class="img-rounded" src="/images/posts/2016-10-06-one-month-in-china/chineese.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-06-one-month-in-china/chineese.jpg" title="" >}}
 
 Люди в большинстве своем добрые и отзывчивые. Не помню, рассказывал ли я эту
 историю. Мне нужно было сдать карточку метро в аэропорту Пекина, чтобы получить
@@ -133,7 +133,7 @@ image = "/images/posts/2016-10-06-one-month-in-china/wall2.jpg"
 сих пор не представляю как они его готовят (варят или замачивают и повторно
 сушат?).
 
-<img class="img-rounded" src="/images/posts/2016-10-06-one-month-in-china/peanuts.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-06-one-month-in-china/peanuts.jpg" title="" >}}
 
 ## Что не понравилось
 
@@ -151,15 +151,15 @@ image = "/images/posts/2016-10-06-one-month-in-china/wall2.jpg"
 
 \#1. Прогулка по китайской стене (я ездил на чуть отдаленный участок Джиншалин). *Невероятное сооружение, изумительная природа.*
 
-<img class="img-rounded" src="/images/posts/2016-10-06-one-month-in-china/wall1.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-06-one-month-in-china/wall1.jpg" title="" >}}
 
 \#2. Терракотовая армия. *Диву даешься глядя на количество воинов (плюс лошадей и остального).*
 
-<img class="img-rounded" src="/images/posts/2016-10-06-one-month-in-china/terracot_army.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-06-one-month-in-china/terracot_army.jpg" title="" >}}
 
 \#3. Горы Чжанцзяцзе. *Просто люблю горы. А эти еще причудливые!*
 
-<img class="img-rounded" src="/images/posts/2016-10-06-one-month-in-china/zhangjiajie.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-06-one-month-in-china/zhangjiajie.jpg" title="" >}}
 
 ## Сложно ли путешествовать? Надо ли знать китайский?
 

@@ -9,7 +9,7 @@ title = "On the importance of unification"
 Unification, for me, means having one way or instrument (not always the best)
 to deal with a problem. And, in some cases, it is crucial.
 
-<img class="img-rounded" src="/images/posts/2016-07-05-on-the-importance-of-unification/hammer.png" alt="It's important to have only one instrument for solving a problem." width="100%" title=""/>
+{{< figure src="/images/posts/2016-07-05-on-the-importance-of-unification/hammer.png" title="It's important to have only one instrument for solving a problem" >}}
 
 <!--more-->
 

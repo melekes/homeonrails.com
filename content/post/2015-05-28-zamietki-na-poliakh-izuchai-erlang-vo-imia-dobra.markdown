@@ -18,7 +18,7 @@ Distributed Erlang).
 
 <!--more-->
 
-<img class="img-rounded" src="/images/posts/2015-05-28-zamietki-na-poliakh-izuchai-erlang-vo-imia-dobra/book.jpg" alt=""/ width="270" title="Изучай Erlang во имя добра!">
+{{< figure src="/images/posts/2015-05-28-zamietki-na-poliakh-izuchai-erlang-vo-imia-dobra/book.jpg" title="Изучай Erlang во имя добра!" width="270px" >}}
 
 Вот лишь часть того, что я почерпнул из данной книги:
 

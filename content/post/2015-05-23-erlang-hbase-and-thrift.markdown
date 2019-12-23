@@ -40,10 +40,7 @@ Rest
 thrift'у по скорости (особенно xml и json, которые тащат за собой схему) б)
 могут отсутствовать некоторые параметры для требуемого вам метода.
 
-<img class="img-rounded" src="/images/posts/2015-05-16-erlang-hbase-and-thrift/thrift-vs-rest1.png" alt=""/ width="450" title="Program completion time (in seconds)">
-<small>
-(Program completion time (in seconds) <a href="http://blog.cloudera.com/blog/2014/04/how-to-use-the-hbase-thrift-interface-part-3-using-scans/" target="_blank">http://blog.cloudera.com/blog/2014/04/how-to-use-the-hbase-thrift-interface-part-3-using-scans/</a>)
-</small>
+{{< figure src="/images/posts/2015-05-16-erlang-hbase-and-thrift/thrift-vs-rest1.png" title="(Program completion time (in seconds)" >}}
 
 Например, в protobuf схеме вы не найдете `filter`, которые может быть нужен при выполнении `Scan`.
 

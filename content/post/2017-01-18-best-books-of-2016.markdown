@@ -8,8 +8,7 @@ slug = "best-books-of-2016"
 date = "2017-01-18T20:46:24+04:00"
 
 +++
-<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/year_in_books_full.png" alt="" title=""/>
-<small>(image from Goodreads https://www.goodreads.com/user/year_in_books/2016/24729949)</small>
+{{< figure src="/images/posts/2017-01-18-best-books-of-2016/year_in_books_full.png" title="(image from Goodreads https://www.goodreads.com/user/year_in_books/2016/24729949)" >}}
 
 Wanted to share the best books I've read in 2016.
 
@@ -29,7 +28,7 @@ Average rating is quite adequate.
 
 [Einstein: His Life and Universe by Walter Isaacson](https://www.goodreads.com/book/show/10884.Einstein)
 
-<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/einstein.jpg" alt="" title="Einstein: His Life and Universe by Walter Isaacson"/>
+{{< figure src="/images/posts/2017-01-18-best-books-of-2016/einstein.jpg" title="Einstein: His Life and Universe by Walter Isaacson" >}}
 
 My review:
 
@@ -40,7 +39,7 @@ took many notes from the book.
 
 [Letters from a Stoic by Seneca, Robin Campbell](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic)
 
-<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/seneca.jpg" alt="" title="Letters from a Stoic by Seneca, Robin Campbell"/>
+{{< figure src="/images/posts/2017-01-18-best-books-of-2016/seneca.jpg" title="Letters from a Stoic by Seneca, Robin Campbell" >}}
 
 My review:
 
@@ -48,7 +47,7 @@ Liked it very much. I think I just became a fan of stoicism.
 
 [Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi](https://www.goodreads.com/book/show/66354.Flow)
 
-<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/flow.jpg" alt="" title="Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi"/>
+{{< figure src="/images/posts/2017-01-18-best-books-of-2016/flow.jpg" title="Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi" >}}
 
 My review:
 
@@ -61,7 +60,7 @@ in greater detail and many life examples are given.
 
 [Бизнес как игра by Сергей Абдульманов, Дмитрий Борисов, Дмитрий Кибкало](https://www.goodreads.com/book/show/28437799)
 
-<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/business_like_a_game.jpg" alt="" title="Бизнес как игра by Сергей Абдульманов, Дмитрий Борисов, Дмитрий Кибкало"/>
+{{< figure src="/images/posts/2017-01-18-best-books-of-2016/business_like_a_game.jpg" title="Бизнес как игра by Сергей Абдульманов, Дмитрий Борисов, Дмитрий Кибкало" >}}
 
 Мой отзыв:
 
@@ -73,7 +72,7 @@ There are no other editions, except Russian. Sorry, English reading folks.
 
 [Seven Concurrency Models in Seven Weeks: When Threads Unravel by Paul Butcher](https://www.goodreads.com/book/show/18467564-seven-concurrency-models-in-seven-weeks)
 
-<img class="img-rounded" src="/images/posts/2017-01-18-best-books-of-2016/7models7weeks.jpg" alt="" title="Seven Concurrency Models in Seven Weeks: When Threads Unravel by Paul Butcher"/>
+{{< figure src="/images/posts/2017-01-18-best-books-of-2016/7models7weeks.jpg" title="Seven Concurrency Models in Seven Weeks: When Threads Unravel by Paul Butcher" >}}
 
 My review:
 

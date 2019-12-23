@@ -25,14 +25,14 @@ This article tells a story behind this library. Down below you'll find answers t
 We use lager in almost all of our applications. And it works pretty well most
 of the time, except the cases where it doesn't.
 
-<img class="img-rounded" src="/images/posts/2016-04-24-chokecherry/karate.gif" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-04-24-chokecherry/karate.gif" title="" >}}
 
 It all started one day when we were experiencing a **peak load** in one of the
 applications (we'll call it FortKnox). So, FortKnox was processing a lot of
 data and producing a lot of logs (particularly, info messages). As
 shown on a picture below, we were writing logs to a file on disk.
 
-<img class="img-rounded" src="/images/posts/2016-04-24-chokecherry/app1.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-04-24-chokecherry/app1.png" title="" >}}
 
 Then we started seeing **random exits** (timeouts in calls to `lager:info`)
 from many places. These led to different parts (gen_servers, gen_fsms, etc.) of
@@ -40,7 +40,7 @@ FortKnox crashing. Some of them got restarted by their supervisor. But it was
 clear that this won't last long. Indeed, at some point, it all came down to the
 application's supervisor and **whole node stopped working**.
 
-<img class="img-rounded" src="/images/posts/2016-04-24-chokecherry/app2.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-04-24-chokecherry/app2.png" title="" >}}
 
 This is what happened. **Hard disk was not able to handle so much writes** (even in
 the presence of OS caches). [file:write][filewrite] became slower and lager's
@@ -61,7 +61,7 @@ Possible solutions were ([discussion on erlang-russian](https://groups.google.co
 lager has many settings and we could play with them. For example, we could turn
 off synchronous mode.
 
-<img class="img-rounded" src="/images/posts/2016-04-24-chokecherry/app3.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-04-24-chokecherry/app3.png" title="" >}}
 
 What will happen then is lager's mailbox start growing and, eventually, when
 there will be no more free memory, node will crash.
@@ -80,7 +80,7 @@ chokecherry**. What follows is how it works.
 
 ## Chokecherry
 
-<img class="img-rounded" src="/images/posts/2016-04-24-chokecherry/app4.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-04-24-chokecherry/app4.png" title="" >}}
 
 **shaper** accumulates incoming messages in the queue. If the queue size
 exceeds `log_queue_capacity` within a certain time period (1 second), it sends

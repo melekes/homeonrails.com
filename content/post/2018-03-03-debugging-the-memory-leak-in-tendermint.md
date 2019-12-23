@@ -61,8 +61,8 @@ the `reconnectToPeer` function. That was weird because we’re not creating any
 new peers (some of them were just failing due to timeouts and Tendermint tried
 to reconnect).
 
-<img class="img-rounded" src="/images/posts/2018-03-03-debugging-the-memory-leak-in-tendermint/1.png" alt="" title=""/>
-<img class="img-rounded" src="/images/posts/2018-03-03-debugging-the-memory-leak-in-tendermint/2.png" alt="" title=""/>
+{{< figure src="/images/posts/2018-03-03-debugging-the-memory-leak-in-tendermint/1.png" title="" >}}
+{{< figure src="/images/posts/2018-03-03-debugging-the-memory-leak-in-tendermint/2.png" title="" >}}
 
 ## Part 2. Mistake
 

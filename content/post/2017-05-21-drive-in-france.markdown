@@ -11,7 +11,7 @@ to drive tourists across France.
 
 <!--more-->
 
-<img class="img-rounded" src="/images/posts/2017-05-21-drive-in-france/route.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-05-21-drive-in-france/route.jpg" title="" >}}
 
 He especially recommended to visit
 [Saint-Malo](https://en.wikipedia.org/wiki/Saint-Malo) (city of privateers) and

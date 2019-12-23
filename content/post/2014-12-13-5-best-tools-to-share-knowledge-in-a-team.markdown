@@ -29,9 +29,7 @@ back on track.
 
 ## 1. Yammer
 
-<a href="https://yammer.com" target="_blank">
-  <img class="img-rounded" src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/yammer-logo.png" alt="Yammer"/ width="100%" title="Yammer">
-</a>
+{{< figure src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/yammer-logo.png" title="" >}}
 
 Perhaps the most popular solution on the market, which is used by well-known
 companies including eBay, Xerox and Sharp. This is a real corporate network
@@ -46,15 +44,13 @@ Well, there are other options.
 
 ## 2. Send To Inc
 
-<a href="https://sendtoinc.com/" target="_blank">
-  <img class="img-rounded" src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/sendtoinc-logo.jpg" alt="Send To Inc"/ width="100%" title="Send To Inc">
-</a>
+{{< figure src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/sendtoinc-logo.jpg" title="" >}}
 
 A great tool for sharing links, notes and files. Groups, easy addition of
 resources, robust search, and opportunity to discuss - almost everything you need
 for knowledge sharing is in the Send To Inc.
 
-<img class="img-rounded" src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/sendtoinc.jpg" alt="Send To Inc"/ width="100%" title="Send To Inc">
+{{< figure src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/sendtoinc.jpg" title="" >}}
 
 Among the distinctive features worth mentioning integration with such services
 as Flowdock, Hipchat, Evernote, Basecamp, opportunity to respond to comments
@@ -67,16 +63,14 @@ to change the activity digest schedule (either once a day, or none).
 
 ## 3. Monocle
 
-<a href="https://github.com/maccman/monocle" target="_blank">
-  <img class="img-rounded" src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/monocle-logo.png" alt="Monocle"/ width="100%" title="Monocle">
-</a>
+{{< figure src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/monocle-logo.png" title="" >}}
 
 If you are looking for something really simple and self-hosted, then you might
 like the following app - https://github.com/maccman/monocle. It have a
 minimalistic interface - news on the left, and the current article and its
 discussion on the right.
 
-<img class="img-rounded" src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/monocle.png" alt="Monocle"/ width="100%" title="Monocle">
+{{< figure src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/monocle.png" title="" >}}
 
 **Price**: free  <br />
 **Platforms**: Web only  <br />
@@ -84,9 +78,7 @@ discussion on the right.
 
 ## 4. Discourse
 
-<a href="http://www.discourse.org/" target="_blank">
-  <img class="img-rounded" src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/discourse-logo.png" alt="Discourse"/ width="100%" title="Discourse">
-</a>
+{{< figure src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/discourse-logo.png" title="" >}}
 
 Discourse - powerful forum with many features, including real time notification,
 wiki-pages, suggested topics and others. Better yet, it is 100% open-source.
@@ -94,7 +86,7 @@ You can setup it on your server or buy a cloud version (though it seems to
 me quite expensive). Using wiki pages feature, you can for example create a
 knowledge base, which will be used to store **must read** resources.
 
-<img class="img-rounded" src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/discourse.png" alt="Discourse"/ width="100%" title="Discourse">
+{{< figure src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/discourse.png" title="" >}}
 
 **Price**: free if self-hosted / monthly-paid (starting from $200/mo) if
 cloud-hosted  <br />
@@ -103,9 +95,7 @@ cloud-hosted  <br />
 
 ## 5. Google+ Private Community
 
-<a href="https://plus.google.com" target="_blank">
-  <img class="img-rounded" src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/google-plus-logo.png" alt="Google+ Private Community"/ width="100%" title="Google+ Private Community">
-</a>
+{{< figure src="/images/posts/2014-12-13-5-best-tools-to-share-knowledge-in-a-team/google-plus-logo.png" title="" >}}
 
 If you're already using Google+, a private community may satisfy your needs.
 Yes, it is only one group and one feed, but nice interface, applications for

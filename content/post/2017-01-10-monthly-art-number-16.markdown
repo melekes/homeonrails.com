@@ -37,7 +37,7 @@ accommodate what we will put into it."
 
 ## Book - Harry Potter and the Methods of Rationality
 
-<img class="img-rounded" src="/images/posts/2017-01-10-monthly-art-number-16/hpmor.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-01-10-monthly-art-number-16/hpmor.jpg" title="" >}}
 
 - http://hpmor.com/
 - http://hpmor.ru/

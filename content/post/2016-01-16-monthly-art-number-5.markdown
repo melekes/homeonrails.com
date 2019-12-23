@@ -35,12 +35,7 @@ A little girl is taken on a mind-bending tour of her distant future.
 
 ## Book - Ready Player One by Ernest Cline
 
-<p style="margin-bottom:0;">
-<img class="img-rounded" src="/images/posts/2016-01-16-monthly-art-number-5/player.jpg" alt="" width="100%" title=""/>
-</p>
-<p>
-  <small><a href="http://sepiawolf.deviantart.com/art/Ready-Player-One-334066440">(Image by Bent Holm from DeviantArt)</a></small>
-</p>
+{{< figure src="/images/posts/2016-01-16-monthly-art-number-5/player.jpg" title="(Image by Bent Holm from DeviantArt)" >}}
 
 A book for generations of gamers, written by their (games) passionate fan.
 Probably one of the first books of the cyberpunk genre, which I read. And I

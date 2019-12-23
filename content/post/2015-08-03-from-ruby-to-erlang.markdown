@@ -35,7 +35,7 @@ There are 3 main components here:
 2. `X > 3` - **filter** - conditions, that we impose on these elements;
 3. `X` - **list** - expression, which gives us the resulting element.
 
-<img class="img-rounded" src="/images/posts/2015-08-03-from-ruby-to-erlang/listc1.png" alt=""/ width="100%" title="">
+{{< figure src="/images/posts/2015-08-03-from-ruby-to-erlang/listc1.png" title="" >}}
 
 I thought that, the way it works is "one by one":
 
@@ -54,9 +54,9 @@ list comprehension, and, later on, one of the filters fell.
 What do you think will happen if `can_be_saved` throw an error for the
 third record? **Correct answer**: non of the records will be saved.
 
-<img class="img-rounded" src="/images/posts/2015-08-03-from-ruby-to-erlang/listc2.png" alt=""/ width="100%" title="">
+{{< figure src="/images/posts/2015-08-03-from-ruby-to-erlang/listc2.png" title="" >}}
 
-<img class="img-rounded" src="/images/posts/2015-08-03-from-ruby-to-erlang/listc3.png" alt=""/ width="100%" title="">
+{{< figure src="/images/posts/2015-08-03-from-ruby-to-erlang/listc3.png" title="" >}}
 
 The way it works is "one by one || one by one": firstly, Erlang generates and
 filters initial list. After that, it executes expression on the left side for
@@ -121,9 +121,7 @@ a separate process with its own mailbox. What you see are **the times of when
 it received the messages**. In contrast, things are usually happening in the
 same thread in Ruby (that is why timings are usually more accurate).
 
-<div style="align:center">
-  <img class="img-rounded" src="/images/posts/2015-08-03-from-ruby-to-erlang/lager1.png" alt=""/ width="100%" title="">
-</div>
+{{< figure src="/images/posts/2015-08-03-from-ruby-to-erlang/lager1.png" title="" >}}
 
 **Lesson #2. Do not rely on lager timings, because it is a separate gen_server (i.e. you don’t know when it will process your messages).**
 

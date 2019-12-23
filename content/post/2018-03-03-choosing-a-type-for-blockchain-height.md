@@ -62,7 +62,7 @@ inconsistency between nodes with different architectures.
 
 > I am just saying that if we decrement an uninitialized height uint64(0), all of a sudden that’s a quick mess up. if we have code that can check if `height <= 0` then we are set with `int64`. but with `uint64` only code Jesus can help us
 
-<img class="img-rounded" src="/images/posts/2018-03-03-choosing-a-type-for-blockchain-height/jesus.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2018-03-03-choosing-a-type-for-blockchain-height/jesus.jpg" title="" >}}
 
 {{< highlight go >}}
 package main

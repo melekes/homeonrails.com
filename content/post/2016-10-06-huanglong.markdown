@@ -21,7 +21,7 @@ image = "/images/posts/2016-10-06-huanglong/huanglong.jpg"
 находится в 1км от входа в парк Цзючжайгоу (идти налево если стоять лицом
 ко входу).
 
-<img class="img-rounded" src="/images/posts/2016-10-06-huanglong/bus_station.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-06-huanglong/bus_station.png" title="" >}}
 
 2 автобуса отходят утром 7:00 и 7:30 (только в пиковый сезон с апреля по
 ноябрь). Ехать 3 часа. Я покупал прямо перед отправлением. В автобусе будет
@@ -34,11 +34,11 @@ image = "/images/posts/2016-10-06-huanglong/huanglong.jpg"
 
 **Карта**
 
-<img class="img-rounded" src="/images/posts/2016-10-06-huanglong/map.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-06-huanglong/map.jpg" title="" >}}
 
 У правой ветки 2 маршрута. Выбирайте horse track - на нём практически нет людей
 (на основном как в Московском метро в часы пик).
 
-<img class="img-rounded" src="/images/posts/2016-10-06-huanglong/huanglong2.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-10-06-huanglong/huanglong2.jpg" title="" >}}
 
 Остались вопросы? Пишите их в комментариях.

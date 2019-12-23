@@ -99,7 +99,7 @@ After the conversion has finished, we may begin analyzing the results.
 $ kcachegrind callgrind.out.appname
 ```
 
-<img class="img-rounded" src="/images/posts/2016-05-25-profiling-in-erlang/eep.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-05-25-profiling-in-erlang/eep.png" title="" >}}
 
 3 important points:
 
@@ -126,7 +126,7 @@ I'd tried to do so, I got "Segmentation fault".
 $ cat /tmp/ef.test.0.out | ./flamegraph.riak-color.pl > output.svg
 ```
 
-<img class="img-rounded" src="/images/posts/2016-05-25-profiling-in-erlang/eflame2.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-05-25-profiling-in-erlang/eflame2.png" title="" >}}
 
 ## timer:tc
 

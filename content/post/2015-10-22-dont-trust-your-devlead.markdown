@@ -10,11 +10,7 @@ slug: dont-trust-your-devlead
 
 "Не верь своему тимлиду" или когда не стоит слепо верить словам вашего тимлида.
 
-<div style="align:center">
-  <img class="img-rounded" src="/images/posts/2015-10-22-dont-trust-your-devlead/dog.png" alt="" width="100%" title=""/>
-</div>
-
-<br/>
+{{< figure src="/images/posts/2015-10-22-dont-trust-your-devlead/dog.png" title="" >}}
 
 <!--more-->
 
@@ -114,9 +110,7 @@ Average: 4963 mics
 Кода меньше в разы, но по скорости уступает, а на данном участке нам важна была
 именно скорость.
 
-<div style="align:center">
-  <img class="img-rounded" src="/images/posts/2015-10-22-dont-trust-your-devlead/avgs.png" alt="" width="100%" title=""/>
-</div>
+{{< figure src="/images/posts/2015-10-22-dont-trust-your-devlead/avgs.png" title="" >}}
 (*создал диаграмму с помощью R*)
 
 Конкретные цифры не так важны, ибо они зависят от множества факторов, включая

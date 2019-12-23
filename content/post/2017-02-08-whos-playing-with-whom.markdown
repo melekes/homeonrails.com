@@ -15,7 +15,7 @@ title = "Кто с кем играет: кошка со мной или я с н
 
 Это отрывок из книги "Будущее разума" Митио Каку. Он, как и вся книга, мне очень понравились.
 
-<img class="img-rounded" src="/images/posts/2017-02-08-whos-playing-with-whom/fom_cover.jpg" alt="" title="Будущее разума"/>
+{{< figure src="/images/posts/2017-02-08-whos-playing-with-whom/fom_cover.jpg" title="Будущее разума" >}}
 
 - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5_%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B0_(%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0))
 - [Litres](https://www.litres.ru/mitio-kaku/buduschee-razuma/chitat-onlayn/)

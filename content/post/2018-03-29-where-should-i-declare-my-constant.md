@@ -81,7 +81,7 @@ func A() {
 }
 {{< /highlight >}}
 
-<img class="img-rounded" src="/images/posts/2018-03-29-where-should-i-declare-my-constant/flowchart.png" alt="" title=""/>
+{{< figure src="/images/posts/2018-03-29-where-should-i-declare-my-constant/flowchart.png" title="" >}}
 
 The flowchart above is simplified, of course. But at the very least, it
 provides some guidance.

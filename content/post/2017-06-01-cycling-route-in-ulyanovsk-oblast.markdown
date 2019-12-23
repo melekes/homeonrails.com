@@ -11,7 +11,7 @@ date = "2017-06-01T01:46:01+02:00"
 
 (Cycling route in Ulyanovsk Oblast)
 
-<img class="img-rounded" src="/images/posts/2017-06-01-cycling-route-in-ulyanovsk-oblast/poldomasovo.png" alt="" title=""/>
+{{< figure src="/images/posts/2017-06-01-cycling-route-in-ulyanovsk-oblast/poldomasovo.png" title="" >}}
 
 Сложность (difficulty): легко (easy)<br>
 Протяженность в одну сторону (distance, one way): 17.7км (11.268 miles)

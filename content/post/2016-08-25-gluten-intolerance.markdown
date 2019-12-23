@@ -26,7 +26,7 @@ image = "/images/posts/2016-08-25-gluten-intolerance/ibar.png"
 Каково же было мое удивление когда я увидел результаты. Нет, аллергия на рыбу
 никуда не пропала. Но, оказывается у меня еще к тому же аллергия на глютен.
 
-<img class="img-rounded" src="/images/posts/2016-08-25-gluten-intolerance/ibar.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-08-25-gluten-intolerance/ibar.png" title="" >}}
 
 Глютен похоже становится новой маркетинговой штучкой. Дэвид Перлмуттер в своей
 книге ["Еда и мозг. Что углеводы делают со здоровьем, мышлением и

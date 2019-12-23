@@ -24,7 +24,7 @@ slug: brain-haiku-contest
 
 [1. Партия в шахматы](http://lumosityhaikucontest.com.strutta.com/entry/8015050)
 
-<img class="img-rounded" src="https://d3t0gve8zpraeo.cloudfront.net/5384fe6adfe16fadd134cddaa9eaa25ac0bbde5e.jpg" alt="Chess game"/ width="450" title="Chess game">
+{{< figure src="https://d3t0gve8zpraeo.cloudfront.net/5384fe6adfe16fadd134cddaa9eaa25ac0bbde5e.jpg" title="" >}}
 
 won my first chess game  <br />
 brain produces dopamine  <br />
@@ -40,7 +40,7 @@ today's meal smells good
 
 [2. Победи своих врагов](http://lumosityhaikucontest.com.strutta.com/entry/8015123)
 
-<img class="img-rounded" src="https://d3t0gve8zpraeo.cloudfront.net/0d4b16e40cc389576729b6b53208ac44ccb8aeca.jpg" alt="Defeat your enemies"/ width="450" title="Defeat your enemies">
+{{< figure src="https://d3t0gve8zpraeo.cloudfront.net/0d4b16e40cc389576729b6b53208ac44ccb8aeca.jpg" title="" >}}
 
 pan stands on the stove  <br />
 my lunch will be ready soon...  <br />

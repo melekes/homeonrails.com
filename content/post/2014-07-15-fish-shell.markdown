@@ -16,7 +16,7 @@ slug: fish-shell
 Одновременно с этим [@saratovsource](https://twitter.com/saratovsource)
 намекнул, что пересел на Fish shell около полугода назад и вполне доволен.
 
-{% img /images/posts/2014-07-15-fish-shell/logo.png %}
+{{< figure src="/images/posts/2014-07-15-fish-shell/logo.png" >}}
 
 <!--more-->
 
@@ -31,7 +31,7 @@ Unix-подобных операционных систем. К её плюса�
 набираете. И если это то что вам нужно, смело жмите `Ctrl-f` или `right`. Очень
 удобно!
 
-{% img /images/posts/2014-07-15-fish-shell/fish1-o.gif %}
+{{< figure src="/images/posts/2014-07-15-fish-shell/fish1-o.gif" >}}
 
 Есть аналогичный плагин для zsh - [zsh-autosuggestions][2].
 
@@ -39,7 +39,7 @@ Unix-подобных операционных систем. К её плюса�
 
 Также полезная и удобная штука.
 
-{% img /images/posts/2014-07-15-fish-shell/fish2-o.gif %}
+{{< figure src="/images/posts/2014-07-15-fish-shell/fish2-o.gif" >}}
 
 ### 3. fish_config
 

@@ -26,7 +26,7 @@ image = "/images/posts/2016-07-29-how-to-choose-a-job-correctly/chart.png"
 
 Совет: если у вас лишь 1 или 2 варианта, задумайтесь и найдите еще.
 
-<img class="img-rounded" src="/images/posts/2016-07-29-how-to-choose-a-job-correctly/hs.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-07-29-how-to-choose-a-job-correctly/hs.jpg" title="" >}}
 
 ## 2. Ценность времени
 
@@ -41,8 +41,7 @@ image = "/images/posts/2016-07-29-how-to-choose-a-job-correctly/chart.png"
 Надо отвоевать себя для себя самого, беречь время, которое у нас отбирается силой, похищается, утекает впустую на дурные дела и безделье.
 {% endblockquote %}
 
-<img class="img-rounded" src="/images/posts/2016-07-29-how-to-choose-a-job-correctly/time.jpg" alt="" width="100%" title="Кадр из фильма Время"/>
-Кадр из фильма [Время](https://www.kinopoisk.ru/film/517988/).
+{{< figure src="/images/posts/2016-07-29-how-to-choose-a-job-correctly/time.jpg" title="Кадр из фильма Время" >}}
 
 Для тех кто смотрел данный фильм, я не рекомендую все время торопиться. Что я
 рекомендую, так это **периодически спрашивать себя - “А не хуйней ли я
@@ -65,7 +64,7 @@ image = "/images/posts/2016-07-29-how-to-choose-a-job-correctly/chart.png"
 
 Сложный график для наглядности:
 
-<img class="img-rounded" src="/images/posts/2016-07-29-how-to-choose-a-job-correctly/chart.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-07-29-how-to-choose-a-job-correctly/chart.png" title="" >}}
 
 **Когда ты выбираешь работу, ты выбираешь место, где проведешь годы своей жизни.**
 

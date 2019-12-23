@@ -26,7 +26,7 @@ slug: best-books-for-self-development
 
 ### 1. Выйди из зоны комфорта (Брайн Трейси)
 
-<img class="img-rounded" style="float: left; margin-top: 25px; margin-right: 15px;" src="/images/posts/2014-11-30-best-books-for-self-development/eat-that-frog.jpg" alt="" width="150" title="Выйди из зоны комфорта (Брайн Трейси)">
+{{< figure src="/images/posts/2014-11-30-best-books-for-self-development/eat-that-frog.jpg" title="" >}}
 
 Через всю книгу идёт одна простая мысль: к сложной задаче, которую вам рано или
 поздно придется сделать, лучше приступать без отлагательств. К примеру, если
@@ -44,7 +44,7 @@ slug: best-books-for-self-development
 
 ### 2. Ловушки мышления (Чип Хиз и Дэн Хиз)
 
-<img class="img-rounded" style="float: left; margin-top: 25px; margin-right: 15px;" src="/images/posts/2014-11-30-best-books-for-self-development/decisive.jpg" alt="" width="150" title="Ловушки мышления (Чип Хиз и Дэн Хиз)">
+{{< figure src="/images/posts/2014-11-30-best-books-for-self-development/decisive.jpg" title="" >}}
 
 В книге рассматриваются ошибки, которые люди совершают при выборе того или иного
 решения, и даются советы, которые могут помочь сделать правильный выбор.
@@ -69,7 +69,7 @@ slug: best-books-for-self-development
 
 ### 3. Сила воли (Келли Макгонигал)
 
-<img class="img-rounded" style="float: left; margin-top: 25px; margin-right: 15px;" src="/images/posts/2014-11-30-best-books-for-self-development/willpower.jpg" alt="" width="150" title="Сила воли (Келли Макгонигал)">
+{{< figure src="/images/posts/2014-11-30-best-books-for-self-development/willpower.jpg" title="" >}}
 
 Если честно, книга написана для домохозяек, которым как-то надо заставить себя
 встать на беговую дорожку и сбросить пару килограммов. Поймите меня правильно,
@@ -85,7 +85,7 @@ slug: best-books-for-self-development
 
 ### 4. Высшая цель (Майкл Рэй)
 
-<img class="img-rounded" style="float: left; margin-top: 25px; margin-right: 15px;" src="/images/posts/2014-11-30-best-books-for-self-development/the_highest_goal.jpg" alt="" width="150" title="Высшая цель (Майкл Рэй)">
+{{< figure src="/images/posts/2014-11-30-best-books-for-self-development/the_highest_goal.jpg" title="" >}}
 
 "В чем смысл моей жизни?" - сложный вопрос и автор пытается ответить на него.
 Он не дает конкретный ответ, потому как его (единственно правильного ответа)
@@ -108,7 +108,7 @@ slug: best-books-for-self-development
 
 ### 5. Никогда не ешь в одиночку (Кейт Феррацци и Тал Рэз)
 
-<img class="img-rounded" style="float: left; margin-top: 25px; margin-right: 15px;" src="/images/posts/2014-11-30-best-books-for-self-development/nevereatalone.jpg" alt="" width="150" title="Никогда не ешь в одиночку (Кейт Феррацци и Тал Рэз)">
+{{< figure src="/images/posts/2014-11-30-best-books-for-self-development/nevereatalone.jpg" title="" >}}
 
 Иллюстрация всем известной поговорки "Не имей сто рублей, а имей сто друзей". В
 первой части Кейт рассказывает о его пути к успеху и какое важное значение для
@@ -122,7 +122,7 @@ slug: best-books-for-self-development
 
 ### 6. Тайм-драйв (Глеб Архангельский)
 
-<img class="img-rounded" style="float: left; margin-top: 25px; margin-right: 15px;" src="/images/posts/2014-11-30-best-books-for-self-development/timedrive.jpg" alt="" width="150" title="Тайм-драйв (Глеб Архангельский)">
+{{< figure src="/images/posts/2014-11-30-best-books-for-self-development/timedrive.jpg" title="" >}}
 
 Лучшая книга по тайм-менеджменту, которую я читал! Количество полезной
 информации в расчёте на 1 страницу просто зашкаливает. Глеб собрал лучшие
@@ -134,7 +134,7 @@ slug: best-books-for-self-development
 
 ### 7. Психология убеждения (Роберт Чалдини, Стив Мартин и Ноа Гольдштейн)
 
-<img class="img-rounded" style="float: left; margin-top: 25px; margin-right: 15px;" src="/images/posts/2014-11-30-best-books-for-self-development/yes.jpg" alt="" width="150" title="Психология убеждения (Роберт Чалдини, Стив Мартин и Ноа Гольдштейн)">
+{{< figure src="/images/posts/2014-11-30-best-books-for-self-development/yes.jpg" title="" >}}
 
 50 разных историй (исследований) о том, как всего пара слов в предложении может
 кардинально повлиять на ситуацию. К примеру, в одном из национальных парков в
@@ -149,7 +149,7 @@ slug: best-books-for-self-development
 
 ### 8. Как привести дела в порядок (Дэвид Аллен)
 
-<img class="img-rounded" style="float: left; margin-top: 25px; margin-right: 15px;" src="/images/posts/2014-11-30-best-books-for-self-development/gtd.jpg" alt="" width="150" title="Как привести дела в порядок (Дэвид Аллен)">
+{{< figure src="/images/posts/2014-11-30-best-books-for-self-development/gtd.jpg" title="" >}}
 
 Классика жанра.
 
@@ -172,7 +172,7 @@ slug: best-books-for-self-development
 
 ### 9. Удовольствие от Х (Стивен Строгац)
 
-<img class="img-rounded" style="float: left; margin-top: 25px; margin-right: 15px;" src="/images/posts/2014-11-30-best-books-for-self-development/joy_of_x.jpg" alt="" width="150" title="Удовольствие от Х (Стивен Строгац)">
+{{< figure src="/images/posts/2014-11-30-best-books-for-self-development/joy_of_x.jpg" title="" >}}
 
 Всегда приятно читать автора, который может сложные вещи объяснить на пальцах.
 Если математика вас всегда пугала (всякие интегралы, пределы и т.п.), то

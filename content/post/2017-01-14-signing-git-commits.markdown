@@ -17,7 +17,7 @@ Github в [апреле прошлого
 года](https://github.com/blog/2144-gpg-signature-verification) начал показывать
 зеленый бейджик когда коммит подписан. Вот как он выглядит:
 
-<img class="img-rounded" src="/images/posts/2017-01-14-signing-git-commits/github.png" alt="" title=""/>
+{{< figure src="/images/posts/2017-01-14-signing-git-commits/github.png" title="" >}}
 
 <!--more-->
 

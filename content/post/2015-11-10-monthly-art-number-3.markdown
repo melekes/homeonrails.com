@@ -14,15 +14,13 @@ book or even painting.
 
 ## Film - The Truman Show (1998)
 
-<img class="img-rounded" src="/images/posts/2015-11-10-monthly-art-number-3/show.jpg" alt="" width="100%" title=""/>
-<small>(http://katetser.deviantart.com/art/The-Truman-Show-430397908)</small>
+{{< youtube id="loTIzXAS7v4" >}}
 
 They say that life is a show. Well, for Truman Burbank, this is literally a
 show, though he does not know it yet. Amazing play of Jim Carrey!
 
 - IMDB: http://www.imdb.com/title/tt0120382/
 - Kinopoisk.ru: http://www.kinopoisk.ru/film/4541/
-
 
 ## Short film - Make It Count by Casey Neistat
 
@@ -35,7 +33,7 @@ Max. It took 10 days."
 
 ## Book - The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution by Walter Isaacson
 
-<img class="img-rounded" src="/images/posts/2015-11-10-monthly-art-number-3/innovators.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2015-11-10-monthly-art-number-3/innovators.png" title="" >}}
 
 The book will be interesting to people passionate about the digital world. The
 author tells the stories of people, who have made an enormous contribution to

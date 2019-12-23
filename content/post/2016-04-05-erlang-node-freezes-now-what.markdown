@@ -8,7 +8,7 @@ title: Зависла Erlang нода. Что делать?
 slug: erlang-node-freezes-now-what
 ---
 
-<img class="img-rounded" src="/images/posts/2016-04-05-erlang-node-freezes-now-what/debug_mode_on.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-04-05-erlang-node-freezes-now-what/debug_mode_on.jpg" title="" >}}
 
 <!--more-->
 
@@ -51,22 +51,22 @@ $ erl
 > crashdump_viewer:start().
 ```
 
-<img class="img-rounded" src="/images/posts/2016-04-05-erlang-node-freezes-now-what/crashdump_ug1.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-04-05-erlang-node-freezes-now-what/crashdump_ug1.png" title="" >}}
 
 Общая информация.
 
-<img class="img-rounded" src="/images/posts/2016-04-05-erlang-node-freezes-now-what/crashdump_ug2.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-04-05-erlang-node-freezes-now-what/crashdump_ug2.png" title="" >}}
 
 Список процессов.
 
-<img class="img-rounded" src="/images/posts/2016-04-05-erlang-node-freezes-now-what/crashdump_ug3.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-04-05-erlang-node-freezes-now-what/crashdump_ug3.png" title="" >}}
 
 Информация по одному из немногих запущенных процессов с большим количеством
 редукций. Чтобы найти конкретный процесс, внутри которого произошла блокировка,
 пришлось просмотреть несколько штук (количество запущенных процессов обычно =
 числу ядер).
 
-<img class="img-rounded" src="/images/posts/2016-04-05-erlang-node-freezes-now-what/crashdump_ug4.png" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-04-05-erlang-node-freezes-now-what/crashdump_ug4.png" title="" >}}
 
 stackdump процесса.
 

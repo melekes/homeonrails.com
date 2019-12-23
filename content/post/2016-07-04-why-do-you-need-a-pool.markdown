@@ -38,7 +38,7 @@ This gives us a lot of benefits (some of them are not so obvious):
 
 I think, only the last one requires explanation, others are pretty obvious.
 
-<img src="/images/posts/2016-07-04-why-do-you-need-a-pool/single.gif" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-07-04-why-do-you-need-a-pool/single.gif" title="" >}}
 
 Our friend Barney here wants to buy some beer, so he takes a long walk to the nearest store. It will take him `3 * (t1 + t2)` to buy 3 beers.
 
@@ -46,7 +46,7 @@ t1 is a network latency, t2 - processing time.
 
 What if instead, he and his buddies will go to the store together. **Even if the store has only one cash register (like Redis) and the cashier serve them in turn, they will buy 3 beers in `t1 + 3 * t2`**.
 
-<img src="/images/posts/2016-07-04-why-do-you-need-a-pool/pool.gif" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-07-04-why-do-you-need-a-pool/pool.gif" title="" >}}
 
 Most often t1 much greater than t2. Therefore, `t1 + 3 * t2` < `3 * (t1 + t2)`.
 In other words, it is better to send N requests in parallel comparing to

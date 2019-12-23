@@ -8,7 +8,7 @@ title: Разрабатываем ruby gem в docker контейнере
 slug: razrabatyvaiem-ruby-gem-v-docker-kontieinierie
 ---
 
-<img class="img-rounded" src="/images/posts/2015-05-07-razrabatyvaiem-ruby-gem-v-docker-kontieinierie/logo.png" alt=""/ width="450" title="Разрабатываем ruby gem в docker контейнере">
+{{< figure src="/images/posts/2015-05-07-razrabatyvaiem-ruby-gem-v-docker-kontieinierie/logo.png" title="" >}}
 
 Контейнеры захватывают вселенную, и ничего с этим не поделаешь. Несмотря на то,
 что я являюсь старым приверженцем Vagrant'а, на днях мне все же захотелось

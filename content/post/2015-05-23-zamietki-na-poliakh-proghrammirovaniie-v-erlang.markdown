@@ -14,7 +14,7 @@ slug: zamietki-na-poliakh-proghrammirovaniie-v-erlang
 
 <!--more-->
 
-<img class="img-rounded" src="/images/posts/2015-05-23-zamietki-na-poliakh-proghrammirovaniie-v-erlang/book.jpg" alt=""/ width="304" title="Программирование в Erlang">
+{{< figure src="/images/posts/2015-05-23-zamietki-na-poliakh-proghrammirovaniie-v-erlang/book.jpg" title="Программирование в Erlang" width="304px" >}}
 
 Вот что советуют Франческо Чезарини и Симон Томпсон в своей книге ["Программирование в Erlang"][1]:
 

@@ -18,7 +18,7 @@ like an experiment, so let me know if I should continue or not.
 
 ## Film - Dogville (2003)
 
-<img class="img-rounded" src="/images/posts/2015-09-10-monthly-art-number-1/dogville.jpg" alt=""/ width="100%" title="dogville">
+{{< youtube id="J5-LqwUHTaM" >}}
 
 An unusual movie, although simple in its essence. The astonishing work of Lars
 Von Trier, whom I became a fan.
@@ -36,9 +36,7 @@ If you like it, read ["behind the scenes" blog post](http://jacksgap.com/istanbu
 
 ## Music album - Taranta Project - Ludovico Einaudi
 
-<div style="align:center">
-  <img class="img-rounded" src="/images/posts/2015-09-10-monthly-art-number-1/taranta.jpg" alt=""/ width="100%" title="Taranta Project - Ludovico Einaudi">
-</div>
+{{< figure src="/images/posts/2015-09-10-monthly-art-number-1/taranta.jpg" title="Taranta Project - Ludovico Einaudi" >}}
 
 Italian, North African and Turkish folk fusions directed by amazing composer and pianist Ludovico Einaudi.
 

@@ -11,7 +11,8 @@ tags = ["interviews"]
 title = "Money talk или как занять места бизнес класса на галере"
 +++
 
-<img class="img-rounded" src="/images/posts/2019-07-18-money-talk/galley2.jpg" alt="" title="Ben-Hur (1959 film)"/>
+
+{{< figure src="/images/posts/2019-07-18-money-talk/galley2.jpg"  title="Ben-Hur (1959 film)" >}}
 
 <!--more-->
 

@@ -11,7 +11,7 @@ date = "2017-06-25T15:57:01+04:00"
 
 (Cycling route in Ulyanovsk Oblast #2)
 
-<img class="img-rounded" src="/images/posts/2017-06-25-cycling-route-in-ulyanovsk-oblast-2/newtown.png" alt="" title=""/>
+{{< figure src="/images/posts/2017-06-25-cycling-route-in-ulyanovsk-oblast-2/newtown.png" title="" >}}
 
 Сложность (difficulty): легко (easy)<br>
 Протяженность в одну сторону (distance, one way): 9.6км (6.7 miles)

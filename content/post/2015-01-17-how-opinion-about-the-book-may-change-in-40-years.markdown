@@ -8,12 +8,7 @@ title: Как мнение о книге может меняться в тече
 slug: how-opinion-about-the-book-may-change-in-40-years
 ---
 
-<p style="margin-bottom:0;">
-  <img class="img-rounded" src="/images/posts/2015-01-17-how-opinion-about-the-book-may-change-in-40-years/catcher.jpg" alt="" width="100%" title="Как мнение о книге может меняться в течение 40 лет"/>
-</p>
-<p>
-  <small><a href="http://tulinovr.deviantart.com/art/rye-129185839">(рисунок TulinovR с deviantart.com)</a></small>
-</p>
+{{< figure src="/images/posts/2015-01-17-how-opinion-about-the-book-may-change-in-40-years/catcher.jpg" title="(рисунок TulinovR с deviantart.com)" >}}
 
 Бывает, что книга, которую вы только что прочли, вам не понравилась. Но что
 будет через 5 лет? Изменится ли ваше мнение о ней? А через 10 лет? Ниже

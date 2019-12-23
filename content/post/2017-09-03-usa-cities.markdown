@@ -20,7 +20,7 @@ You think of luxury apartments with a view of the park and limousines waiting
 for guests at the entrance. Only when you go out into the street, the smell
   knocks you off your feet. An inexpressible smell of urine and garbage.
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/new-york-1.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/new-york-1.jpg" title="" >}}
 
 **Central Park** itself is very cool! In the morning there are runners everywhere,
 in the middle of a day people have their lunch and in the evening they watch
@@ -31,7 +31,7 @@ but changed their mind. Probably, because we are Russians. It is a pity we did
 not have time to take a photo. Try to imagine a raccoon standing on its hind
 legs with diluted paws.
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/new-york-2.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/new-york-2.jpg" title="" >}}
 
 Everyone says **the subway** in New York is confusing. We were using Google Maps
 and have never made a mistake. The subway is very old, with its own history and
@@ -54,7 +54,7 @@ Good for them!
 
 **What I'll remember**: ice cream trucks.
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/phily-1.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/phily-1.jpg" title="" >}}
 
 Unlike New York, here ice cream trucks ride through the central streets with
 creepy music at full volume:
@@ -87,13 +87,13 @@ like Batman's butler (Alfred), gave us a magnificent tour of the museum.
 
 **What I'll remember**: skyscrapers in the fog.
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/atlanta-1.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/atlanta-1.jpg" title="" >}}
 
 ## Dallas
 
 **What I'll remember**: the first time I saw so many transvestites.
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/dallas-1.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/dallas-1.jpg" title="" >}}
 
 ## Austin
 
@@ -108,13 +108,13 @@ A couple of places that are recommended by locals:
 - [Barton Springs Pool](https://austintexas.gov/department/barton-springs-pool)
 - Rainey Street Historic District (Banger's Sausage House & Beer Garden & THE BLACKHEART)
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/austin-1.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/austin-1.jpg" title="" >}}
 
 ## San Antonio
 
 **What I'll remember**: canals like they have in Venice, many people of old age.
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/san-antonio-1.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/san-antonio-1.jpg" title="" >}}
 
 ## Grand Canyon
 
@@ -128,9 +128,9 @@ take a tent or stay at Phantom Ranch for a few days. We chose the latter. We
 went down via the South Kebab trail (3 hours). We went up via the Bright Angel
 trail (6.5 hours).
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/grand-canyon-1.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/grand-canyon-1.jpg" title="" >}}
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/grand-canyon-2.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/grand-canyon-2.jpg" title="" >}}
 
 Bonus for readers: you can swim in Colorado River. If you go from Phantom
 Ranch, cross the Bright Angel Suspension Bridge, turn right and go ~ 1 km, you
@@ -138,7 +138,7 @@ should be able to see a place where the channel is temporarily divided into 2
 parts (one with fast, the other with a slow current). There are a small sandy
 beach and a stone from which you can jump into the water.
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/grand-canyon-3.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/grand-canyon-3.jpg" title="" >}}
 
 ## Las Vegas
 
@@ -151,7 +151,7 @@ city with casinos.
 
 **What I'll remember**: free shows, a lot of people filming something.
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/la-1.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/la-1.jpg" title="" >}}
 
 ## San Francisco
 
@@ -164,8 +164,8 @@ petrol. In general, credit cards are not accepted.
 
 On the pier, where the submarine USS Pampanito is moored, we found a room, full of arcade machines!
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/sf-1.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/sf-1.jpg" title="" >}}
 
 And we had a launch at the most American looking bar (at least, how I would imagine it) - [Tommy's Joynt](http://tommysjoynt.com/):
 
-<img class="img-rounded" src="/images/posts/2017-09-03-usa/sf-2.jpg" alt="" title=""/>
+{{< figure src="/images/posts/2017-09-03-usa/sf-2.jpg" title="" >}}

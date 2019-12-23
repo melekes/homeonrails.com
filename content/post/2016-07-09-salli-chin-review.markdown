@@ -7,7 +7,7 @@ title = "Отзыв о стуле Salli Chin"
 image = "images/posts/2016-07-09-salli-chin-review/salli1.jpg"
 
 +++
-<img class="img-rounded" src="/images/posts/2016-07-09-salli-chin-review/salli1.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-07-09-salli-chin-review/salli1.jpg" title="" >}}
 
 <!--more-->
 
@@ -27,7 +27,7 @@ image = "images/posts/2016-07-09-salli-chin-review/salli1.jpg"
 Непонятно зачем спинка. Облокотиться на нее не получается. Только потянуться
 разве что, хотя опять же лучше встать, пройтись.
 
-<img class="img-rounded" src="/images/posts/2016-07-09-salli-chin-review/salli2.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-07-09-salli-chin-review/salli2.jpg" title="" >}}
 
 Сидеть удобно, но **некий дискомфорт все же присутствует** (по крайней мере у
 меня). Думается, это из-за того что стул состоит из 2 половинок и ветви
@@ -39,7 +39,7 @@ image = "images/posts/2016-07-09-salli-chin-review/salli1.jpg"
 - вставать легче (так как стул выше)
 - кресло регулируется по высоте и наклону
 
-<img class="img-rounded" src="/images/posts/2016-07-09-salli-chin-review/salli3.jpg" alt="" width="100%" title=""/>
+{{< figure src="/images/posts/2016-07-09-salli-chin-review/salli3.jpg" title="" >}}
 
 Еще минусы:
 

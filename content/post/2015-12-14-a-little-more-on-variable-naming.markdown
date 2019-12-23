@@ -23,9 +23,7 @@ protected static final int TTL = 86400;
 ```
 <small>(https://github.com/apache/hbase/blob/a545d71295e582398b2689ed09d2167d7f118cec/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestColumnSchemaModel.java#L35)</small>
 
-<div style="align:center">
-  <img class="img-rounded" src="/images/posts/2015-12-14-a-little-more-on-variable-naming/wtf.png" alt="" width="100%" title=""/>
-</div>
+{{< figure src="/images/posts/2015-12-14-a-little-more-on-variable-naming/wtf.png" title="" >}}
 
 Что это? Минуты, секунды, миллисекунды? Как я должен понять это?
 

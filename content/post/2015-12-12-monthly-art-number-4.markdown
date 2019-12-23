@@ -14,25 +14,23 @@ book or even painting.
 
 ## Film - Dances with Wolves (1990)
 
-<img class="img-rounded" src="/images/posts/2015-12-12-monthly-art-number-4/wolves.png" alt="" width="100%" title=""/>
+{{< youtube id="J0obOvGGb1U" >}}
 
 At his [recent interview][1] with Tim Ferriss, Kevin Costner said that "Dances
 with Wolves" is the most beloved movie of his. And I can't agree more - it is
 stunning! Despite the fact that this film is 3 hours long, I never got bored or
 anything like that.
 
-- Trailer: https://www.youtube.com/watch?v=J0obOvGGb1U
 - IMDB: http://www.imdb.com/title/tt0099348/
 - Kinopoisk.ru: http://www.kinopoisk.ru/film/2037/
 
 ## Short film - Feast (2014)
 
-<img class="img-rounded" src="/images/posts/2015-12-12-monthly-art-number-4/feast.jpg" alt="" width="100%" title=""/>
+https://vk.com/video30513051_171032233
 
 "The love life of a man as told through the meals he gives his adopted dog,
 Winston."
 
-- Vk.com: https://vk.com/video30513051_171032233
 - IMDB: http://www.imdb.com/title/tt3689498/
 - Kinopoisk.ru: http://www.kinopoisk.ru/film/842712/
 
