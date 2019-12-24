@@ -3,7 +3,7 @@ date = "2017-03-05T12:00:12+04:00"
 draft = false
 slug = "podcasts-i-am-listening-to"
 tags = ["collections"]
-title = "Podcasts I am listening to"
+title = "Podcasts I listen to"
 
 +++
 Last updated: Mon, Dec. 23, 2019
