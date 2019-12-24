@@ -1,6 +1,6 @@
 languageCode = "en-us"
 
-baseURL             = "http://homeonrails.com/"
+baseURL             = "https://www.homeonrails.com/"
 copyright           = "All rights reserved"
 paginate            = 10
 pluralizeListTitles = false
@@ -26,7 +26,7 @@ disqusshortname    = "homeonrails"
 [params]
   author                = "Anton Kaliaev"
   authorlocation        = ""
-  authorwebsite         = "http://homeonrails.com"
+  authorwebsite         = "https://www.homeonrails.com"
   bio                   = "Software engineer, blogger, public speaker, traveler"
   cover                 = "images/cover.png"
   description           = "Success is not final, failure is not fatal: it is the courage to continue that counts. Winston Churchill"
