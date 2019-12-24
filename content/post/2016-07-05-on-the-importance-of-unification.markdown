@@ -25,9 +25,9 @@ for things like map and filter to be built into Go and we said no". He gave
   way. "Uu, I could do something different." You might even spend half an hour
   playing with a few lines of code... and it's kind of a waste of time to do
   it, but worse, when you come back to the program later, you have to recreate
-  that thought process.
+  that thought process. Rob Pike
 
-> Preferable to have just one way, or at least fewer, simpler ways.
+> Preferable to have just one way, or at least fewer, simpler ways. Rob Pike
 
 {{< youtube id="rFejpH_tAHM" >}}
 

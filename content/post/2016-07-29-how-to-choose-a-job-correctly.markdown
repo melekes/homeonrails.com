@@ -38,7 +38,7 @@ image = "/images/posts/2016-07-29-how-to-choose-a-job-correctly/chart.png"
 [Марка Аврелия](https://www.goodreads.com/book/show/30659.Meditations)).
 
 > Надо отвоевать себя для себя самого, беречь время, которое у нас отбирается
-  силой, похищается, утекает впустую на дурные дела и безделье.
+  силой, похищается, утекает впустую на дурные дела и безделье. Сенека
 
 {{< figure src="/images/posts/2016-07-29-how-to-choose-a-job-correctly/time.jpg" title="Кадр из фильма Время" >}}
 

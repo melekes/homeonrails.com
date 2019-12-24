@@ -22,6 +22,7 @@ slug: erlang-hbase-and-thrift
 начале 2013 он канул в лету.
 
 > We removed the Avro gateway because the implementation as contributed was a work in progress that was not subsequently maintained.
+http://comments.gmane.org/gmane.comp.java.hadoop.hbase.user/32617
 
 Третья опция отпадает, потому как ссылка битая - [см. официальную
 документацию][2]. Видимо, в Facebook решили прекратить поддержку этого клиента.
