@@ -64,3 +64,9 @@ rationally. This book is incredibly funny and you can learn a lot. Awesome!
 ---
 
 If you like these, you might want to check out [the full list on Goodreads](https://www.goodreads.com/review/list/24729949?read_at=2017&sort=rating).
+
+Other years:
+
+- [2019](/2019/12/my-favorite-books-of-2019/)
+- [2018](/2019/01/my-favorite-books-of-2018/)
+- [2016](/2017/01/best-books-of-2016/)

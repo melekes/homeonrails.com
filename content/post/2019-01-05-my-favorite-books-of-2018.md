@@ -51,3 +51,9 @@ Here are my top 5 favorites of 2018:
 ---
 
 If you like these, you might want to check out [the full list on Goodreads](https://www.goodreads.com/review/list/24729949?read_at=2018&sort=rating).
+
+Other years:
+
+- [2019](/2019/12/my-favorite-books-of-2019/)
+- [2017](/2017/12/my-favorite-books-of-2017)
+- [2016](/2017/01/best-books-of-2016/)
