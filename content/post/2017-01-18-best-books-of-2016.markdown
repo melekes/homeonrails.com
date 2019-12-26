@@ -8,7 +8,7 @@ slug = "best-books-of-2016"
 date = "2017-01-18T20:46:24+04:00"
 
 +++
-{{< figure src="/images/posts/2017-01-18-best-books-of-2016/year_in_books_full.png" title="(image from Goodreads https://www.goodreads.com/user/year_in_books/2016/24729949)" >}}
+{{< figure src="/images/posts/2017-01-18-best-books-of-2016/year_in_books_full.png" title="" >}}
 
 Wanted to share the best books I've read in 2016.
 

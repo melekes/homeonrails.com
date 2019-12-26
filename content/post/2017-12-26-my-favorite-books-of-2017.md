@@ -6,7 +6,7 @@ tags = ["books"]
 title = "My favorite books of 2017"
 
 +++
-{{< figure src="/images/posts/2017-12-26-my-favorite-books-of-2017/year_in_books_full.png" title="(image from Goodreads https://www.goodreads.com/user/year_in_books/2017/24729949)" >}}
+{{< figure src="/images/posts/2017-12-26-my-favorite-books-of-2017/year_in_books_full.png" title="" >}}
 
 This year I’ve set a very ambitious goal for me, which is to read fifty books.
 And I almost did it. Never thought it would be possible to even read forty

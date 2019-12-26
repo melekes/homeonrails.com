@@ -6,7 +6,7 @@ tags = ["books"]
 title = "My favorite books of 2018"
 
 +++
-{{< figure src="/images/posts/2019-01-05-my-favorite-books-of-2018/year_in_books_full.png" title="(image from Goodreads https://www.goodreads.com/user/year_in_books/2018/24729949)" >}}
+{{< figure src="/images/posts/2019-01-05-my-favorite-books-of-2018/year_in_books_full.png" title="" >}}
 
 Another year, another goal - read 55 books in 2018. I failed to reach my goal
 of reading 50 books in 2017 and ... dropped the ball this time too. Why set
