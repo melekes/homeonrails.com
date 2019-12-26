@@ -14,13 +14,9 @@ disqusshortname    = "homeonrails"
 
 [Menus]
   main = [
-      {Name = "About me", URL = "/about"},
-      {Name = "Twitter", URL = "https://twitter.com/akaliaev"},
-      {Name = "Github", URL = "https://github.com/melekes"},
-      {Name = "Goodreads", URL = "https://www.goodreads.com/melekes"},
-      {Name = "LinkedIn", URL = "http://www.linkedin.com/in/melekes"},
+      {Name = "About author", URL = "/about"},
       {Name = "Most popular posts", URL = "/most-popular-posts"},
-      {Name = "Slides", URL = "https://speakerdeck.com/melekes"},
+      {Name = "Tags", URL = "/tags"},
   ]
 
 [params]
