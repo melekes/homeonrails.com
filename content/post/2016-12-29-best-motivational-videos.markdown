@@ -6,6 +6,8 @@ tags = []
 title = "Best motivational videos"
 
 +++
+Last updated: Fri, Dec. 27, 2019
+
 Best motivational videos related to life (in general).
 
 <!--more-->
@@ -29,6 +31,10 @@ Best motivational videos related to life (in general).
 * The big Kahuna final monologue
 
 {{< youtube id="xkgbWGBmgN8" >}}
+
+* This Is Water - David Foster Wallace Commencement Speech
+
+{{< youtube id="8CrOL-ydFMI">}}
 
 You may also find interesting [videos, which were not listed
 here](https://gist.github.com/melekes/ac047081e479b4f4aeb6#life), but still
