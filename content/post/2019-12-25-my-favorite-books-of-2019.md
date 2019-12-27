@@ -61,6 +61,8 @@ Here are my top 5 favorite books of 2019:
 You can find all the other books as well as some statistics on
 [Goodreads](https://www.goodreads.com/user/year_in_books/2019/24729949).
 
+---
+
 Previous years:
 
 - [2018](/2019/01/my-favorite-books-of-2018/)
