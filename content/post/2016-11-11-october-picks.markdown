@@ -10,8 +10,6 @@ title = "October Picks"
 
 <!--more-->
 
-{{< tweet 791718192506953728 >}}
-
 ## English
 
 ### Articles
