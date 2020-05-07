@@ -25,7 +25,7 @@ blockchains [(1)][1].
 This design choice has some interesting properties:
 
 - lower resource requirements for full nodes;
-- faster consensus - no need to check/execute transactions + for BFT protocols you only need a simple majority to achieve consensus, rather than ?+;
+- faster consensus - no need to check/execute transactions + for BFT protocols you only need a simple majority to achieve consensus, rather than 2/3+;
 - applications can be written in any language (same can be archived with
   [Tendermint ABCI
   ](https://docs.tendermint.com/master/introduction/what-is-tendermint.html#intro-to-abci));
