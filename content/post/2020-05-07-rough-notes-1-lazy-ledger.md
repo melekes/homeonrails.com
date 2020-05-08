@@ -19,8 +19,8 @@ Sounds intriguing, right? Let's dive in!
 
 Offloading responsibility to a client is not a novel approach and been used in
 client-server architecture for [quite some
-time](https://en.wikipedia.org/wiki/Fat_client). But not in the world of
-blockchains [(1)][1].
+time](https://en.wikipedia.org/wiki/Fat_client). In the world of blockchains,
+the concept again appeared with Mastercoin.
 
 This design choice has some interesting properties:
 
@@ -62,6 +62,11 @@ For light clients, we want to guarantee not only that the headers form a valid
 chain (like in Tendermint), but have the guarantee that corresponding blocks
 are valid too. To solve this, LazyLedger makes use of [erasure coding][2],
 [fraud proofs, and random sampling][3].
+
+What differentiates LazyLedger from earlier approaches ([1][1]) is using data
+availability proofs to prevent clients from having to download everyone else's
+transactions to validate the (data availability) of the chain, thus truly
+offloading responsibility.
 
 A block header contains a Merkle tree root of the erasure coded block data.
 Light clients randomly sample the block parts to ensure data availability.
