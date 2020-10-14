@@ -10,8 +10,6 @@ slug: july-picks
 
 <!--more-->
 
-{{< tweet 622340538969165825 >}}
-
 ## English
 
 ### Articles

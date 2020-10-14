@@ -12,8 +12,6 @@ title = "July Tech Picks"
 
 <!--more-->
 
-{{< tweet 1023027543836745728 >}}
-
 **Articles**
 
 * [My Approach to Getting Dramatically Better as a Programmer](http://malisper.me/my-approach-to-getting-dramatically-better-as-a-programmer/)
