@@ -3,7 +3,7 @@ date = "2020-05-07T15:49:01+04:00"
 draft = false
 slug = "rough-notes-1-lazy-ledger"
 tags = ["roughnotes"]
-title = "Rough notes #1: LazyLedger"
+title = "Rough notes #1: Celestia"
 
 +++
 
@@ -40,7 +40,9 @@ The downsides include:
 
 ---
 
-In LazyLedger, the client ONLY verifies & executes transactions, which are
+June 2021: LazyLedger project is now called Celestia.
+
+In Celestia, the client ONLY verifies & executes transactions, which are
 related to the application it's running. When a client requests transactions,
 it uses the namespace ID (e.g., "cryptokitties") to tell which transactions
 it's interested in. Namespace IDs, therefore, are used as shard keys (virtual
@@ -60,10 +62,10 @@ from Near protocol.
 
 For light clients, we want to guarantee not only that the headers form a valid
 chain (like in Tendermint), but have the guarantee that corresponding blocks
-are valid too. To solve this, LazyLedger makes use of [erasure coding][2],
+are valid too. To solve this, Celestia makes use of [erasure coding][2],
 [fraud proofs, and random sampling][3].
 
-What differentiates LazyLedger from earlier approaches ([1][1]) is using data
+What differentiates Celestia from earlier approaches ([1][1]) is using data
 availability proofs to prevent clients from having to download everyone else's
 transactions to validate the (data availability) of the chain, thus truly
 offloading responsibility.
@@ -77,7 +79,7 @@ While 100% guarantee is possible, in practice probabilistic guarantee is given
 
 > "a block ... divided into 4096 shares, only 15 samples corresponding to 0.4% of the block data needs to be downloaded by a node to achive a 99% guarantee"
 
-> "because all applications in LazyLedger share the same chain, the availability of the data of all their transactions are equally and uniformly guaranteed by the same consensus group, unlike in traditional sidechains where each sidechain may have a different (smaller) consensus group"
+> "because all applications in Celestia share the same chain, the availability of the data of all their transactions are equally and uniformly guaranteed by the same consensus group, unlike in traditional sidechains where each sidechain may have a different (smaller) consensus group"
 
 There's no "Plasma" sharding, just a single chain.
 
@@ -87,7 +89,7 @@ Clients and full nodes form a single p2p network, communicating block parts on d
 
 > "sufficient minimum number of nodes in the network making a sufficient number of sample requests"
 
-LazyLedger has an interesting property: as the number of clients grows, the
+Celestia has an interesting property: as the number of clients grows, the
 security of the network strengthens. More clients => more requests proving
 block availability => better guarantee that block is indeed available. With the
 number of clients increasing, block size can be increased too.
@@ -98,7 +100,7 @@ number of clients increasing, block size can be increased too.
 
 > "We also assume that there is a maximum network delay Y"
 
-LazyLedger assumes a synchronous gossiping network for both liveness and
+Celestia assumes a synchronous gossiping network for both liveness and
 safety.
 
 ## On Security
@@ -118,18 +120,18 @@ EVM), we need a way for applications to signal that a new version is available.
 
 This can be done through some off-chain registry or another application.
 
-The LazyLedger team plans to provide tooling for deployment, so deploying an
+The Celestia team plans to provide tooling for deployment, so deploying an
 application is "easily as deploying a smart contract on eth or spinning
 up a docker container".
 
 ## Future plans
 
-The LazyLedger team plans to use optimistic rollups. Each application will have
+The Celestia team plans to use optimistic rollups. Each application will have
 a state root (along w/ fraud proofs), which will be used by light clients.
 
 ---
 
-To learn more, you can go to [their website](https://lazyledger.io/). Don't
+To learn more, you can go to [their website](https://celestia.org/). Don't
 forget to like this and subscribe.
 
 _Thanks to [Ismail Khoffi](https://twitter.com/KreuzUQuer) and [Mustafa

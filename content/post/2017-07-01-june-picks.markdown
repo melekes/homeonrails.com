@@ -10,8 +10,6 @@ draft = false
 
 <!--more-->
 
-{{< tweet 880277204319457285 >}}
-
 **Articles**
 
 * [You Are Not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
