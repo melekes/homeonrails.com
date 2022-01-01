@@ -93,6 +93,10 @@ Here are my top 5:
   when J.P. Morgan is doing HFT it is okay, but when one of the employees quits
   and creates his own company to do the same - it's bad).
 
+Books that didn't make it into top 5, but still worth mentioning: [Дневник
+Реалиста by Илья Волочков](https://www.goodreads.com/book/show/57486598). I'd
+recommend it if you're in your early twenties.
+
 You can find all the other books as well as some statistics on
 [Goodreads](https://www.goodreads.com/user/year_in_books/2021/24729949).
 
