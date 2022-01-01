@@ -57,8 +57,8 @@ Here are my top 5:
   This is a complex topic and Bill does a great job of structuring the
   available data and paths to move forward.
 
-  Unfortunately little one can do on individual level. Related video from
-  Kurzgesagt:
+  Unfortunately there's little you can do on the individual level. Related
+  video from Kurzgesagt:
 
   {{< youtube id="yiw6_JakZFc" >}}
 
@@ -88,10 +88,10 @@ Here are my top 5:
   ways that Wall Street generates profits. If you have any contact with the
   market, even a retirement account, this story is happening to you."
 
-  Felt sorry when FBI have arrested Sergey Aleynikov. Not because he was a
+  Felt sorry when the FBI has arrested Sergey Aleynikov. Not because he was a
   software developer like me, but rather the accusations, which seem absurd (so
   when J.P. Morgan is doing HFT it is okay, but when one of the employees quits
-  and creates his own company to do the same - it's bad).
+  and creates his own company to do the same - it�s bad).
 
 Books that didn't make it into top 5, but still worth mentioning: [Дневник
 Реалиста by Илья Волочков](https://www.goodreads.com/book/show/57486598). I'd
