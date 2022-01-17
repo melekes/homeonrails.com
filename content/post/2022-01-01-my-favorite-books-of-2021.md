@@ -39,7 +39,7 @@ Here are my top 5:
   Polyana](https://en.wikipedia.org/wiki/Yasnaya_Polyana) last year. Saw the
   house he was born in, his garden and ... even his grave. Loved the forest and
   apple trees. Small fact: there are so many apple trees, every year the museum
-  staff has to look for volunteers to help them gather the crops.
+  staff has to look for volunteers to help them gather the crop.
 
   {{< figure src="https://homeonrails.s3.eu-north-1.amazonaws.com/assets/images/2022-01-01-my-favorite-books-of-2021/IMG_1502.jpeg" title="" >}}
   {{< figure src="https://homeonrails.s3.eu-north-1.amazonaws.com/assets/images/2022-01-01-my-favorite-books-of-2021/IMG_1509.jpeg" title="" >}}
