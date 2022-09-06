@@ -45,7 +45,7 @@ state-transition logic in smart contracts to bridge to other ecosystems [1, 7].
 They suffer from multiple scalability issues, do not allow the ecosystem to
 scale uniformly, and introduce additional dependencies for applications").
 
-> Why just not use IBC?
+> Why not just use IBC?
 
 There's a claim that IBC requires Tendermint consensus, which is false. Any
 consensus with finality is supported. IBC does require in-protocol light

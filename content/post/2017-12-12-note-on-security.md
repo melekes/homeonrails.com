@@ -113,8 +113,6 @@ c ScriptSafe, отключенным Javascript и Cookies.
 
 [Yubikey](https://www.yubico.com/) или [OnlyKey](https://crp.to)
 
-{{< youtube id="r8tHr3p14BU" >}}
-
 ## Password manager
 
 [KeePassX](https://www.keepassx.org/)  или [1Password](https://1password.com/)

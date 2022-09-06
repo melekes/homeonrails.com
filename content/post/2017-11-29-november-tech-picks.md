@@ -10,8 +10,6 @@ draft = false
 
 <!--more-->
 
-{{< tweet 924549293217808384 >}}
-
 * [Take It to the Limit: Considerations for Building Reliable Systems](http://bravenewgeek.com/take-it-to-the-limit-considerations-for-building-reliable-systems/)
   Read it if you want to know why it's better to be explicit and set limits like queue max size, max msg size, etc. upfront.
 
@@ -45,4 +43,3 @@ Nice talk about cryptoeconomics questions.
   it." But this might be an interesting read for non-blockchain folks.
 
 {{< youtube id="2GwN3vc_9ic" >}}
-

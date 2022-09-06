@@ -10,12 +10,6 @@ title = "October Tech Picks"
 +++
 "Excellent hand-picked articles & videos about programming from all over the Internet".
 
-{{< tweet 1058384359844204544 >}}
-
-{{< tweet 1058384638362771462 >}}
-
-{{< tweet 1058387780563333120 >}}
-
 <!--more-->
 
 **Articles**
