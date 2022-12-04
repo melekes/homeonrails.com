@@ -10,8 +10,6 @@ draft = false
 
 <!--more-->
 
-{{< tweet 939390429551788032 >}}
-
 **Articles**
 
 * [Never edit a method, always rewrite it](https://dave.cheney.net/2017/11/30/never-edit-a-method-always-rewrite-it)

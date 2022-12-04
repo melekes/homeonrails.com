@@ -14,7 +14,9 @@ disqusshortname    = "homeonrails"
 
 [Menus]
   main = [
-      {Name = "About author", URL = "/about"},
+      {Name = "About me", URL = "/about"},
+      {Name = "Favorite books", URL = "/favorite-books"},
+      {Name = "One month in some country", URL = "/one-month-country"},
       {Name = "Most popular posts", URL = "/most-popular-posts"},
       {Name = "Tags", URL = "/tags"},
   ]
