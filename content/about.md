@@ -17,7 +17,7 @@ Hi! My name is Anton.
 My open source work is available on [GitHub](https://github.com/melekes/), my
 talks are on [Speaker Deck](https://speakerdeck.com/melekes), my work history
 is on [LinkedIn](http://www.linkedin.com/in/melekes), and my thoughts are
-on [Twitter](https://twitter.com/akaliaev).
+on [Twitter](https://twitter.com/homeonrails).
 
 {{< figure src="/images/me.jpg" >}}
 

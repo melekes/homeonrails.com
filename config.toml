@@ -33,7 +33,7 @@ disqusshortname    = "homeonrails"
   logo                  = "images/logo.png"
   hjsStyle              = "solarized-dark"
   githubName            = "melekes"
-  twitterName           = "akaliaev"
+  twitterName           = "homeonrails"
   customHeaderPartial   = "header.include.html"
   themeColor            = "theme-base-0d"
 
