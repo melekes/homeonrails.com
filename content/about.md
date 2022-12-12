@@ -17,7 +17,12 @@ Hi! My name is Anton.
 My open source work is available on [GitHub](https://github.com/melekes/), my
 talks are on [Speaker Deck](https://speakerdeck.com/melekes), my work history
 is on [LinkedIn](http://www.linkedin.com/in/melekes), and my thoughts are
-on [Twitter](https://twitter.com/homeonrails).
+on [Twitter](https://twitter.com/_melekes).
+
+My photos are on [Instagram](http://instagram.com/_melekes).
+
+Also, there's a small [Telegram channel (RU)](https://t.me/homeonrails) where I talk about crypto, tech
+and investing.
 
 {{< figure src="/images/me.jpg" >}}
 
