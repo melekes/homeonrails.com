@@ -228,7 +228,7 @@ Now we've got the actual number of the company's offices. Therefore, we will get
 
 Hopefully, in Rails 3 we are now able to write our own custom validators, so I've added [one more for this case](/2012/10/associationcountvalidator).
 
-If you know a better solution, don't hesitate to [contact me](/about.html) or simply leave a comment below.
+If you know a better solution, don't hesitate to [contact me](/about) or simply leave a comment below.
 
 ### Validating presence of the parent object
 

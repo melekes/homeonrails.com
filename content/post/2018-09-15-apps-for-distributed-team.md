@@ -64,4 +64,4 @@ docs will be stored. The final choice is up to you of course.
 
 
 Do you have something to add? You can leave a comment here or reach out to me
-via [almost any social network](/about.html).
+via [almost any social network](/about).
