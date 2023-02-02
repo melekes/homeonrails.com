@@ -18,6 +18,7 @@ disqusshortname    = "homeonrails"
       {Name = "Favorite books", URL = "/favorite-books"},
       {Name = "One month in some country", URL = "/one-month-country"},
       {Name = "Most popular posts", URL = "/most-popular-posts"},
+      {Name = "Consulting / Консультации", URL = "/consulting"},
       {Name = "Tags", URL = "/tags"},
   ]
 
