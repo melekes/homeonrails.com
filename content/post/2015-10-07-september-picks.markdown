@@ -10,8 +10,6 @@ slug: september-picks
 
 <!--more-->
 
-{{< tweet 645610733196189696 >}}
-
 ## English
 
 ### Articles
