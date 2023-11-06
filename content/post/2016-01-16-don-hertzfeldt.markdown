@@ -47,4 +47,4 @@ dark humor while showing us a life of the main character.
 - I am so proud of you (2008) [Vk.com](https://vk.com/video95790960_154781825)
 - It's such a beautiful day (2011) [Vk.com](https://vk.com/video17134977_170506076) [Vimeo](https://vimeo.com/ondemand/itssuchabeautifulday)
 
-Also, you should definitely watch his last animation movie - World of Tomorrow, which I've mentioned [here](http://homeonrails.com/2016/01/monthly-art-number-5/).
+Also, you should definitely watch his last animation movie - World of Tomorrow, which I've mentioned [here](/2016/01/monthly-art-number-5/).

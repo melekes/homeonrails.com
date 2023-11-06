@@ -10,7 +10,7 @@ date = "2017-07-30T11:48:01-05:00"
 +++
 
 On the contrary to [Indian
-movies](http://homeonrails.com/2017/06/indian-movies-weekend/), Brazilian
+movies](/2017/06/indian-movies-weekend/), Brazilian
 movies are full of pain, struggle, and tears. These movies deeply reflect the
 history of their country, uncovering all the problems which exist even upon
 today. They were recommended to me by an architect from Brazil I've met in

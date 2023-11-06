@@ -1,13 +1,13 @@
 languageCode = "en-us"
 
-baseURL             = "https://www.homeonrails.com/"
+baseURL             = "https://www.melekes.me/"
 copyright           = "All rights reserved"
 paginate            = 10
 pluralizeListTitles = false
 theme               = "hyde"
-title               = "Home on Rails"
+title               = "melekes.me"
 canonifyurls        = true
-disqusshortname    = "homeonrails"
+disqusshortname    = "melekes"
 
 [permalinks]
   post = "/:year/:month/:slug/"
@@ -25,7 +25,7 @@ disqusshortname    = "homeonrails"
 [params]
   author                = "Anton Kaliaev"
   authorlocation        = ""
-  authorwebsite         = "https://www.homeonrails.com"
+  authorwebsite         = "https://www.melekes.me"
   bio                   = "Software engineer, blogger, public speaker, traveler"
   cover                 = "images/cover.png"
   description           = "Success is not final, failure is not fatal: it is the courage to continue that counts. Winston Churchill"

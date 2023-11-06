@@ -35,9 +35,9 @@ A collection of advices from people like Jeff Bezos, Seth Godin, etc.
 
 If you don't want to read the papers Joe mentions in his talk, here are the
 excerpts: [The Emperor’s Old Clothes by C.A.R. Hoare
-(1981)](http://homeonrails.com/2018/03/4-quotes-from-the-emperors-old-clothes-by-c-a-r-hoare-1981/)
+(1981)](/2018/03/4-quotes-from-the-emperors-old-clothes-by-c-a-r-hoare-1981/)
 and [A Plea for Lean Software by Niklaus Wirth
-(1995)](http://homeonrails.com/2018/03/a-plea-for-lean-software-niklaus-wirth-1995/)
+(1995)](/2018/03/a-plea-for-lean-software-niklaus-wirth-1995/)
 
 * [What Every Programmer has to know about Database Storage by Alex Petrov](https://www.youtube.com/watch?v=e1wbQPbFZdk)
 

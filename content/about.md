@@ -21,7 +21,7 @@ on [Twitter](https://twitter.com/_melekes).
 
 My photos are on [Instagram](http://instagram.com/_melekes).
 
-Also, there's a small [Telegram channel (RU)](https://t.me/homeonrails) where I talk about crypto, tech
+Also, there's a small [Telegram channel (RU)](https://t.me/tozemoon_pod) where I talk about crypto, tech
 and investing.
 
 {{< figure src="/images/me.jpg" >}}
@@ -52,5 +52,4 @@ a crypto startup called [Tendermint](https://tendermint.com/).
 
 > Quoting @dystopiabreaker on Twitter: "i am primarily interested in crypto as a technology which can use cryptography and distributed systems to give individuals and communities more autonomy and to make more resilient, secure, verifiable, and interoperable financial rails"
 
-Currently, I work at [Parity Technologies](https://www.parity.io/) on
-[Polkadot](https://polkadot.network/) / [Substrate](https://substrate.io/).
+Currently, I work at [Informal Systems](https://informal.systems/) as an Ecosystem Team Lead.

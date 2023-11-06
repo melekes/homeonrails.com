@@ -1,4 +1,4 @@
-APP = homeonrails
+APP = melekes
 
 default: build
 

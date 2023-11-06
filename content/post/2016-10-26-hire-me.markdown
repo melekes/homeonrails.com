@@ -6,7 +6,7 @@ tags = []
 title = "Hire me"
 
 +++
-For the past two years, I've been working full time at FunBox as an **Erlang developer**. I've learned so much during that time - the Erlang language itself and the tooling (observer, recon and [others](http://homeonrails.com/2016/05/profiling-in-erlang/)), Hadoop, HDFS and even some team management skills (thanks to @gumayunov).
+For the past two years, I've been working full time at FunBox as an **Erlang developer**. I've learned so much during that time - the Erlang language itself and the tooling (observer, recon and [others](/2016/05/profiling-in-erlang/)), Hadoop, HDFS and even some team management skills (thanks to @gumayunov).
 
 I am grateful for the opportunity that FunBox has given me. But once a while you need to move on and I did. So I'm looking for a new job.
 
